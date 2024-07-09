@@ -34,18 +34,12 @@ For academic collaborations or inquiries, please feel free to reach out to me at
 # 📝 Publications 
 
 - ``IJCAI 2024`` [From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News](https://arxiv.org/abs/2403.09498), **Yuhan Liu**, Xiuying Chen, Xiaoqing Zhang, Xing Gao, Ji Zhang, Rui Yan
-
 - ``COLING 2024`` IAD: In-Context Learning Ability Decoupler of Large Language Models in Meta-Training, **Yuhan Liu\***, Xiuying Chen*, Xing Gao, Ji Zhang, Rui Yan
-
 - ``The Web Confernce 2024`` Bridging the Space Gap: Unifying Geometry Knowledge Graph Embedding with Optimal Transport, **Yuhan Liu**, et al.
-
 - ``CCL 2023`` Unleashing the power of large models: Exploring human-machine conversations, **Yuhan Liu\***, Xiuying Chen*, Rui Yan
-
 - ``arxiv`` LLM-Driven Agents for Influencer Selection in Digital Advertising Campaigns, Xiaoqing Zhang, Xiuying Chen, **Yuhan Liu**, et al.
-
 - ``Applied Mathematics and Computation`` A quasi fractional order gradient descent method with adaptive stepsize and its
 application in system identification, Jianjun Liu, **Yuhan Liu**, et al.
-
 - ``Information sciences`` Clustering based on grid and local density with priority-based expansion for multi-density data, Jianjun Liu, **Yuhan Liu**, et al.
 
 # 🎖 Honors and Awards
@@ -57,7 +51,7 @@ application in system identification, Jianjun Liu, **Yuhan Liu**, et al.
 # 💬 Services
 - *2024*, Program Committee, ACL, EMNLP, ACM MM, ARR
 - *2023*, Program Committee, AAAI, ECAI, WWW, Financial innovation
-- *2021*, Program Committee, Information sciences
+- *2021*, Reviewer, Information sciences
 
 # 💻 Internships and Work
 - *2022.09 - Now*, Alibaba Damo Academy, Beijing.
