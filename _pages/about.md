@@ -33,7 +33,7 @@ For academic collaborations or inquiries, please feel free to reach out to me at
 
 # 📝 Publications 
 
-- ``IJCAI 2024`` From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News, **Yuhan Liu**, Xiuying Chen, Xiaoqing Zhang, Xing Gao, Ji Zhang, Rui Yan
+- ``IJCAI 2024`` [From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News](https://arxiv.org/abs/2403.09498), **Yuhan Liu**, Xiuying Chen, Xiaoqing Zhang, Xing Gao, Ji Zhang, Rui Yan
 
 - ``COLING 2024`` IAD: In-Context Learning Ability Decoupler of Large Language Models in Meta-Training, **Yuhan Liu\***, Xiuying Chen*, Xing Gao, Ji Zhang, Rui Yan
 
@@ -55,7 +55,7 @@ application in system identification, Jianjun Liu, **Yuhan Liu**, et al.
 - *2015-2016* National Scholarship 
 
 # 💬 Services
-- *2024*, Program Committee, ACL, EMNLP, ACM MM, ARR，
+- *2024*, Program Committee, ACL, EMNLP, ACM MM, ARR
 - *2023*, Program Committee, AAAI, ECAI, WWW, Financial innovation
 - *2021*, Program Committee, Information sciences
 
