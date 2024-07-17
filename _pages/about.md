@@ -24,12 +24,12 @@ For academic collaborations or inquiries, please feel free to reach out to me at
 
 # 🔥 News
 - *2024.06*: &nbsp;🎉 Invited to serve as a Reviewer for EMNLP 2024
-- *2024.05*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2024 
+- *2024.05*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2024 (Jeju, South Korea)
 - *2024.04*: &nbsp;🎉 Invited to serve as a Reviewer for ACM MM 2024
 - *2024.03*: &nbsp;🎉 Invited to serve as a Reviewer for ACL 2024
-- *2024.02*: &nbsp;🎉🎉 One paper is accepted by COLING 2024
+- *2024.02*: &nbsp;🎉🎉 One paper is accepted by COLING 2024 (Turin, Italy)
 - *2024.02*: &nbsp;🎉 Selected as a delegate for the RUC-Yale "Artificial Intelligence, Emerging Technologies" International Forum.
-- *2024.01*: &nbsp;🎉🎉 One paper is accepted by The Web Conference 2024
+- *2024.01*: &nbsp;🎉🎉 One paper is accepted by The Web Conference 2024 (Singapore)
 
 # 📝 Publications 
 
