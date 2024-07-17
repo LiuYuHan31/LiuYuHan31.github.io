@@ -46,7 +46,6 @@ application in system identification, Jianjun Liu, **Yuhan Liu**, et al.
 - *2022,2023* Merit Student, RUC
 - *2017,2020* Outstanding Graduate, Beijing
 - *2019-2020* National Scholarship
-- *2015-2016* National Scholarship 
 
 # 💬 Services
 - *2024*, Program Committee, ACL, EMNLP, ACM MM, ARR
