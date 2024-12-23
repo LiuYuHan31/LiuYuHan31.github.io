@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hello! I'm Yuhan Liu, a Ph.D. candidate in Artificial Intelligence at <a href="http://ai.ruc.edu.cn"> Gaoling School of Artificial Intelligence</a>, Renmin University of China, where I have been studying since 2021 under the supervision of Prof. <a href="http://ai.ruc.edu.cn/english/GSAI_FACULTY/28026f7425324f61991c70d279372d13.htm">Rui Yan</a>. Prior to joining RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing), where I was mentored by Prof. Jianjun Liu and Prof. Zhu Wang, respectively. I also completed a minor in English Speech and Debate at CUPB, under the guidance of Prof. Jie Lian.
 
-<span style="color: #c00000;">**I am in the 2025 Fall job market and actively seeking postdoctoral and faculty opportunities. Feel free to reach out to me at yuhan.liu@ruc.edu.cn !**</span>
+<span style="color: #c00000;">**I am in the 2025 Fall job market and actively seeking postdoctoral and faculty opportunities. Feel free to reach out to me at</span> yuhan.liu@ruc.edu.cn <span style="color: #c00000;">!</span> **
 
 # ❤️ Research Interest
 My research interests include **_LLMs and their application in Governance_**, focusing on:
@@ -48,12 +48,12 @@ My contributions have been recognized in several top-tier international AI confe
 # 📝 Publications 
 
 - ``IJCAI 2024`` [From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News](https://arxiv.org/abs/2403.09498), **Yuhan Liu**, Xiuying Chen, Xiaoqing Zhang, Xing Gao, Ji Zhang, Rui Yan
-- ``arxiv`` [From a Tiny Slip to a Giant Leap: An LLM-Based Simulation for Fake News Evolution](https://arxiv.org/abs/2410.19064), **Yuhan Liu**, Zirui Song, Xiaoqing Zhang, Xiuying Chen, Rui Yan
+- ``Arxiv`` [From a Tiny Slip to a Giant Leap: An LLM-Based Simulation for Fake News Evolution](https://arxiv.org/abs/2410.19064), **Yuhan Liu**, Zirui Song, Xiaoqing Zhang, Xiuying Chen, Rui Yan
 - ``COLING 2024`` IAD: In-Context Learning Ability Decoupler of Large Language Models in Meta-Training, **Yuhan Liu**, Xiuying Chen, Xing Gao, Ji Zhang, Rui Yan
 - ``The Web Confernce 2024`` Bridging the Space Gap: Unifying Geometry Knowledge Graph Embedding with Optimal Transport, **Yuhan Liu**, et al.
 - ``CCL 2023`` Unleashing the power of large models: Exploring human-machine conversations, **Yuhan Liu**, Xiuying Chen, Rui Yan
-- ``arxiv`` LLM-Driven Agents for Influencer Selection in Digital Advertising Campaigns, Xiaoqing Zhang, Xiuying Chen, **Yuhan Liu**, et al.
-- ``arxiv`` A large-scale time-aware agents simulation for influencer selection in digital advertising campaigns, Xiaoqing Zhang, Xiuying Chen, **Yuhan Liu**, et al.
+- ``Arxiv`` LLM-Driven Agents for Influencer Selection in Digital Advertising Campaigns, Xiaoqing Zhang, Xiuying Chen, **Yuhan Liu**, et al.
+- ``Arxiv`` A large-scale time-aware agents simulation for influencer selection in digital advertising campaigns, Xiaoqing Zhang, Xiuying Chen, **Yuhan Liu**, et al.
 - ``Applied Mathematics and Computation`` A quasi fractional order gradient descent method with adaptive stepsize and its
 application in system identification, Jianjun Liu, **Yuhan Liu**, et al.
 - ``Information sciences`` Clustering based on grid and local density with priority-based expansion for multi-density data, Jianjun Liu, **Yuhan Liu**, et al.
