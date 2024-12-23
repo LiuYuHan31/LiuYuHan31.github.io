@@ -16,15 +16,21 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hello! I'm Yuhan Liu, currently pursuing my Ph.D. in Artificial Intelligence at <a href="http://ai.ruc.edu.cn"> Gaoling School of Artificial Intelligence</a>, Renmin University of China, where I embarked on my journey in 2021 under the guidance of Prof. <a href="http://ai.ruc.edu.cn/english/GSAI_FACULTY/28026f7425324f61991c70d279372d13.htm">Rui Yan</a>. Before joining RUC, I got my M.S degree in Mathematics and B.S degree in Automation, both from China University of Petroleum (Beijing), under the supervision of Professors Jianjun Liu and Zhu Wang, respectively. Additionally, I obtained my minor degree in English Speech and Debate from CUPB, supervised by Prof. Jie Lian.
+Hello! I'm Yuhan Liu, a Ph.D. candidate in Artificial Intelligence at <a href="http://ai.ruc.edu.cn"> Gaoling School of Artificial Intelligence</a>, Renmin University of China, where I have been studying since 2021 under the supervision of Prof. <a href="http://ai.ruc.edu.cn/english/GSAI_FACULTY/28026f7425324f61991c70d279372d13.htm">Rui Yan</a>. Prior to joining RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing), where I was mentored by Prof. Jianjun Liu and Prof. Zhu Wang, respectively. I also completed a minor in English Speech and Debate at CUPB, under the guidance of Prof. Jie Lian.
 
-My research interests span natural language processing and computational social science, with a focus on Human-centered NLP. I am particularly fascinated by the exploration of large language models' (LLMs) capabilities and their practical applications within the social sciences. My work primarily involves utilizing LLMs as agents in fields such as fake news propagation, financial market trading, and beyond. I am also deeply involved in studying in-context learning and knowledge enhancement in LLMs. Moreover, I am passionate about leveraging NLP for societal benefits, including the use of LLMs in sectors like advertising, recommendation systems, and fintech. Another area of my interest includes addressing continual learning challenges within LLMs. My contributions have been recognized in several top-tier international AI conferences.
+**I am in the 2025 Fall job market and actively seeking postdoctoral and faculty opportunities. Feel free to reach out to me!**
 
-For academic collaborations or inquiries, please feel free to reach out to me at yuhan.liu@ruc.edu.cn.
+My research interests include LLMs and their application in Governance, with a particular focus on Fake News, Multi-Agent Systems for Social Science, and issues related to LLMs, including Hallucination, Hate Speech, and Bias. I am particularly interested in exploring the capabilities of LLMs and their practical applications in these domains. My work primarily involves utilizing LLMs to address challenges in areas such as fake news propagation and their role in social systems. Additionally, I am passionate about leveraging LLMs for societal benefits, particularly in sectors like advertising, recommendation systems, and healthcare. Another area of my research is aligning LLMs agents with social behavior, ensuring that these models act in ways that are consistent with societal norms and values. I am also addressing the challenges of continual learning within LLMs, ensuring their ability to adapt and improve over time. My contributions have been recognized in several top-tier international AI conferences.
+
+For academic collaborations or inquiries, please feel free to reach out to me at yuhan.liu@ruc.edu.cn. 
 
 # 🔥 News
+- *2024.08*: &nbsp;🎉 Attending IJCAI 2024 in South Korea—looking forward to connecting!
+- *2024.07*: &nbsp;🎉 Invited to serve as a <span style="color:red">Session Chair</span> for IJCAI 2024 NLP Track (Jeju, South Korea)
 - *2024.06*: &nbsp;🎉 Invited to serve as a Reviewer for EMNLP 2024
-- *2024.05*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2024 (Jeju, South Korea)
+- *2024.05*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2024 <span style="color:red">Oral</span> (Jeju, South Korea)!
+- *2024.05*: &nbsp;🎉 Attending COLING 2024 in Italy—looking forward to connecting!
+- *2024.05*: &nbsp;🎉 Attending WWW 2024 in Singapore—looking forward to connecting!
 - *2024.04*: &nbsp;🎉 Invited to serve as a Reviewer for ACM MM 2024
 - *2024.03*: &nbsp;🎉 Invited to serve as a Reviewer for ACL 2024
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by COLING 2024 (Turin, Italy)
@@ -34,10 +40,12 @@ For academic collaborations or inquiries, please feel free to reach out to me at
 # 📝 Publications 
 
 - ``IJCAI 2024`` [From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News](https://arxiv.org/abs/2403.09498), **Yuhan Liu**, Xiuying Chen, Xiaoqing Zhang, Xing Gao, Ji Zhang, Rui Yan
+- ``arxiv`` From a Tiny Slip to a Giant Leap: An LLM-Based Simulation for Fake News Evolution, **Yuhan Liu**, Zirui Song, Xiaoqing Zhang, Xiuying Chen, Rui Yan
 - ``COLING 2024`` IAD: In-Context Learning Ability Decoupler of Large Language Models in Meta-Training, **Yuhan Liu**, Xiuying Chen, Xing Gao, Ji Zhang, Rui Yan
 - ``The Web Confernce 2024`` Bridging the Space Gap: Unifying Geometry Knowledge Graph Embedding with Optimal Transport, **Yuhan Liu**, et al.
 - ``CCL 2023`` Unleashing the power of large models: Exploring human-machine conversations, **Yuhan Liu**, Xiuying Chen, Rui Yan
 - ``arxiv`` LLM-Driven Agents for Influencer Selection in Digital Advertising Campaigns, Xiaoqing Zhang, Xiuying Chen, **Yuhan Liu**, et al.
+- ``arxiv`` A large-scale time-aware agents simulation for influencer selection in digital advertising campaigns, Xiaoqing Zhang, Xiuying Chen, **Yuhan Liu**, et al.
 - ``Applied Mathematics and Computation`` A quasi fractional order gradient descent method with adaptive stepsize and its
 application in system identification, Jianjun Liu, **Yuhan Liu**, et al.
 - ``Information sciences`` Clustering based on grid and local density with priority-based expansion for multi-density data, Jianjun Liu, **Yuhan Liu**, et al.
@@ -47,13 +55,14 @@ application in system identification, Jianjun Liu, **Yuhan Liu**, et al.
 - *2017,2020* Outstanding Graduate, Beijing
 - *2019-2020* National Scholarship
 
-# 💬 Services
-- *2024*, Program Committee, ACL, EMNLP, ACM MM, ARR
-- *2023*, Program Committee, AAAI, ECAI, WWW, Financial innovation
-- *2021*, Reviewer, Information sciences
+# 💬 Academic Services
+- **Session Chair**, IJCAI 2024 NLP Track (Jeju, Republic of Korea)
+- Reviewer for ACL, EMNLP, ICLR, WWW, ACL Rolling Review, ECAI
+- Program Committee Member, AAAI, IJCAI
+- Reviewer for *Information Sciences*, *Financial Innovation*
 
 # 💻 Internships and Work
-- *2022.09 - Now*, Alibaba Damo Academy, Beijing.
+- *2022.09 - 2024.11*, Alibaba Damo Academy, Beijing.
 - *2020.07 - 2021.08*, Xiaomi Tech, Beijing.
 - *2019.06 - 2019.09*, Innovation Works, Beijing.
 - *2019.03 - 2019.06*, Lenovo Corporate Research, Beijing.
