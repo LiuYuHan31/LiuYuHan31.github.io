@@ -76,7 +76,7 @@ application in system identification, Jianjun Liu, **Yuhan Liu**, et al.
 # 💻 Internships and Work
 - *2022.09 - 2024.11*, Alibaba Damo Academy, Beijing.
 - *2020.07 - 2021.08*, Xiaomi Tech, Beijing.
-- *2019.06 - 2019.09*, Innovation Works, Beijing.
+- *2019.06 - 2019.09*, Sinovation Ventures, Beijing.
 - *2019.03 - 2019.06*, Lenovo Corporate Research, Beijing.
 - *2018.05 - 2018.09*, Tencent WeChat, Beijing.
 
