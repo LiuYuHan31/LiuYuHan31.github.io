@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hello! I'm Yuhan Liu, a Ph.D. candidate in Artificial Intelligence at <a href="http://ai.ruc.edu.cn"> Gaoling School of Artificial Intelligence</a>, Renmin University of China, where I have been studying since 2021 under the supervision of Prof. <a href="http://ai.ruc.edu.cn/english/GSAI_FACULTY/28026f7425324f61991c70d279372d13.htm">Rui Yan</a>. Prior to joining RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing), where I was mentored by Prof. Jianjun Liu, respectively. I also completed a minor in English Speech and Debate at CUPB, under the guidance of Prof. Jie Lian.
 
-<span style="color: #c00000;">**I am in the 2025 Fall job market and actively seeking postdoctoral and faculty opportunities. Feel free to reach out to me at</span> yuhan.liu@ruc.edu.cn !**
+**<span style="color: #c00000;">I am in the 2025 Fall job market and actively seeking postdoctoral and faculty opportunities. Feel free to reach out to me at</span> yuhan.liu@ruc.edu.cn !**
 
 # ❤️ Research Interest
 My research interests include **_LLMs and their application in Governance_**, focusing on:
