@@ -31,7 +31,7 @@ My research interests include **_LLMs and their application in Governance_**, fo
 My contributions have been recognized in several top-tier international AI conferences.
 
 # 🔥 News
-- *2024.12*: &nbsp;🎉🎉 We won the Gold Medal in the Tencent Multi-Agent Application Competition (Rank 1/210)! Congratulations to Xuyan!
+- *2024.12*: &nbsp;🎉🎉 We won the Gold Medal in the Tencent Multi-Agent Application Competition (Rank 1/210)! Congratulations to my friend Xuyan!
 - *2024.10*: &nbsp;🎉 Invited to serve as a Reviewer for WWW 2025 and ICLR 2025.
 - *2024.08*: &nbsp;🎉 Attending IJCAI 2024 in South Korea—looking forward to connecting!
 - *2024.07*: &nbsp;🎉 Invited to serve as a <span style="color:red">Session Chair</span> for IJCAI 2024 NLP Track (Jeju, South Korea)
@@ -58,7 +58,8 @@ My contributions have been recognized in several top-tier international AI confe
 application in system identification, Jianjun Liu, **Yuhan Liu**, et al.
 - ``Information sciences`` Clustering based on grid and local density with priority-based expansion for multi-density data, Jianjun Liu, **Yuhan Liu**, et al.
 
-# 🎖 Honors and Awards
+# 🏅 Honors and Awards
+- *2024* "Qiushi Academic-Dongliang" Academic Project Funding, RUC
 - *2022,2023* Merit Student, RUC
 - *2017,2020* Outstanding Graduate, Beijing
 - *2019-2020* National Scholarship
@@ -86,3 +87,13 @@ application in system identification, Jianjun Liu, **Yuhan Liu**, et al.
 - *2019 Fall, 2017 Fall*, Stochastic Process
 - *2018 Fall*, Advanced Algebra
 - *2018 Spring*, Advanced Mathematics
+
+# 😃 Best Friends
+Thanks to my best friends! Your help and encouragement are my greatest motivation, and I look forward to creating a better future with all of you!
+- <a href="https://iriscxy.github.io/">Xiuying Chen</a>, Assistant Professor at MBZUAI
+- <a href="https://wuyichen-97.github.io/">Yichen Wu</a>, Ph.D. candidate at City University of Hong Kong and visiting at Harvard
+- Bowen Li, Ph.D. candidate at Tsinghua University and visiting at University of Twente
+- <a href="https://trestad.github.io/">Ang Lv</a>, Ph.D. candidate at Renmin University of China
+- Juntian Zhang, Master's student at Renmin University of China
+- Yining Sun, Ph.D. at Technische Universität Berlin
+
