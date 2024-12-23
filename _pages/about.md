@@ -18,17 +18,25 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hello! I'm Yuhan Liu, a Ph.D. candidate in Artificial Intelligence at <a href="http://ai.ruc.edu.cn"> Gaoling School of Artificial Intelligence</a>, Renmin University of China, where I have been studying since 2021 under the supervision of Prof. <a href="http://ai.ruc.edu.cn/english/GSAI_FACULTY/28026f7425324f61991c70d279372d13.htm">Rui Yan</a>. Prior to joining RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing), where I was mentored by Prof. Jianjun Liu and Prof. Zhu Wang, respectively. I also completed a minor in English Speech and Debate at CUPB, under the guidance of Prof. Jie Lian.
 
-**I am in the 2025 Fall job market and actively seeking postdoctoral and faculty opportunities. Feel free to reach out to me!**
+<span style="color: #c00000;">**I am in the 2025 Fall job market and actively seeking postdoctoral and faculty opportunities. Feel free to reach out to me at yuhan.liu@ruc.edu.cn !**</span>
 
-My research interests include LLMs and their application in Governance, with a particular focus on Fake News, Multi-Agent Systems for Social Science, and issues related to LLMs, including Hallucination, Hate Speech, and Bias. I am particularly interested in exploring the capabilities of LLMs and their practical applications in these domains. My work primarily involves utilizing LLMs to address challenges in areas such as fake news propagation and their role in social systems. Additionally, I am passionate about leveraging LLMs for societal benefits, particularly in sectors like advertising, recommendation systems, and healthcare. Another area of my research is aligning LLMs agents with social behavior, ensuring that these models act in ways that are consistent with societal norms and values. I am also addressing the challenges of continual learning within LLMs, ensuring their ability to adapt and improve over time. My contributions have been recognized in several top-tier international AI conferences.
+# ❤️ Research Interest
+My research interests include **_LLMs and their application in Governance_**, focusing on:
 
-For academic collaborations or inquiries, please feel free to reach out to me at yuhan.liu@ruc.edu.cn. 
+* **Fake News and Social Systems**: Investigating the use of LLMs in addressing the propagation of fake news and their role in social dynamics.
+* **LLM-related Challenges**: Exploring issues such as Hallucination, Hate Speech, Bias, and the alignment of LLM agents with societal norms and values.
+* **Societal Impact**: Leveraging LLMs in sectors like healthcare, advertising, and recommendation systems for societal benefit.
+* **Continual Learning**: Addressing the challenges of continual learning in LLMs to ensure they can adapt and improve over time.
+
+My contributions have been recognized in several top-tier international AI conferences.
 
 # 🔥 News
+- *2024.12*: &nbsp;🎉🎉 We won the Gold Medal in the Tencent Multi-Agent Application Competition (Rank 1/210)! Congratulations to Xuyan!
+- *2024.10*: &nbsp;🎉 Invited to serve as a Reviewer for WWW 2025 and ICLR 2025.
 - *2024.08*: &nbsp;🎉 Attending IJCAI 2024 in South Korea—looking forward to connecting!
 - *2024.07*: &nbsp;🎉 Invited to serve as a <span style="color:red">Session Chair</span> for IJCAI 2024 NLP Track (Jeju, South Korea)
 - *2024.06*: &nbsp;🎉 Invited to serve as a Reviewer for EMNLP 2024
-- *2024.05*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2024 <span style="color:red">Oral</span> (Jeju, South Korea)!
+- *2024.05*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2024 (<span style="color:red">Oral</span>) (Jeju, South Korea)!
 - *2024.05*: &nbsp;🎉 Attending COLING 2024 in Italy—looking forward to connecting!
 - *2024.05*: &nbsp;🎉 Attending WWW 2024 in Singapore—looking forward to connecting!
 - *2024.04*: &nbsp;🎉 Invited to serve as a Reviewer for ACM MM 2024
@@ -40,7 +48,7 @@ For academic collaborations or inquiries, please feel free to reach out to me at
 # 📝 Publications 
 
 - ``IJCAI 2024`` [From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News](https://arxiv.org/abs/2403.09498), **Yuhan Liu**, Xiuying Chen, Xiaoqing Zhang, Xing Gao, Ji Zhang, Rui Yan
-- ``arxiv`` From a Tiny Slip to a Giant Leap: An LLM-Based Simulation for Fake News Evolution, **Yuhan Liu**, Zirui Song, Xiaoqing Zhang, Xiuying Chen, Rui Yan
+- ``arxiv`` [From a Tiny Slip to a Giant Leap: An LLM-Based Simulation for Fake News Evolution](https://arxiv.org/abs/2410.19064), **Yuhan Liu**, Zirui Song, Xiaoqing Zhang, Xiuying Chen, Rui Yan
 - ``COLING 2024`` IAD: In-Context Learning Ability Decoupler of Large Language Models in Meta-Training, **Yuhan Liu**, Xiuying Chen, Xing Gao, Ji Zhang, Rui Yan
 - ``The Web Confernce 2024`` Bridging the Space Gap: Unifying Geometry Knowledge Graph Embedding with Optimal Transport, **Yuhan Liu**, et al.
 - ``CCL 2023`` Unleashing the power of large models: Exploring human-machine conversations, **Yuhan Liu**, Xiuying Chen, Rui Yan
@@ -55,11 +63,14 @@ application in system identification, Jianjun Liu, **Yuhan Liu**, et al.
 - *2017,2020* Outstanding Graduate, Beijing
 - *2019-2020* National Scholarship
 
-# 💬 Academic Services
+# ⭐ Academic Services
 - **Session Chair**, IJCAI 2024 NLP Track (Jeju, Republic of Korea)
 - Reviewer for ACL, EMNLP, ICLR, WWW, ACL Rolling Review, ECAI
 - Program Committee Member, AAAI, IJCAI
 - Reviewer for *Information Sciences*, *Financial Innovation*
+
+# 💬 Invited Talks
+- *2024.08*, From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News, Microsoft Research Asia
 
 # 💻 Internships and Work
 - *2022.09 - 2024.11*, Alibaba Damo Academy, Beijing.
