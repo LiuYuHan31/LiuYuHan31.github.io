@@ -18,7 +18,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hello! I'm Yuhan Liu, a Ph.D. candidate in Artificial Intelligence at <a href="http://ai.ruc.edu.cn"> Gaoling School of Artificial Intelligence</a>, Renmin University of China, where I have been studying since 2021 under the supervision of Prof. <a href="http://ai.ruc.edu.cn/english/GSAI_FACULTY/28026f7425324f61991c70d279372d13.htm">Rui Yan</a>. Prior to joining RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing), where I was mentored by Prof. Jianjun Liu. I also completed a minor in English Speech and Debate at CUPB, under the guidance of Prof. Jie Lian.
 
-<span style="color: #c00000;">**I am in the 2025 Fall job market and actively seeking faculty and postdoctoral opportunities.** </span>**Feel free to reach out to me at yuhan.liu@ruc.edu.cn !**
+<span style="color: #c00000;">**I am in the 2025 Fall job market and actively seeking faculty and postdoctoral opportunities.** </span>
+**Feel free to reach out to me at yuhan.liu@ruc.edu.cn !**
 
 # ❤️ Research Interest
 My research interests include **_LLMs and their application in Governance_**, focusing on:
@@ -95,5 +96,5 @@ Thanks to my best friends! Your help and encouragement are my greatest motivatio
 - Bowen Li, Ph.D. candidate at Tsinghua University and visiting at University of Twente
 - <a href="https://trestad.github.io/">Ang Lv</a>, Ph.D. candidate at Renmin University of China
 - Juntian Zhang, Master's student at Renmin University of China
-- Yining Sun, Ph.D. at Technische Universität Berlin
+- <a href="https://www.linkedin.com/in/yining-sun-72173a269/?originalSubdomain=de">Yining Sun</a>, Ph.D. at Technische Universität Berlin
 
