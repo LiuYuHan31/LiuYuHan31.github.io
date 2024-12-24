@@ -96,5 +96,5 @@ Thanks to my best friends! Your help and encouragement are my greatest motivatio
 - Bowen Li, Ph.D. candidate at Tsinghua University and visiting at University of Twente
 - <a href="https://trestad.github.io/">Ang Lv</a>, Ph.D. candidate at Renmin University of China
 - Juntian Zhang, Master's student at Renmin University of China
-- <a href="https://www.linkedin.com/in/yining-sun-72173a269/?originalSubdomain=de">Yining Sun</a>, Ph.D. at Technische Universität Berlin
+- Yining Sun, Ph.D. at Technische Universität Berlin
 
