@@ -22,7 +22,7 @@ Hello! I'm Yuhan Liu, a Ph.D. candidate in Artificial Intelligence at <a href="h
 **Feel free to reach out to me at yuhan.liu@ruc.edu.cn !**
 
 # ❤️ Research Interest
-My research interests include **_LLMs and their application in Governance_**, focusing on:
+My research interests include **_LLMs and their application in trustworthy and secure systems_**, focusing on:
 
 * **Fake News and Social Systems**: Investigating the use of LLMs in addressing the propagation of fake news and their role in social dynamics.
 * **LLM-related Challenges**: Exploring issues such as Hallucination, Hate Speech, Bias, and the alignment of LLM with societal norms and values.
@@ -51,8 +51,9 @@ My contributions have been recognized in several top-tier international AI confe
 - ``IJCAI 2024`` [From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News](https://arxiv.org/abs/2403.09498), **Yuhan Liu**, Xiuying Chen, Xiaoqing Zhang, Xing Gao, Ji Zhang, Rui Yan
 - ``Arxiv`` [From a Tiny Slip to a Giant Leap: An LLM-Based Simulation for Fake News Evolution](https://arxiv.org/abs/2410.19064), **Yuhan Liu**, Zirui Song, Xiaoqing Zhang, Xiuying Chen, Rui Yan
 - ``COLING 2024`` IAD: In-Context Learning Ability Decoupler of Large Language Models in Meta-Training, **Yuhan Liu**, Xiuying Chen, Xing Gao, Ji Zhang, Rui Yan
-- ``The Web Confernce 2024`` Bridging the Space Gap: Unifying Geometry Knowledge Graph Embedding with Optimal Transport, **Yuhan Liu**, et al.
+- ``The Web Confernce 2024`` Bridging the Space Gap: Unifying Geometry Knowledge Graph Embedding with Optimal Transport, **Yuhan Liu**, Zelin Cao, Xing Gao, Ji Zhang, Rui Yan.
 - ``CCL 2023`` Unleashing the power of large models: Exploring human-machine conversations, **Yuhan Liu**, Xiuying Chen, Rui Yan
+- ``Arxiv`` Thinking Before Running! Efficient Code Generation with Thorough Exploration and Optimal Refinement, Xiaoqing Zhang, **Yuhan Liu**, Flood Sung, Xiuying Chen, Rui Yan
 - ``Arxiv`` LLM-Driven Agents for Influencer Selection in Digital Advertising Campaigns, Xiaoqing Zhang, Xiuying Chen, **Yuhan Liu**, et al.
 - ``Arxiv`` A large-scale time-aware agents simulation for influencer selection in digital advertising campaigns, Xiaoqing Zhang, Xiuying Chen, **Yuhan Liu**, et al.
 - ``Applied Mathematics and Computation`` A quasi fractional order gradient descent method with adaptive stepsize and its
