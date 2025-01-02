@@ -48,11 +48,11 @@ My contributions have been recognized in several top-tier international AI confe
 
 # 📝 Publications 
 
-- ``IJCAI 2024`` [From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News](https://arxiv.org/abs/2403.09498), **Yuhan Liu**, Xiuying Chen, Xiaoqing Zhang, Xing Gao, Ji Zhang, Rui Yan
+- ``IJCAI 2024`` [From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News](https://arxiv.org/abs/2403.09498), **Yuhan Liu**, Xiuying Chen, Xiaoqing Zhang, Xing Gao, Ji Zhang, Rui Yan (<span style="color:red">Oral, Human-Centred AI Track, 4% acceptance rate</span>)
 - ``Arxiv`` [From a Tiny Slip to a Giant Leap: An LLM-Based Simulation for Fake News Evolution](https://arxiv.org/abs/2410.19064), **Yuhan Liu**, Zirui Song, Xiaoqing Zhang, Xiuying Chen, Rui Yan
 - ``COLING 2024`` IAD: In-Context Learning Ability Decoupler of Large Language Models in Meta-Training, **Yuhan Liu**, Xiuying Chen, Xing Gao, Ji Zhang, Rui Yan
 - ``The Web Confernce 2024`` Bridging the Space Gap: Unifying Geometry Knowledge Graph Embedding with Optimal Transport, **Yuhan Liu**, Zelin Cao, Xing Gao, Ji Zhang, Rui Yan.
-- ``CCL 2023`` Unleashing the power of large models: Exploring human-machine conversations, **Yuhan Liu**, Xiuying Chen, Rui Yan
+- ``CCL 2023`` Unleashing the power of large models: Exploring human-machine conversations, **Yuhan Liu**, Xiuying Chen, Rui Yan (<span style="color:red">Oral</span>)
 - ``Arxiv`` Thinking Before Running! Efficient Code Generation with Thorough Exploration and Optimal Refinement, Xiaoqing Zhang, **Yuhan Liu**, Flood Sung, Xiuying Chen, Rui Yan
 - ``Arxiv`` SAGraph: A Large-Scale Text-Rich Social Graph Dataset for Advertising Campaigns, Xiaoqing Zhang, Xiuying Chen, **Yuhan Liu**, et al.
 - ``Arxiv`` A large-scale time-aware agents simulation for influencer selection in digital advertising campaigns, Xiaoqing Zhang, Xiuying Chen, **Yuhan Liu**, et al.
