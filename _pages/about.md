@@ -34,12 +34,12 @@ My contributions have been recognized in several top-tier international AI confe
 # 🔥 News
 - *2024.12*: &nbsp;🎉🎉 We won the Gold Medal in the Tencent Multi-Agent Application Competition (Rank 1/210)! Congratulations to my friend Xuyan!
 - *2024.10*: &nbsp;🎉 Invited to serve as a Reviewer for WWW 2025 and ICLR 2025.
-- *2024.08*: &nbsp;🎉 Attending IJCAI 2024 in South Korea—looking forward to connecting!
+- *2024.08*: &nbsp;✈️ Attending IJCAI 2024 in South Korea—looking forward to connecting!
 - *2024.07*: &nbsp;🎉 Invited to serve as a <span style="color:red">Session Chair</span> for IJCAI 2024 NLP Track (Jeju, South Korea)
 - *2024.06*: &nbsp;🎉 Invited to serve as a Reviewer for EMNLP 2024
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2024 (<span style="color:red">Oral</span>) (Jeju, South Korea)!
-- *2024.05*: &nbsp;🎉 Attending COLING 2024 in Italy—looking forward to connecting!
-- *2024.05*: &nbsp;🎉 Attending WWW 2024 in Singapore—looking forward to connecting!
+- *2024.05*: &nbsp;✈️ Attending COLING 2024 in Italy—looking forward to connecting!
+- *2024.05*: &nbsp;✈️ Attending WWW 2024 in Singapore—looking forward to connecting!
 - *2024.04*: &nbsp;🎉 Invited to serve as a Reviewer for ACM MM 2024
 - *2024.03*: &nbsp;🎉 Invited to serve as a Reviewer for ACL 2024
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by COLING 2024 (Turin, Italy)
