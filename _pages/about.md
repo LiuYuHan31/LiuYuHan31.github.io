@@ -53,9 +53,11 @@ My contributions have been recognized in several top-tier international AI confe
 - ``COLING 2024`` IAD: In-Context Learning Ability Decoupler of Large Language Models in Meta-Training, **Yuhan Liu**, Xiuying Chen, Xing Gao, Ji Zhang, Rui Yan
 - ``The Web Confernce 2024`` Bridging the Space Gap: Unifying Geometry Knowledge Graph Embedding with Optimal Transport, **Yuhan Liu**, Zelin Cao, Xing Gao, Ji Zhang, Rui Yan.
 - ``CCL 2023`` Unleashing the power of large models: Exploring human-machine conversations, **Yuhan Liu**, Xiuying Chen, Rui Yan (<span style="color:red">Oral</span>)
+- ``Arxiv`` Injecting Domain-Specific Knowledge into Large Language Models: A Comprehensive Survey, Zirui Song, Bin Yan, **Yuhan Liu**, Miao Fang, Mingzhe Li, Rui Yan, Xiuying Chen
 - ``Arxiv`` Thinking Before Running! Efficient Code Generation with Thorough Exploration and Optimal Refinement, Xiaoqing Zhang, **Yuhan Liu**, Flood Sung, Xiuying Chen, Rui Yan
 - ``Arxiv`` SAGraph: A Large-Scale Text-Rich Social Graph Dataset for Advertising Campaigns, Xiaoqing Zhang, Xiuying Chen, **Yuhan Liu**, Jianzhou Wang, Zhenxing Hu, Rui Yan
 - ``Arxiv`` A large-scale time-aware agents simulation for influencer selection in digital advertising campaigns, Xiaoqing Zhang, Xiuying Chen, **Yuhan Liu**, Jianzhou Wang, Zhenxing Hu, Rui Yan
+- ``Arxiv`` More is not always better? Enhancing Many-Shot In-Context Learning with Differentiated and Reweighting Objectives, Xiaoqing Zhang, Ang Lv, Yuhan Liu, Xiuying Chen, Rui Yan
 - ``Applied Mathematics and Computation`` A quasi fractional order gradient descent method with adaptive stepsize and its
 application in system identification, Jianjun Liu, **Yuhan Liu**, et al.
 - ``Information sciences`` Clustering based on grid and local density with priority-based expansion for multi-density data, Jianjun Liu, **Yuhan Liu**, et al.
