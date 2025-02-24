@@ -32,6 +32,7 @@ My research interests include **_LLMs and their application in trustworthy and s
 My contributions have been recognized in several top-tier international AI conferences.
 
 # 🔥 News
+- *2025.01*: &nbsp;🎉 Invited to serve as a Program Committee Member for IJCAI 2025(AI for Socail Good Track and Survey Track) and ACM MM 2025.
 - *2024.12*: &nbsp;🎉🎉 We won the Gold Medal in the Tencent Multi-Agent Application Competition (Rank 1/210)! Congratulations to my friend Xuyan!
 - *2024.10*: &nbsp;🎉 Invited to serve as a Reviewer for WWW 2025 and ICLR 2025.
 - *2024.08*: &nbsp;✈️ Attending IJCAI 2024 in South Korea—looking forward to connecting!
