@@ -32,6 +32,7 @@ My research interests include **_LLMs and their application in trustworthy and s
 My contributions have been recognized in several top-tier international AI conferences.
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉🎉 Two paper is accepted by SIGIR 2025 (Padua, Italy)!
 - *2025.01*: &nbsp;🎉 Invited to serve as a Program Committee Member for IJCAI 2025(AI for Social Good Track and Survey Track) and ACM MM 2025.
 - *2024.12*: &nbsp;🎉🎉 We won the Gold Medal in the Tencent Multi-Agent Application Competition (Rank 1/210)! Congratulations to my friend Xuyan!
 - *2024.10*: &nbsp;🎉 Invited to serve as a Reviewer for WWW 2025 and ICLR 2025.
@@ -48,7 +49,8 @@ My contributions have been recognized in several top-tier international AI confe
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by The Web Conference 2024 (Singapore)
 
 # 📝 Publications 
-
+- ``SIGIR 2025`` The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News, **Yuhan Liu**, Yuxuan Liu, Xiaoqing Zhang, Xiuying Chen, Rui Yan
+- ``SIGIR 2025`` SAGraph: A Large-Scale Social Graph Dataset with Comprehensive Context for Influencer Selection in Marketing, Xiaoqing Zhang, **Yuhan Liu**, Jianzhou Wang, Zhenxing Hu, Xiuying Chen and Rui Yan	
 - ``IJCAI 2024`` [From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News](https://arxiv.org/abs/2403.09498), **Yuhan Liu**, Xiuying Chen, Xiaoqing Zhang, Xing Gao, Ji Zhang, Rui Yan (<span style="color:red">Oral</span>, Human-Centred AI Track, <span style="color:red">4% acceptance rate</span>)
 - ``Arxiv`` [From a Tiny Slip to a Giant Leap: An LLM-Based Simulation for Fake News Evolution](https://arxiv.org/abs/2410.19064), **Yuhan Liu**, Zirui Song, Xiaoqing Zhang, Xiuying Chen, Rui Yan
 - ``COLING 2024`` IAD: In-Context Learning Ability Decoupler of Large Language Models in Meta-Training, **Yuhan Liu**, Xiuying Chen, Xing Gao, Ji Zhang, Rui Yan
@@ -79,6 +81,7 @@ application in system identification, Jianjun Liu, **Yuhan Liu**, et al.
 
 # 💬 Invited Talks
 - *2024.08*, From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News, Microsoft Research Asia
+- *2025.04*, Large Language Model-Based Multi-Agent System for Fake News, School of Journalism and Communication, Renmin University of China
 
 # 💻 Internships and Work
 - *2022.09 - 2024.11*, Alibaba Damo Academy, Beijing.
