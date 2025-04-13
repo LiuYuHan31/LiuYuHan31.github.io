@@ -25,7 +25,7 @@ Hello! I'm Yuhan Liu, a Ph.D. candidate in Artificial Intelligence at <a href="h
 My research interests include **_LLMs, VLMs and Multi-Agent System in trustworthy and secure systems_**, focusing on:
 
 * **Fake News and Social Systems**: Investigating the use of LLMs in addressing the propagation of fake news and their role in social dynamics.
-* **VLMs and Reasoning**: Exploring complex reasoning paradigms in Vision-Language Models (VLMs) and their applications across various NLP tasks.
+* **VLMs and Reasoning**: Exploring complex reasoning paradigms in Vision-Language Models and their applications.
 * **LLM-related Challenges**: Exploring issues such as Hallucination, Hate Speech, Bias, and the alignment of LLM with societal norms and values.
 * **Continual Learning**: Addressing the challenges of continual learning in LLMs to ensure they can adapt and improve over time.
 
