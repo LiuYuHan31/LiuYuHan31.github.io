@@ -22,11 +22,11 @@ Hello! I'm Yuhan Liu, a Ph.D. candidate in Artificial Intelligence at <a href="h
 **Feel free to reach out to me at yuhan.liu@ruc.edu.cn !**
 
 # ❤️ Research Interest
-My research interests include **_LLMs and their application in trustworthy and secure systems_**, focusing on:
+My research interests include **_LLMs, VLMs and Multi-Agent System in trustworthy and secure systems_**, focusing on:
 
 * **Fake News and Social Systems**: Investigating the use of LLMs in addressing the propagation of fake news and their role in social dynamics.
+* **VLMs and Reasoning**: Exploring complex reasoning paradigms in Vision-Language Models (VLMs) and their applications across various NLP tasks.
 * **LLM-related Challenges**: Exploring issues such as Hallucination, Hate Speech, Bias, and the alignment of LLM with societal norms and values.
-* **Societal Impact**: Leveraging LLMs in sectors like healthcare, advertising, and recommendation systems for societal benefit.
 * **Continual Learning**: Addressing the challenges of continual learning in LLMs to ensure they can adapt and improve over time.
 
 My contributions have been recognized in several top-tier international AI conferences.
@@ -56,6 +56,8 @@ My contributions have been recognized in several top-tier international AI confe
 - ``COLING 2024`` IAD: In-Context Learning Ability Decoupler of Large Language Models in Meta-Training, **Yuhan Liu**, Xiuying Chen, Xing Gao, Ji Zhang, Rui Yan
 - ``The Web Confernce 2024`` Bridging the Space Gap: Unifying Geometry Knowledge Graph Embedding with Optimal Transport, **Yuhan Liu**, Zelin Cao, Xing Gao, Ji Zhang, Rui Yan.
 - ``CCL 2023`` Unleashing the power of large models: Exploring human-machine conversations, **Yuhan Liu**, Xiuying Chen, Rui Yan (<span style="color:red">Oral</span>)
+- ``Under Review`` Weaving Context Across Images: Improving Vision-Language Models through Focus-Centric Visual Chains, **Yuhan Liu**, Juntian Zhang, Chuanqi Cheng, Rui Yan
+- ``Arxiv`` Pastiche Novel Generation: Creating Fan Fiction You Love in Your Favorite Author’s Style, Zirui Song, Bin Yan, Xueran Han, **Yuhan Liu**, Rui Yan and Xiuying Chen 
 - ``Arxiv`` Injecting Domain-Specific Knowledge into Large Language Models: A Comprehensive Survey, Zirui Song, Bin Yan, **Yuhan Liu**, Miao Fang, Mingzhe Li, Rui Yan, Xiuying Chen
 - ``Arxiv`` Thinking Before Running! Efficient Code Generation with Thorough Exploration and Optimal Refinement, Xiaoqing Zhang, **Yuhan Liu**, Flood Sung, Xiuying Chen, Rui Yan
 - ``Arxiv`` SAGraph: A Large-Scale Text-Rich Social Graph Dataset for Advertising Campaigns, Xiaoqing Zhang, Xiuying Chen, **Yuhan Liu**, Jianzhou Wang, Zhenxing Hu, Rui Yan
@@ -69,8 +71,8 @@ application in system identification, Jianjun Liu, **Yuhan Liu**, et al.
 
 # 🏅 Honors and Awards
 - *2024* "Qiushi Academic-Dongliang" Academic Project Funding, RUC
-- *2022,2023* Merit Student, RUC
-- *2017,2020* Outstanding Graduate, Beijing
+- *2022,2023,2024* Merit Student, RUC
+- *2017,2020,2025* Outstanding Graduate, Beijing
 - *2019-2020* National Scholarship
 
 # ⭐ Academic Services
