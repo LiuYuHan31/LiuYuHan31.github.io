@@ -50,9 +50,10 @@ My contributions have been recognized in several top-tier international AI confe
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by The Web Conference 2024 (Singapore)
 
 # 📝 Publications 
+(`* indicates co-corresponding author`)
 - ``SIGIR 2025`` [The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News](https://arxiv.org/abs/2505.08532), **Yuhan Liu**, Yuxuan Liu, Xiaoqing Zhang, Xiuying Chen, Rui Yan
-- ``ACL 2025`` [Weaving Context Across Images: Improving Vision-Language Models through Focus-Centric Visual Chains](https://arxiv.org/abs/2504.20199), Juntian Zhang, Chuanqi Cheng, **Yuhan Liu***, Wei Liu, Jian Luan, Rui Yan*
-- ``ACL 2025`` Thinking Before Running! Efficient Code Generation with Thorough Exploration and Optimal Refinement, Xiaoqing Zhang, **Yuhan Liu***, Flood Sung, Xiuying Chen, Rui Yan*
+- ``ACL 2025`` [Weaving Context Across Images: Improving Vision-Language Models through Focus-Centric Visual Chains](https://arxiv.org/abs/2504.20199), Juntian Zhang, Chuanqi Cheng, **Yuhan Liu\***, Wei Liu, Jian Luan, Rui Yan*
+- ``ACL 2025`` Thinking Before Running! Efficient Code Generation with Thorough Exploration and Optimal Refinement, Xiaoqing Zhang, **Yuhan Liu\***, Flood Sung, Xiuying Chen, Rui Yan*
 - ``ACL 2025`` More is not always better? Enhancing Many-Shot In-Context Learning with Differentiated and Reweighting Objectives, Xiaoqing Zhang, Ang Lv, Yuhan Liu, Xiuying Chen, Rui Yan
 - ``SIGIR 2025`` SAGraph: A Large-Scale Social Graph Dataset with Comprehensive Context for Influencer Selection in Marketing, Xiaoqing Zhang, **Yuhan Liu**, Jianzhou Wang, Zhenxing Hu, Xiuying Chen and Rui Yan	
 - ``IJCAI 2024`` [From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News](https://arxiv.org/abs/2403.09498), **Yuhan Liu**, Xiuying Chen, Xiaoqing Zhang, Xing Gao, Ji Zhang, Rui Yan (<span style="color:red">Oral</span>, Human-Centred AI Track, <span style="color:red">4% acceptance rate</span>)
