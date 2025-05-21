@@ -32,6 +32,7 @@ My research interests include **_LLMs, VLMs and Multi-Agent System in trustworth
 My contributions have been recognized in several top-tier international AI conferences.
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉🎉 Three paper is accepted by ACL 2025 (Vienna, Austria)!
 - *2024.05*: &nbsp;🎉🎉 Two paper is accepted by SIGIR 2025 (Padua, Italy)!
 - *2025.01*: &nbsp;🎉 Invited to serve as a Program Committee Member for IJCAI 2025(AI for Social Good Track and Survey Track) and ACM MM 2025.
 - *2024.12*: &nbsp;🎉🎉 We won the Gold Medal in the Tencent Multi-Agent Application Competition (Rank 1/210)! Congratulations to my friend Xuyan!
@@ -49,20 +50,19 @@ My contributions have been recognized in several top-tier international AI confe
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by The Web Conference 2024 (Singapore)
 
 # 📝 Publications 
-- ``SIGIR 2025`` The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News, **Yuhan Liu**, Yuxuan Liu, Xiaoqing Zhang, Xiuying Chen, Rui Yan
+- ``SIGIR 2025`` [The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News](https://arxiv.org/abs/2505.08532), **Yuhan Liu**, Yuxuan Liu, Xiaoqing Zhang, Xiuying Chen, Rui Yan
+- ``ACL 2025`` [Weaving Context Across Images: Improving Vision-Language Models through Focus-Centric Visual Chains](https://arxiv.org/abs/2504.20199), Juntian Zhang, Chuanqi Cheng, **Yuhan Liu***, Wei Liu, Jian Luan, Rui Yan*
+- ``ACL 2025`` Thinking Before Running! Efficient Code Generation with Thorough Exploration and Optimal Refinement, Xiaoqing Zhang, **Yuhan Liu***, Flood Sung, Xiuying Chen, Rui Yan*
+- ``ACL 2025`` More is not always better? Enhancing Many-Shot In-Context Learning with Differentiated and Reweighting Objectives, Xiaoqing Zhang, Ang Lv, Yuhan Liu, Xiuying Chen, Rui Yan
 - ``SIGIR 2025`` SAGraph: A Large-Scale Social Graph Dataset with Comprehensive Context for Influencer Selection in Marketing, Xiaoqing Zhang, **Yuhan Liu**, Jianzhou Wang, Zhenxing Hu, Xiuying Chen and Rui Yan	
 - ``IJCAI 2024`` [From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News](https://arxiv.org/abs/2403.09498), **Yuhan Liu**, Xiuying Chen, Xiaoqing Zhang, Xing Gao, Ji Zhang, Rui Yan (<span style="color:red">Oral</span>, Human-Centred AI Track, <span style="color:red">4% acceptance rate</span>)
-- ``Arxiv`` [From a Tiny Slip to a Giant Leap: An LLM-Based Simulation for Fake News Evolution](https://arxiv.org/abs/2410.19064), **Yuhan Liu**, Zirui Song, Xiaoqing Zhang, Xiuying Chen, Rui Yan
 - ``COLING 2024`` IAD: In-Context Learning Ability Decoupler of Large Language Models in Meta-Training, **Yuhan Liu**, Xiuying Chen, Xing Gao, Ji Zhang, Rui Yan
 - ``The Web Confernce 2024`` Bridging the Space Gap: Unifying Geometry Knowledge Graph Embedding with Optimal Transport, **Yuhan Liu**, Zelin Cao, Xing Gao, Ji Zhang, Rui Yan.
 - ``CCL 2023`` Unleashing the power of large models: Exploring human-machine conversations, **Yuhan Liu**, Xiuying Chen, Rui Yan (<span style="color:red">Oral</span>)
-- ``Under Review`` Weaving Context Across Images: Improving Vision-Language Models through Focus-Centric Visual Chains, **Yuhan Liu**, Juntian Zhang, Chuanqi Cheng, Rui Yan
+- ``Arxiv`` [From a Tiny Slip to a Giant Leap: An LLM-Based Simulation for Fake News Evolution](https://arxiv.org/abs/2410.19064), **Yuhan Liu**, Zirui Song, Xiaoqing Zhang, Xiuying Chen, Rui Yan
 - ``Arxiv`` Pastiche Novel Generation: Creating Fan Fiction You Love in Your Favorite Author’s Style, Zirui Song, Bin Yan, Xueran Han, **Yuhan Liu**, Rui Yan and Xiuying Chen 
 - ``Arxiv`` Injecting Domain-Specific Knowledge into Large Language Models: A Comprehensive Survey, Zirui Song, Bin Yan, **Yuhan Liu**, Miao Fang, Mingzhe Li, Rui Yan, Xiuying Chen
-- ``Arxiv`` Thinking Before Running! Efficient Code Generation with Thorough Exploration and Optimal Refinement, Xiaoqing Zhang, **Yuhan Liu**, Flood Sung, Xiuying Chen, Rui Yan
-- ``Arxiv`` SAGraph: A Large-Scale Text-Rich Social Graph Dataset for Advertising Campaigns, Xiaoqing Zhang, Xiuying Chen, **Yuhan Liu**, Jianzhou Wang, Zhenxing Hu, Rui Yan
 - ``Arxiv`` A large-scale time-aware agents simulation for influencer selection in digital advertising campaigns, Xiaoqing Zhang, Xiuying Chen, **Yuhan Liu**, Jianzhou Wang, Zhenxing Hu, Rui Yan
-- ``Arxiv`` More is not always better? Enhancing Many-Shot In-Context Learning with Differentiated and Reweighting Objectives, Xiaoqing Zhang, Ang Lv, Yuhan Liu, Xiuying Chen, Rui Yan
 - ``Applied Mathematics and Computation`` A quasi fractional order gradient descent method with adaptive stepsize and its
 application in system identification, Jianjun Liu, **Yuhan Liu**, et al.
 - ``Information sciences`` Clustering based on grid and local density with priority-based expansion for multi-density data, Jianjun Liu, **Yuhan Liu**, et al.
