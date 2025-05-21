@@ -103,9 +103,8 @@ application in system identification, Jianjun Liu, **Yuhan Liu**, et al.
 # 😃 Best Friends
 Thanks to my best friends! Your help and encouragement are my greatest motivation, and I look forward to creating a better future with all of you!
 - <a href="https://iriscxy.github.io/">Xiuying Chen</a>, Assistant Professor at MBZUAI
+- <a href="https://scholar.google.com/citations?user=K-6vOfkAAAAJ&hl=zh-CN">Juntian Zhang</a>, Master's student at Renmin University of China
 - <a href="https://wuyichen-97.github.io/">Yichen Wu</a>, Ph.D. candidate at City University of Hong Kong and visiting at Harvard
 - <a href="https://www.linkedin.com/in/bowen-li-5a3610344/">Bowen Li</a>, Ph.D. candidate at Tsinghua University and visiting at University of Twente
-- <a href="https://trestad.github.io/">Ang Lv</a>, Ph.D. candidate at Renmin University of China
-- Juntian Zhang, Master's student at Renmin University of China
 - Yining Sun, Ph.D. at Technische Universität Berlin
 
