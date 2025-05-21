@@ -87,6 +87,7 @@ application in system identification, Jianjun Liu, **Yuhan Liu**, et al.
 - *2025.04*, Large Language Model-Based Multi-Agent System for Fake News, School of Journalism and Communication, Renmin University of China
 
 # 💻 Internships and Work
+- *2024.11 - 2025.06*, MeiTuan, Beijing.
 - *2022.09 - 2024.11*, Alibaba Damo Academy, Beijing.
 - *2020.07 - 2021.08*, Xiaomi Tech, Beijing.
 - *2019.06 - 2019.09*, Sinovation Ventures, Beijing.
