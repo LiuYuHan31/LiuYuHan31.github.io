@@ -33,21 +33,17 @@ My contributions have been recognized in several top-tier international AI confe
 
 # 🔥 News
 - *2025.08*: &nbsp;🎉🎉 Three paper are accepted by EMNLP 2025 (Suzhou, China)!
-- *2025.08*: &nbsp;🎉🎉 I joined MBZUAI as a Postdoctoral Research Fellow of Machine Learning.
+- *2025.08*: &nbsp;🥳🥳🎉🎉 I joined MBZUAI as a Postdoctoral Research Fellow of Machine Learning.
+- *2025.07*: &nbsp;✈️ Attending ACL 2025 in Vienna—looking forward to connecting!
 - *2025.05*: &nbsp;🎉🎉🎉🎉 I have successfully defended my PhD thesis!
 - *2025.05*: &nbsp;🎉🎉 Three paper are accepted by ACL 2025 (Vienna, Austria)!
 - *2025.05*: &nbsp;🎉🎉 Two paper are accepted by SIGIR 2025 (Padua, Italy)!
-- *2025.01*: &nbsp;🎉 Invited to serve as a Program Committee Member for IJCAI 2025(AI for Social Good Track and Survey Track) and ACM MM 2025.
 - *2024.12*: &nbsp;🎉🎉 We won the Gold Medal in the Tencent Multi-Agent Application Competition (Rank 1/210)! Congratulations to my friend Xuyan!
-- *2024.10*: &nbsp;🎉 Invited to serve as a Reviewer for WWW 2025 and ICLR 2025.
 - *2024.08*: &nbsp;✈️ Attending IJCAI 2024 in South Korea—looking forward to connecting!
 - *2024.07*: &nbsp;🎉 Invited to serve as a <span style="color:red">Session Chair</span> for IJCAI 2024 NLP Track (Jeju, South Korea)
-- *2024.06*: &nbsp;🎉 Invited to serve as a Reviewer for EMNLP 2024
 - *2024.05*: &nbsp;🎉🎉 One paper is accepted by IJCAI 2024 (<span style="color:red">Oral</span>) (Jeju, South Korea)!
 - *2024.05*: &nbsp;✈️ Attending COLING 2024 in Italy—looking forward to connecting!
 - *2024.05*: &nbsp;✈️ Attending WWW 2024 in Singapore—looking forward to connecting!
-- *2024.04*: &nbsp;🎉 Invited to serve as a Reviewer for ACM MM 2024
-- *2024.03*: &nbsp;🎉 Invited to serve as a Reviewer for ACL 2024
 - *2024.02*: &nbsp;🎉🎉 One paper is accepted by COLING 2024 (Turin, Italy)
 - *2024.02*: &nbsp;🎉 Selected as a delegate for the RUC-Yale "Artificial Intelligence, Emerging Technologies" International Forum.
 - *2024.01*: &nbsp;🎉🎉 One paper is accepted by The Web Conference 2024 (Singapore)
