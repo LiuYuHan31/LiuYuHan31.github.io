@@ -35,7 +35,7 @@ My contributions have been recognized in several top-tier international AI confe
 - *2025.08*: &nbsp;🎉🎉 Three paper are accepted by EMNLP 2025 (Suzhou, China)!
 - *2025.08*: &nbsp;🥳🥳🎉🎉 I joined MBZUAI as a Postdoctoral Research Fellow of Machine Learning.
 - *2025.07*: &nbsp;✈️ Attending ACL 2025 in Vienna—looking forward to connecting!
-- *2025.05*: &nbsp;🎉🎉🎉🎉 I have successfully defended my PhD thesis!
+- *2025.05*: &nbsp;🥳🥳🎉🎉🥳🥳🎉🎉 I have successfully defended my PhD thesis!
 - *2025.05*: &nbsp;🎉🎉 Three paper are accepted by ACL 2025 (Vienna, Austria)!
 - *2025.05*: &nbsp;🎉🎉 Two paper are accepted by SIGIR 2025 (Padua, Italy)!
 - *2024.12*: &nbsp;🎉🎉 We won the Gold Medal in the Tencent Multi-Agent Application Competition (Rank 1/210)! Congratulations to my friend Xuyan!
