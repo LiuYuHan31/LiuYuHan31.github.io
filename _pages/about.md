@@ -16,10 +16,10 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hello! I'm Yuhan Liu, a Ph.D. candidate in Artificial Intelligence at <a href="http://ai.ruc.edu.cn"> Gaoling School of Artificial Intelligence</a>, Renmin University of China, where I have been studying since 2021 under the supervision of Prof. <a href="http://ai.ruc.edu.cn/english/GSAI_FACULTY/28026f7425324f61991c70d279372d13.htm">Rui Yan</a>. Prior to joining RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing), where I was mentored by Prof. Jianjun Liu. I also completed a minor in English Speech and Debate at CUPB, under the guidance of Prof. Jie Lian.
+Hello! I'm Yuhan Liu, currently a Postdoctoral Research Fellow at the Machine Learning Department of MBZUAI. I received my Ph.D. in Artificial Intelligence at <a href="http://ai.ruc.edu.cn"> Gaoling School of Artificial Intelligence</a>, Renmin University of China, where I have been studying since 2021 under the supervision of Prof. <a href="http://ai.ruc.edu.cn/english/GSAI_FACULTY/28026f7425324f61991c70d279372d13.htm">Rui Yan</a>. Prior to joining RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing), where I was mentored by Prof. Jianjun Liu. I also completed a minor in English Speech and Debate at CUPB, under the guidance of Prof. Jie Lian.
 
-<span style="color: #c00000;">**I am in the 2025 Fall job market and actively seeking faculty and postdoctoral opportunities.** </span>
-**Feel free to reach out to me at yuhan.liu@ruc.edu.cn !**
+<span style="color: #c00000;">**I am in the 2026 Fall job market and actively seeking faculty and postdoctoral opportunities.** </span>
+**Feel free to reach out to me at liuyuhaning@gmail.com !**
 
 # ❤️ Research Interest
 My research interests include **_LLMs, VLMs and Multi-Agent System in trustworthy and secure systems_**, focusing on:
@@ -32,6 +32,9 @@ My research interests include **_LLMs, VLMs and Multi-Agent System in trustworth
 My contributions have been recognized in several top-tier international AI conferences.
 
 # 🔥 News
+- *2025.08*: &nbsp;🎉🎉 Three paper is accepted by EMNLP 2025 (Suzhou, China)!
+- *2025.08*: &nbsp;🎉🎉 I joined MBZUAI as a Postdoctoral Research Fellow of Machine Learning.
+- *2025.05*: &nbsp;🎉🎉🎉🎉 I have successfully defended my PhD thesis!
 - *2025.05*: &nbsp;🎉🎉 Three paper is accepted by ACL 2025 (Vienna, Austria)!
 - *2025.05*: &nbsp;🎉🎉 Two paper is accepted by SIGIR 2025 (Padua, Italy)!
 - *2025.01*: &nbsp;🎉 Invited to serve as a Program Committee Member for IJCAI 2025(AI for Social Good Track and Survey Track) and ACM MM 2025.
@@ -51,7 +54,10 @@ My contributions have been recognized in several top-tier international AI confe
 
 # 📝 Publications 
 (`* indicates co-corresponding author`)
+- ``EMNLP 2025`` [The Stepwise Deception:Simulating the Evolution from True News to Fake News with LLM Agents](https://arxiv.org/abs/2410.19064), **Yuhan Liu**, Zirui Song, Juntian Zhang, Xiaoqing Zhang, Xiuying Chen, Rui Yan
 - ``SIGIR 2025`` [The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News](https://arxiv.org/abs/2505.08532), **Yuhan Liu**, Yuxuan Liu, Xiaoqing Zhang, Xiuying Chen, Rui Yan
+- ``EMNLP 2025 `` Injecting Domain-Specific Knowledge into Large Language Models: A Comprehensive Survey, Zirui Song, Bin Yan, **Yuhan Liu**, Miao Fang, Mingzhe Li, Rui Yan, Xiuying Chen
+- ``EMNLP 2025`` Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems, Song Jin, Juntian Zhang, **Yuhan Liu\***, Xun Zhang, Yufei Zhang, Guojun Yin, Fei Jiang, Wei Lin, Rui Yan*
 - ``ACL 2025`` [Weaving Context Across Images: Improving Vision-Language Models through Focus-Centric Visual Chains](https://arxiv.org/abs/2504.20199), Juntian Zhang, Chuanqi Cheng, **Yuhan Liu\***, Wei Liu, Jian Luan, Rui Yan*
 - ``ACL 2025`` Thinking Before Running! Efficient Code Generation with Thorough Exploration and Optimal Refinement, Xiaoqing Zhang, **Yuhan Liu\***, Flood Sung, Xiuying Chen, Rui Yan*
 - ``ACL 2025`` More is not always better? Enhancing Many-Shot In-Context Learning with Differentiated and Reweighting Objectives, Xiaoqing Zhang, Ang Lv, Yuhan Liu, Xiuying Chen, Rui Yan
@@ -60,9 +66,7 @@ My contributions have been recognized in several top-tier international AI confe
 - ``COLING 2024`` IAD: In-Context Learning Ability Decoupler of Large Language Models in Meta-Training, **Yuhan Liu**, Xiuying Chen, Xing Gao, Ji Zhang, Rui Yan
 - ``The Web Confernce 2024`` Bridging the Space Gap: Unifying Geometry Knowledge Graph Embedding with Optimal Transport, **Yuhan Liu**, Zelin Cao, Xing Gao, Ji Zhang, Rui Yan.
 - ``CCL 2023`` Unleashing the power of large models: Exploring human-machine conversations, **Yuhan Liu**, Xiuying Chen, Rui Yan (<span style="color:red">Oral</span>)
-- ``Arxiv`` [From a Tiny Slip to a Giant Leap: An LLM-Based Simulation for Fake News Evolution](https://arxiv.org/abs/2410.19064), **Yuhan Liu**, Zirui Song, Xiaoqing Zhang, Xiuying Chen, Rui Yan
 - ``Arxiv`` Pastiche Novel Generation: Creating Fan Fiction You Love in Your Favorite Author’s Style, Zirui Song, Bin Yan, Xueran Han, **Yuhan Liu**, Rui Yan and Xiuying Chen 
-- ``Arxiv`` Injecting Domain-Specific Knowledge into Large Language Models: A Comprehensive Survey, Zirui Song, Bin Yan, **Yuhan Liu**, Miao Fang, Mingzhe Li, Rui Yan, Xiuying Chen
 - ``Arxiv`` A large-scale time-aware agents simulation for influencer selection in digital advertising campaigns, Xiaoqing Zhang, Xiuying Chen, **Yuhan Liu**, Jianzhou Wang, Zhenxing Hu, Rui Yan
 - ``Applied Mathematics and Computation`` A quasi fractional order gradient descent method with adaptive stepsize and its
 application in system identification, Jianjun Liu, **Yuhan Liu**, et al.
@@ -105,6 +109,7 @@ application in system identification, Jianjun Liu, **Yuhan Liu**, et al.
 # 😃 Best Friends
 Thanks to my best friends! Your help and encouragement are my greatest motivation, and I look forward to creating a better future with all of you!
 - <a href="https://iriscxy.github.io/">Xiuying Chen</a>, Assistant Professor at MBZUAI
+- <a href="https://trestad.github.io/">Ang Lv</a>, Ph.D. candidate at Renmin University of China and Interning at ByteDance Top Seed
 - <a href="https://scholar.google.com/citations?user=K-6vOfkAAAAJ&hl=zh-CN">Juntian Zhang</a>, Master's student at Renmin University of China
 - <a href="https://wuyichen-97.github.io/">Yichen Wu</a>, Ph.D. candidate at City University of Hong Kong and visiting at Harvard
 - <a href="https://www.linkedin.com/in/bowen-li-5a3610344/">Bowen Li</a>, Ph.D. candidate at Tsinghua University and visiting at University of Twente
