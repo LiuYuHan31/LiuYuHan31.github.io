@@ -83,8 +83,9 @@ application in system identification, Jianjun Liu, **Yuhan Liu**, et al.
 - Reviewer for *Information Sciences*, *Financial Innovation*
 
 # 💬 Invited Talks
-- *2024.08*, From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News, Microsoft Research Asia
+- *2025.05*, True Yet False: Large Language Model-based Multi-Agent Systems for Enhanced Security, XiaMen University
 - *2025.04*, Large Language Model-Based Multi-Agent System for Fake News, School of Journalism and Communication, Renmin University of China
+- *2024.08*, From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News, Microsoft Research Asia
 
 # 💻 Internships and Work
 - *2024.11 - 2025.06*, MeiTuan, Beijing.
