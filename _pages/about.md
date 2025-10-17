@@ -16,18 +16,19 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-Hello! I'm Yuhan Liu, currently a Postdoctoral Research Fellow at the Machine Learning Department of MBZUAI. I received my Ph.D. in Artificial Intelligence at <a href="http://ai.ruc.edu.cn"> Gaoling School of Artificial Intelligence</a>, Renmin University of China, where I have been studying since 2021 under the supervision of Prof. <a href="http://ai.ruc.edu.cn/english/GSAI_FACULTY/28026f7425324f61991c70d279372d13.htm">Rui Yan</a>. Prior to joining RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing), where I was mentored by Prof. Jianjun Liu. I also completed a minor in English Speech and Debate at CUPB, under the guidance of Prof. Jie Lian.
+Hello! I'm Yuhan Liu, currently a Postdoctoral Research Fellow at the Machine Learning Department of MBZUAI, working with <a href="https://nilslukas.github.io"> Dr.Nils Lukas</a>,<a href="https://lahlou.org"> Dr.Salem Lahlou</a> and <a href="https://mtakac.com"> Dr.Martin Takac</a>. I received my Ph.D. in Artificial Intelligence at <a href="http://ai.ruc.edu.cn"> Gaoling School of Artificial Intelligence</a>, Renmin University of China, where I have been studying since 2021 under the supervision of Prof. <a href="http://ai.ruc.edu.cn/english/GSAI_FACULTY/28026f7425324f61991c70d279372d13.htm">Rui Yan</a>. Prior to joining RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing), where I was mentored by Prof. Jianjun Liu. I also completed a minor in English Speech and Debate at CUPB, under the guidance of Prof. Jie Lian.
 
 <span style="color: #c00000;">**I am in the 2026 Fall job market and actively seeking faculty and postdoctoral opportunities.** </span>
 **Feel free to reach out to me at liuyuhaning@gmail.com !**
 
 # ❤️ Research Interest
-My research interests include **_LLMs, VLMs and Multi-Agent System in trustworthy and secure systems_**, focusing on:
+My research interests include **_buliding safe and secure Agentic AI_**, focusing on:
 
+* **Responsible Agentic System**:How to build a safe and secure Agentic System
 * **Fake News and Social Systems**: Investigating the use of LLMs in addressing the propagation of fake news and their role in social dynamics.
 * **VLMs and Reasoning**: Exploring complex reasoning paradigms in Vision-Language Models and their applications.
-* **LLM-related Challenges**: Exploring issues such as Hallucination, Hate Speech, Bias, and the alignment of LLM with societal norms and values.
-* **Continual Learning**: Addressing the challenges of continual learning in LLMs to ensure they can adapt and improve over time.
+* **Societal Challenges of LLMs**: Exploring issues such as Hallucination, Hate Speech, Bias, and the alignment of LLM with societal norms and values.
+
 
 My contributions have been recognized in several top-tier international AI conferences.
 
@@ -78,6 +79,7 @@ application in system identification, Jianjun Liu, **Yuhan Liu**, et al.
 
 # ⭐ Academic Services
 - **Session Chair**, IJCAI 2024 NLP Track (Jeju, Republic of Korea)
+- Area Chair:ACL 2026, EACL 2026
 - Reviewer for ACL, EMNLP, ICLR, WWW, ACL Rolling Review, ECAI
 - Program Committee Member, AAAI, IJCAI
 - Reviewer for *Information Sciences*, *Financial Innovation*
