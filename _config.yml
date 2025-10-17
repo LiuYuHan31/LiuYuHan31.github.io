@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Yuhan Liu"
-description              : "Ph.D. Candidate, GSAI"
+description              : "Postdoc Researcher, MBZUAI"
 repository               : "LiuYuHan31/LiuYuHan31.github.io"
 google_scholar_stats_use_cdn : False
 
@@ -23,12 +23,12 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Yuhan Liu"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Renmin University of China"
-  location         : "Beijing, China"
+  bio              : "MBZUAI"
+  location         : "Abu Dhabi, UAE"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "yuhan.liu@ruc.edu.cn"
+  email            : "yuhan.liu@mbzuai.ac.ae"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
