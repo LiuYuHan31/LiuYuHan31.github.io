@@ -30,7 +30,7 @@ My research interests include **_buliding safe and secure Agentic AI_**, focusin
 * **Societal Challenges of LLMs**: Exploring issues such as Hallucination, Hate Speech, Bias, and the alignment of LLM with societal norms and values.
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉 Invited to serve as a <span style="color:red">Area Chair</span> for ACL Rolling Review
+- *2025.10*: &nbsp;🎉 Invited to serve as an <span style="color:red">Area Chair</span> for ACL Rolling Review
 - *2025.08*: &nbsp;🎉🎉 Three paper are accepted by EMNLP 2025 (Suzhou, China)!
 - *2025.08*: &nbsp;🥳🥳🎉🎉 I joined MBZUAI as a Postdoctoral Research Fellow of Machine Learning.
 - *2025.07*: &nbsp;✈️ Attending ACL 2025 in Vienna—looking forward to connecting!
@@ -49,14 +49,14 @@ My research interests include **_buliding safe and secure Agentic AI_**, focusin
 
 # 📝 Publications 
 (`* indicates co-corresponding author`)
-- ``EMNLP 2025`` [The Stepwise Deception:Simulating the Evolution from True News to Fake News with LLM Agents](https://arxiv.org/abs/2410.19064), **Yuhan Liu**, Zirui Song, Juntian Zhang, Xiaoqing Zhang, Xiuying Chen, Rui Yan
-- ``SIGIR 2025`` [The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News](https://arxiv.org/abs/2505.08532), **Yuhan Liu**, Yuxuan Liu, Xiaoqing Zhang, Xiuying Chen, Rui Yan
+- ``EMNLP 2025`` [The Stepwise Deception:Simulating the Evolution from True News to Fake News with LLM Agents](https://arxiv.org/abs/2410.19064), **Yuhan Liu**, Zirui Song, Juntian Zhang, Xiaoqing Zhang, Xiuying Chen, Rui Yan(<span style="color:red">Oral</span>)
+- ``SIGIR 2025`` [The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News](https://arxiv.org/abs/2505.08532), **Yuhan Liu**, Yuxuan Liu, Xiaoqing Zhang, Xiuying Chen, Rui Yan(<span style="color:red">Oral</span>)
 - ``EMNLP 2025 `` [Injecting Domain-Specific Knowledge into Large Language Models: A Comprehensive Survey](https://arxiv.org/abs/2502.10708), Zirui Song, Bin Yan, **Yuhan Liu**, Miao Fang, Mingzhe Li, Rui Yan, Xiuying Chen
 - ``EMNLP 2025`` [Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems](https://arxiv.org/abs/2505.16429), Song Jin, Juntian Zhang, **Yuhan Liu\***, Xun Zhang, Yufei Zhang, Guojun Yin, Fei Jiang, Wei Lin, Rui Yan*
 - ``ACL 2025`` [Weaving Context Across Images: Improving Vision-Language Models through Focus-Centric Visual Chains](https://arxiv.org/abs/2504.20199), Juntian Zhang, Chuanqi Cheng, **Yuhan Liu\***, Wei Liu, Jian Luan, Rui Yan*
 - ``ACL 2025`` [Thinking Before Running! Efficient Code Generation with Thorough Exploration and Optimal Refinement](https://aclanthology.org/2025.findings-acl.1195.pdf), Xiaoqing Zhang, **Yuhan Liu\***, Flood Sung, Xiuying Chen, Rui Yan*
 - ``ACL 2025`` [More is not always better? Enhancing Many-Shot In-Context Learning with Differentiated and Reweighting Objectives](https://aclanthology.org/2025.acl-long.1475/), Xiaoqing Zhang, Ang Lv, **Yuhan Liu**,, Xiuying Chen, Rui Yan
-- ``SIGIR 2025`` [SAGraph: A Large-Scale Social Graph Dataset with Comprehensive Context for Influencer Selection in Marketing](https://dl.acm.org/doi/10.1145/3726302.3730334), Na Ta, Kaiyu Li, Yushu Zhou, **Yuhan Liu**,
+- ``SIGIR 2025`` [SAGraph: A Large-Scale Social Graph Dataset with Comprehensive Context for Influencer Selection in Marketing](https://dl.acm.org/doi/10.1145/3726302.3730334), Na Ta, Kaiyu Li, Yushu Zhou, **Yuhan Liu**(<span style="color:red">Oral</span>)
 - ``VLDB 2025`` [SoAgent: A Real-world Data Empowered Agent Pool to Facilitate LLM-Driven Generative Social Simulation](https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/DATAI/DATAI25_9.pdf), Juntian Zhang, Chuanqi Cheng, **Yuhan Liu\***, Wei Liu, Jian Luan, Rui Yan*
 - ``IJCAI 2024`` [From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News](https://arxiv.org/abs/2403.09498), **Yuhan Liu**, Xiuying Chen, Xiaoqing Zhang, Xing Gao, Ji Zhang, Rui Yan (<span style="color:red">Oral</span>, Human-Centred AI Track, <span style="color:red">4% acceptance rate</span>)
 - ``COLING 2024`` IAD: In-Context Learning Ability Decoupler of Large Language Models in Meta-Training, **Yuhan Liu**, Xiuying Chen, Xing Gao, Ji Zhang, Rui Yan
