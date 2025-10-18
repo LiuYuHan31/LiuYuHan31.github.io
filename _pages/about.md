@@ -62,8 +62,8 @@ My research interests include **_buliding safe and secure Agentic AI_**, focusin
 - ``COLING 2024`` IAD: In-Context Learning Ability Decoupler of Large Language Models in Meta-Training, **Yuhan Liu**, Xiuying Chen, Xing Gao, Ji Zhang, Rui Yan
 - ``The Web Confernce 2024`` Bridging the Space Gap: Unifying Geometry Knowledge Graph Embedding with Optimal Transport, **Yuhan Liu**, Zelin Cao, Xing Gao, Ji Zhang, Rui Yan.
 - ``CCL 2023`` Unleashing the power of large models: Exploring human-machine conversations, **Yuhan Liu**, Xiuying Chen, Rui Yan (<span style="color:red">Oral</span>)
-- ``Arxiv`` Pastiche Novel Generation: Creating Fan Fiction You Love in Your Favorite Author’s Style, Zirui Song, Bin Yan, Xueran Han, **Yuhan Liu**, Rui Yan and Xiuying Chen 
-- ``Arxiv`` A large-scale time-aware agents simulation for influencer selection in digital advertising campaigns, Xiaoqing Zhang, Xiuying Chen, **Yuhan Liu**, Jianzhou Wang, Zhenxing Hu, Rui Yan
+- ``Arxiv`` Pastiche Novel Generation: Creating Fan Fiction You Love in Your Favorite Author’s Style, Xueran Han, **Yuhan Liu**, Mingzhe Li, Wei Liu, Sen Hu, Rui Yan, Zhiqiang Xu, Xiuying Chen
+- ``Arxiv`` A large-scale time-aware agents simulation for influencer selection in digital advertising campaigns, Xiaoqing Zhang, **Yuhan Liu**, Jianzhou Wang, Zhenxing Hu, Xiuying Chen, Rui Yan
 - ``Applied Mathematics and Computation`` A quasi fractional order gradient descent method with adaptive stepsize and its
 application in system identification, Jianjun Liu, **Yuhan Liu**, et al.
 - ``Information sciences`` Clustering based on grid and local density with priority-based expansion for multi-density data, Jianjun Liu, **Yuhan Liu**, et al.
