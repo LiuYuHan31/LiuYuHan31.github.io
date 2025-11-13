@@ -30,6 +30,7 @@ My research interests include **_buliding safe and secure Agentic AI_**, focusin
 * **Societal Challenges of LLMs**: Exploring issues such as Hallucination, Hate Speech, Bias, and the alignment of LLM with societal norms and values.
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 I was awarded a DAAD fellowship
 - *2025.10*: &nbsp;🎉 Invited to serve as an <span style="color:red">Area Chair</span> for ACL Rolling Review
 - *2025.08*: &nbsp;🎉🎉 Three paper are accepted by EMNLP 2025 (Suzhou, China)!
 - *2025.08*: &nbsp;🥳🥳🎉🎉 I joined MBZUAI as a Postdoctoral Research Fellow of Machine Learning.
