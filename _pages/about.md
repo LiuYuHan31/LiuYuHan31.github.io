@@ -113,5 +113,4 @@ Thanks to my best friends! Your help and encouragement are my greatest motivatio
 - <a href="https://scholar.google.com/citations?user=K-6vOfkAAAAJ&hl=zh-CN">Juntian Zhang</a>, Master's student at Renmin University of China
 - <a href="https://trestad.github.io/">Ang Lv</a>, Ph.D. Candidate at Renmin University of China and Interning at ByteDance Top Seed
 - <a href="https://www.linkedin.com/in/bowen-li-5a3610344/">Bowen Li</a>, Ph.D. Candidate at Tsinghua University and visiting at University of Twente
-- Yining Sun, Ph.D. at Technische Universität Berlin
 
