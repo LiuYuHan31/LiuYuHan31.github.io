@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div class="about-bio">
-  <p>Hi, there! I’m Yuhan!.I am currently a Postdoctoral Research Fellow at the Machine Learning Department of MBZUAI, working with <a href="https://nilslukas.github.io">Nils Lukas</a>, <a href="https://lahlou.org">Salem Lahlou</a>, and <a href="https://mtakac.com">Martin Takac</a>. I am a recipient of <a href="https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/#LiuYuhan">DAAD AI Postdoc Fellowship</a> in 2025. I received my Ph.D. in Artificial Intelligence from <a href="http://ai.ruc.edu.cn">Gaoling School of Artificial Intelligence</a>, Renmin University of China (2021-2025). Prior to RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing).</p>
+  <p>Hi, there! I’m Yuhan! I am currently a Postdoctoral Research Fellow at the Machine Learning Department of MBZUAI, working with <a href="https://nilslukas.github.io">Nils Lukas</a>, <a href="https://lahlou.org">Salem Lahlou</a>, and <a href="https://mtakac.com">Martin Takac</a>. I am a recipient of <a href="https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/#LiuYuhan">DAAD AI Fellowship</a> in 2025. I received my Ph.D. in Artificial Intelligence from <a href="http://ai.ruc.edu.cn">Gaoling School of Artificial Intelligence</a>, Renmin University of China (2021-2025). Prior to RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing).</p>
 </div>
 
 <div class="highlight-box">
@@ -40,7 +40,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
 
 <div class="news-list">
 <ul>
-<li><span class="news-date">2026.04</span> 🎉🎉 Six paper is accepted by <strong>ACL 2026</strong> (Santiago, USA)🥳🥳</li>
+<li><span class="news-date">2026.04</span> 🎉🎉 Six paper is accepted by <strong>ACL 2026</strong> (Santiago, USA)</li>
 <li><span class="news-date">2026.01</span> 🎉🎉 One paper is accepted by <strong>ICLR 2026</strong> (Rio de Janeiro, Brazil)！Celebrating this with my good friend Juntian!🥳🥳</li>
 <li><span class="news-date">2025.11</span> 🎉🎉 I was awarded a <strong>DAAD fellowship</strong>！</li>
 <li><span class="news-date">2025.10</span> 🎉 Invited to serve as an <span class="highlight-text">Area Chair</span> for ACL.</li>
@@ -73,7 +73,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   <div class="pub-venue">ACL 2026 Main</div>
   <div class="pub-text">
     <div class="pub-title"><a href="https://arxiv.org/abs/2601.06803">Forest Before Trees: Latent Superposition for Efficient Visual Reasoning</a></div>
-    <div class="pub-authors">Yubo Wang, Juntian Zhang, Yichen Wu, Yankai Lin, Nils Lukas, and <strong>Yuhan Liu#</strong></div>
+    <div class="pub-authors">Yubo Wang*, Juntian Zhang*, Yichen Wu, Yankai Lin, Nils Lukas,  <strong>Yuhan Liu#</strong></div>
   </div>
 </div>
 
@@ -81,7 +81,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   <div class="pub-venue">ACL 2026 Findings</div>
   <div class="pub-text">
     <div class="pub-title">Detecting AI-Generated Video: A Vision-Language Dual-View Survey</div>
-    <div class="pub-authors">Dylan Xinming Hou, Juntian Zhang, Xu Gu, Yichen Wu, Nils Lukas, Gus Xia, Xiuying Chen, and <strong>Yuhan Liu#</strong></div>
+    <div class="pub-authors">Dylan Xinming Hou, Juntian Zhang, Xu Gu, Yichen Wu, Nils Lukas, Gus Xia, Xiuying Chen, <strong>Yuhan Liu#</strong></div>
   </div>
 </div>
 
@@ -159,7 +159,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   <div class="pub-venue">EMNLP 2025</div>
   <div class="pub-text">
     <div class="pub-title"><a href="https://arxiv.org/abs/2502.10708">Injecting Domain-Specific Knowledge into Large Language Models: A Comprehensive Survey</a></div>
-    <div class="pub-authors">Zirui Song, Bin Yan, <strong><u>Yuhan Liu</u></strong>, Miao Fang, Mingzhe Li, Rui Yan, Xiuying Chen</div>
+    <div class="pub-authors">Zirui Song*, Bin Yan*, <strong><u>Yuhan Liu</u></strong>, Miao Fang, Mingzhe Li, Rui Yan, Xiuying Chen</div>
   </div>
 </div>
 
@@ -167,7 +167,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   <div class="pub-venue">EMNLP 2025</div>
   <div class="pub-text">
     <div class="pub-title"><a href="https://arxiv.org/abs/2505.16429">Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems</a></div>
-    <div class="pub-authors">Song Jin, Juntian Zhang, <strong>Yuhan Liu#</strong>, Xun Zhang, Yufei Zhang, Guojun Yin, Fei Jiang, Wei Lin, Rui Yan#</div>
+    <div class="pub-authors">Song Jin*, Juntian Zhang*, <strong>Yuhan Liu#</strong>, Xun Zhang, Yufei Zhang, Guojun Yin, Fei Jiang, Wei Lin, Rui Yan#</div>
   </div>
 </div>
 
