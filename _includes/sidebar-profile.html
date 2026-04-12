@@ -1,0 +1,20 @@
+<div class="profile-card">
+  <img class="avatar-circle" src="{{ '/images/android-chrome-512x512.png' | relative_url }}" alt="{{ site.author.name }}">
+  <h1 class="profile-name">{{ site.author.name }}</h1>
+  <p class="profile-role">Postdoctoral Research Fellow</p>
+  <div class="profile-summary">
+    <p class="profile-dept">Machine Learning Department</p>
+    <p class="profile-org"><a href="https://mbzuai.ac.ae" target="_blank">MBZUAI</a></p>
+  </div>
+  <p class="profile-location"><i class="fas fa-map-marker-alt"></i> Abu Dhabi, UAE</p>
+  <ul class="network-icon">
+    <li><a href="mailto:yuhan.liu@mbzuai.ac.ae" title="Email"><i class="fas fa-envelope"></i></a></li>
+    <li><a href="mailto:liuyuhaning@gmail.com" title="Gmail"><i class="fas fa-envelope"></i></a></li>
+    {% if site.author.googlescholar %}<li><a href="{{ site.author.googlescholar }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a></li>{% endif %}
+    {% if site.author.github %}<li><a href="https://github.com/{{ site.author.github }}" title="GitHub"><i class="fab fa-github"></i></a></li>{% endif %}
+    {% if site.author.linkedin %}<li><a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" title="LinkedIn"><i class="fab fa-linkedin"></i></a></li>{% endif %}
+    {% if site.author.twitter %}<li><a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter"><i class="fab fa-twitter"></i></a></li>{% endif %}
+    {% if site.author.dblp %}<li><a href="{{ site.author.dblp }}" title="DBLP"><i class="ai ai-dblp"></i></a></li>{% endif %}
+    {% if site.author.orcid %}<li><a href="{{ site.author.orcid }}" title="ORCID"><i class="ai ai-orcid"></i></a></li>{% endif %}
+  </ul>
+</div>

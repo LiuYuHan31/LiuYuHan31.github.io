@@ -17,37 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<div class="profile-section">
-  <div class="profile-photo">
-    <img src="images/android-chrome-512x512.png" alt="Yuhan Liu">
-  </div>
-  <div class="profile-info">
-    <h1 class="profile-name">Yuhan Liu</h1>
-    <p class="profile-title">Postdoctoral Research Fellow</p>
-    <p class="profile-affiliation">Machine Learning Department, MBZUAI</p>
-    <p class="profile-affiliation">Mohamed bin Zayed University of Artificial Intelligence</p>
-    <p class="profile-location">Abu Dhabi, UAE</p>
-    <div class="profile-links">
-      <a href="mailto:yuhan.liu@mbzuai.ac.ae" title="Email"><i class="fas fa-envelope"></i></a>
-      <a href="mailto:liuyuhaning@gmail.com" title="Gmail"><i class="fas fa-envelope"></i></a>
-      {% if site.author.googlescholar %}<a href="{{ site.author.googlescholar }}" title="Google Scholar"><i class="fas fa-graduation-cap"></i></a>{% endif %}
-      {% if site.author.github %}<a href="https://github.com/{{ site.author.github }}" title="GitHub"><i class="fab fa-github"></i></a>{% endif %}
-      {% if site.author.linkedin %}<a href="https://www.linkedin.com/in/{{ site.author.linkedin }}" title="LinkedIn"><i class="fab fa-linkedin"></i></a>{% endif %}
-      {% if site.author.twitter %}<a href="https://twitter.com/{{ site.author.twitter }}" title="Twitter"><i class="fab fa-twitter"></i></a>{% endif %}
-      {% if site.author.dblp %}<a href="{{ site.author.dblp }}" title="DBLP"><i class="ai ai-dblp"></i></a>{% endif %}
-      {% if site.author.orcid %}<a href="{{ site.author.orcid }}" title="ORCID"><i class="ai ai-orcid"></i></a>{% endif %}
-    </div>
-    <p class="profile-bio">
-      I am currently a Postdoctoral Research Fellow at the Machine Learning Department of MBZUAI, working with <a href="https://nilslukas.github.io">Dr. Nils Lukas</a>, <a href="https://lahlou.org">Dr. Salem Lahlou</a>, and <a href="https://mtakac.com">Dr. Martin Takac</a>. I received my Ph.D. in Artificial Intelligence from <a href="http://ai.ruc.edu.cn">Gaoling School of Artificial Intelligence</a>, Renmin University of China (2021-2025), supervised by Prof. <a href="http://ai.ruc.edu.cn/english/GSAI_FACULTY/28026f7425324f61991c70d279372d13.htm">Rui Yan</a>. Prior to RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing).
-    </p>
-  </div>
+<div class="about-bio">
+  <p>I am currently a Postdoctoral Research Fellow at the Machine Learning Department of MBZUAI, working with <a href="https://nilslukas.github.io">Dr. Nils Lukas</a>, <a href="https://lahlou.org">Dr. Salem Lahlou</a>, and <a href="https://mtakac.com">Dr. Martin Takac</a>. I received my Ph.D. in Artificial Intelligence from <a href="http://ai.ruc.edu.cn">Gaoling School of Artificial Intelligence</a>, Renmin University of China (2021-2025), supervised by Prof. <a href="http://ai.ruc.edu.cn/english/GSAI_FACULTY/28026f7425324f61991c70d279372d13.htm">Rui Yan</a>. Prior to RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing).</p>
 </div>
 
 <div class="highlight-box">
 <strong>I am on the 2026 Fall job market, actively seeking faculty and postdoctoral positions.</strong> Feel free to reach out at <a href="mailto:liuyuhaning@gmail.com">liuyuhaning@gmail.com</a>.
 </div>
 
-## Research Interests
+## ❤️ Research Interests
 {: #research}
 
 My research focuses on **building safe and secure Agentic AI**, including:
@@ -57,33 +35,33 @@ My research focuses on **building safe and secure Agentic AI**, including:
 - **Vision-Language Models and Reasoning**: Exploring complex reasoning paradigms in VLMs and their applications
 - **Societal Challenges of LLMs**: Exploring issues such as hallucination, hate speech, bias, and the alignment of LLMs with societal norms
 
-## News
+## 🔥 News
 {: #news}
 
 <div class="news-list">
 <ul>
-<li><span class="news-date">2026.01</span> One paper accepted by <strong>ICLR 2026</strong> (Rio de Janeiro, Brazil)</li>
-<li><span class="news-date">2025.11</span> Awarded a <strong>DAAD fellowship</strong></li>
-<li><span class="news-date">2025.10</span> Invited to serve as <span class="highlight-text">Area Chair</span> for ACL Rolling Review</li>
-<li><span class="news-date">2025.08</span> Three papers accepted by <strong>EMNLP 2025</strong> (Suzhou, China)</li>
-<li><span class="news-date">2025.08</span> Joined <strong>MBZUAI</strong> as a Postdoctoral Research Fellow of Machine Learning</li>
-<li><span class="news-date">2025.07</span> Attending <strong>ACL 2025</strong> in Vienna</li>
-<li><span class="news-date">2025.05</span> Successfully defended my <strong>PhD thesis</strong></li>
-<li><span class="news-date">2025.05</span> Three papers accepted by <strong>ACL 2025</strong> (Vienna, Austria)</li>
-<li><span class="news-date">2025.05</span> Two papers accepted by <strong>SIGIR 2025</strong> (Padua, Italy)</li>
-<li><span class="news-date">2024.12</span> Won the <strong>Gold Medal</strong> in the Tencent Multi-Agent Application Competition (Rank 1/210)</li>
-<li><span class="news-date">2024.08</span> Attending <strong>IJCAI 2024</strong> in South Korea</li>
-<li><span class="news-date">2024.07</span> Invited to serve as <span class="highlight-text">Session Chair</span> for IJCAI 2024 NLP Track</li>
-<li><span class="news-date">2024.05</span> One paper accepted by <strong>IJCAI 2024</strong> (<span class="highlight-text">Oral</span>)</li>
-<li><span class="news-date">2024.05</span> Attending <strong>COLING 2024</strong> in Italy</li>
-<li><span class="news-date">2024.05</span> Attending <strong>WWW 2024</strong> in Singapore</li>
-<li><span class="news-date">2024.02</span> One paper accepted by <strong>COLING 2024</strong> (Turin, Italy)</li>
-<li><span class="news-date">2024.02</span> Selected as a delegate for the RUC-Yale "Artificial Intelligence, Emerging Technologies" International Forum</li>
-<li><span class="news-date">2024.01</span> One paper accepted by <strong>The Web Conference 2024</strong> (Singapore)</li>
+<li><span class="news-date">2026.01</span> 🎉🎉 One paper is accepted by <strong>ICLR 2026</strong> (Rio de Janeiro, Brazil)！Celebrating this with my good friend Juntian!🥳🥳</li>
+<li><span class="news-date">2025.11</span> 🎉🎉 I was awarded a <strong>DAAD fellowship</strong>！</li>
+<li><span class="news-date">2025.10</span> 🎉 Invited to serve as an <span class="highlight-text">Area Chair</span> for ACL Rolling Review</li>
+<li><span class="news-date">2025.08</span> 🎉🎉 Three paper are accepted by <strong>EMNLP 2025</strong> (Suzhou, China)!</li>
+<li><span class="news-date">2025.08</span> 🥳🥳🎉🎉 I joined <strong>MBZUAI</strong> as a Postdoctoral Research Fellow of Machine Learning.</li>
+<li><span class="news-date">2025.07</span> ✈️ Attending <strong>ACL 2025</strong> in Vienna—looking forward to connecting!</li>
+<li><span class="news-date">2025.05</span> 🥳🥳🎉🎉🥳🥳🎉🎉 I have successfully defended my <strong>PhD thesis</strong>!</li>
+<li><span class="news-date">2025.05</span> 🎉🎉 Three paper are accepted by <strong>ACL 2025</strong> (Vienna, Austria)!</li>
+<li><span class="news-date">2025.05</span> 🎉🎉 Two paper are accepted by <strong>SIGIR 2025</strong> (Padua, Italy)!</li>
+<li><span class="news-date">2024.12</span> 🎉🎉 We won the <strong>Gold Medal</strong> in the Tencent Multi-Agent Application Competition (Rank 1/210)! Congratulations to my friend Xuyan!</li>
+<li><span class="news-date">2024.08</span> ✈️ Attending <strong>IJCAI 2024</strong> in South Korea—looking forward to connecting!</li>
+<li><span class="news-date">2024.07</span> 🎉 Invited to serve as a <span class="highlight-text">Session Chair</span> for IJCAI 2024 NLP Track (Jeju, South Korea)</li>
+<li><span class="news-date">2024.05</span> 🎉🎉 One paper is accepted by <strong>IJCAI 2024</strong> (<span class="highlight-text">Oral</span>) (Jeju, South Korea)!</li>
+<li><span class="news-date">2024.05</span> ✈️ Attending <strong>COLING 2024</strong> in Italy—looking forward to connecting!</li>
+<li><span class="news-date">2024.05</span> ✈️ Attending <strong>WWW 2024</strong> in Singapore—looking forward to connecting!</li>
+<li><span class="news-date">2024.02</span> 🎉🎉 One paper is accepted by <strong>COLING 2024</strong> (Turin, Italy)</li>
+<li><span class="news-date">2024.02</span> 🎉 Selected as a delegate for the RUC-Yale "Artificial Intelligence, Emerging Technologies" International Forum.</li>
+<li><span class="news-date">2024.01</span> 🎉🎉 One paper is accepted by <strong>The Web Conference 2024</strong> (Singapore)</li>
 </ul>
 </div>
 
-## Publications
+## 📝 Publications
 {: #publications}
 
 <p class="pub-note"><code>*</code> indicates co-corresponding author</p>
@@ -241,7 +219,7 @@ My research focuses on **building safe and secure Agentic AI**, including:
 
 </div>
 
-## Honors and Awards
+## 🏅 Honors and Awards
 {: #awards}
 
 - **2024** &mdash; "Qiushi Academic-Dongliang" Academic Project Funding, RUC
@@ -249,7 +227,7 @@ My research focuses on **building safe and secure Agentic AI**, including:
 - **2017, 2020, 2025** &mdash; Outstanding Graduate, Beijing
 - **2019-2020** &mdash; National Scholarship
 
-## Academic Services
+## ⭐ Academic Services
 {: #services}
 
 - **Session Chair**: IJCAI 2024 NLP Track (Jeju, Republic of Korea)
@@ -258,14 +236,14 @@ My research focuses on **building safe and secure Agentic AI**, including:
 - **Program Committee**: AAAI, IJCAI
 - **Journal Reviewer**: *IEEE Transactions on Artificial Intelligence*, *Information Sciences*, *Financial Innovation*
 
-## Invited Talks
+## 💬 Invited Talks
 {: #talks}
 
 - **2025.05** &mdash; True Yet False: Large Language Model-based Multi-Agent Systems for Enhanced Security, XiaMen University
 - **2025.04** &mdash; Large Language Model-Based Multi-Agent System for Fake News, School of Journalism and Communication, Renmin University of China
 - **2024.08** &mdash; From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News, Microsoft Research Asia
 
-## Experience
+## 💻 Experience
 {: #experience}
 
 - **2024.11 - 2025.06** &mdash; MeiTuan, Beijing
@@ -275,7 +253,7 @@ My research focuses on **building safe and secure Agentic AI**, including:
 - **2019.03 - 2019.06** &mdash; Lenovo Corporate Research, Beijing
 - **2018.05 - 2018.09** &mdash; Tencent WeChat, Beijing
 
-## Teaching
+## 📖 Teaching
 {: #teaching}
 
 - **2024 Spring, 2022 Spring** &mdash; Natural Language Processing
@@ -285,7 +263,7 @@ My research focuses on **building safe and secure Agentic AI**, including:
 - **2018 Fall** &mdash; Advanced Algebra
 - **2018 Spring** &mdash; Advanced Mathematics
 
-## Best Friends
+## 😃 Best Friends
 {: #friends}
 
 Thanks to my best friends! Your help and encouragement are my greatest motivation, and I look forward to creating a better future with all of you!
