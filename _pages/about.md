@@ -89,7 +89,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   <div class="pub-venue">ACL 2026 Findings</div>
   <div class="pub-text">
     <div class="pub-title">From Style to Story: A Curriculum Learning Approach for Imitative Novel Generation</div>
-    <div class="pub-authors">Xueran Han, <strong>Yuhan Liu</strong>, Mingzhe Li, Wei Liu, Sen Hu, Rui Yan, Zhiqiang Xu, and Xiuying Chen</div>
+    <div class="pub-authors">Xueran Han, <strong><u>Yuhan Liu</u></strong>, Mingzhe Li, Wei Liu, Sen Hu, Rui Yan, Zhiqiang Xu, and Xiuying Chen</div>
   </div>
 </div>
 
@@ -97,7 +97,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   <div class="pub-venue">ACL 2026 Findings</div>
   <div class="pub-text">
     <div class="pub-title">Temporal Contrastive Decoding: A Training-Free Method for Large Audio-Language Models</div>
-    <div class="pub-authors">Yanda Li, <strong>Yuhan Liu</strong>, Zirui Song, Yunchao Wei, Martin Takáč, and Salem Lahlou</div>
+    <div class="pub-authors">Yanda Li, <strong><u>Yuhan Liu</u></strong>, Zirui Song, Yunchao Wei, Martin Takáč, and Salem Lahlou</div>
   </div>
 </div>
 
@@ -105,7 +105,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   <div class="pub-venue">ACL 2026 Findings</div>
   <div class="pub-text">
     <div class="pub-title">Divide-Fuse-Conquer: A Progressive Reinforcement Learning Strategy for Stabilizing LLMs across Diverse Games</div>
-    <div class="pub-authors">Xiaoqing Zhang, Huabin Zheng, Ang Lv, <strong>Yuhan Liu</strong>, Zirui Song, Xiuying Chen, Rui Yan, and Flood Sung</div>
+    <div class="pub-authors">Xiaoqing Zhang, Huabin Zheng, Ang Lv, <strong><u>Yuhan Liu</u></strong>, Zirui Song, Xiuying Chen, Rui Yan, and Flood Sung</div>
   </div>
 </div>
 
@@ -113,7 +113,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   <div class="pub-venue">ACL 2026 Findings</div>
   <div class="pub-text">
     <div class="pub-title">GlossaGen: Making Academic Translation Smarter with Glossing</div>
-    <div class="pub-authors">Zixiao Wang, Duzhen Zhang, Juntian Zhang, <strong>Yuhan Liu</strong>, Guoming Li, Haolun Wu, Le Song, and Xiuying Chen</div>
+    <div class="pub-authors">Zixiao Wang, Duzhen Zhang, Juntian Zhang, <strong><u>Yuhan Liu</u></strong>, Guoming Li, Haolun Wu, Le Song, and Xiuying Chen</div>
   </div>
 </div>
 
@@ -121,7 +121,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   <div class="pub-venue">ICLR 2026</div>
   <div class="pub-text">
     <div class="pub-title">Viper: Empowering the Self-Evolution of Visual Perception Abilities in Vision-Language Model</div>
-    <div class="pub-authors">Juntian Zhang, Song Jin, Chuanqi Cheng, <strong>Yuhan Liu</strong>, Yankai Lin, Xun Zhang, Yufei Zhang, Fei Jiang, Guojun Yin, Wei Lin, and Rui Yan</div>
+    <div class="pub-authors">Juntian Zhang, Song Jin, Chuanqi Cheng, <strong><u>Yuhan Liu</u></strong>, Yankai Lin, Xun Zhang, Yufei Zhang, Fei Jiang, Guojun Yin, Wei Lin, and Rui Yan</div>
   </div>
 </div>
 
@@ -159,7 +159,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   <div class="pub-venue">EMNLP 2025</div>
   <div class="pub-text">
     <div class="pub-title"><a href="https://arxiv.org/abs/2502.10708">Injecting Domain-Specific Knowledge into Large Language Models: A Comprehensive Survey</a></div>
-    <div class="pub-authors">Zirui Song, Bin Yan, <strong>Yuhan Liu</strong>, Miao Fang, Mingzhe Li, Rui Yan, Xiuying Chen</div>
+    <div class="pub-authors">Zirui Song, Bin Yan, <strong><u>Yuhan Liu</u></strong>, Miao Fang, Mingzhe Li, Rui Yan, Xiuying Chen</div>
   </div>
 </div>
 
@@ -191,7 +191,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   <div class="pub-venue">ACL 2025</div>
   <div class="pub-text">
     <div class="pub-title"><a href="https://aclanthology.org/2025.acl-long.1475/">More is not always better? Enhancing Many-Shot In-Context Learning with Differentiated and Reweighting Objectives</a></div>
-    <div class="pub-authors">Xiaoqing Zhang, Ang Lv, <strong>Yuhan Liu</strong>, Xiuying Chen, Rui Yan</div>
+    <div class="pub-authors">Xiaoqing Zhang, Ang Lv, <strong><u>Yuhan Liu</u></strong>, Xiuying Chen, Rui Yan</div>
   </div>
 </div>
 
@@ -202,7 +202,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   </div>
   <div class="pub-text">
     <div class="pub-title"><a href="https://dl.acm.org/doi/10.1145/3726302.3730334">SAGraph: A Large-Scale Social Graph Dataset with Comprehensive Context for Influencer Selection in Marketing</a></div>
-    <div class="pub-authors">Xiaoqing Zhang, <strong>Yuhan Liu</strong>, Jianzhou Wang, Zhenxing Hu, Xiuying Chen, Rui Yan</div>
+    <div class="pub-authors">Xiaoqing Zhang, <strong><u>Yuhan Liu</u></strong>, Jianzhou Wang, Zhenxing Hu, Xiuying Chen, Rui Yan</div>
   </div>
 </div>
 
@@ -210,7 +210,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   <div class="pub-venue">VLDB 2025</div>
   <div class="pub-text">
     <div class="pub-title"><a href="https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/DATAI/DATAI25_9.pdf">SoAgent: A Real-world Data Empowered Agent Pool to Facilitate LLM-Driven Generative Social Simulation</a></div>
-    <div class="pub-authors">Na Ta, Kaiyu Li, Yushu Zhou, <strong>Yuhan Liu</strong></div>
+    <div class="pub-authors">Na Ta, Kaiyu Li, Yushu Zhou, <strong><u>Yuhan Liu</u></strong></div>
   </div>
 </div>
 
@@ -255,7 +255,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   <div class="pub-venue">Preprint</div>
   <div class="pub-text">
     <div class="pub-title">A large-scale time-aware agents simulation for influencer selection in digital advertising campaigns</div>
-    <div class="pub-authors">Xiaoqing Zhang, <strong>Yuhan Liu</strong>, Jianzhou Wang, Zhenxing Hu, Xiuying Chen, Rui Yan</div>
+    <div class="pub-authors">Xiaoqing Zhang, <strong><u>Yuhan Liu</u></strong>, Jianzhou Wang, Zhenxing Hu, Xiuying Chen, Rui Yan</div>
   </div>
 </div>
 
@@ -263,7 +263,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   <div class="pub-venue">AMC</div>
   <div class="pub-text">
     <div class="pub-title">A quasi fractional order gradient descent method with adaptive stepsize and its application in system identification</div>
-    <div class="pub-authors">Jianjun Liu, <strong>Yuhan Liu</strong>, et al.</div>
+    <div class="pub-authors">Jianjun Liu, <strong><u>Yuhan Liu</u></strong>, et al.</div>
   </div>
 </div>
 
@@ -271,7 +271,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   <div class="pub-venue">Info. Sci.</div>
   <div class="pub-text">
     <div class="pub-title">Clustering based on grid and local density with priority-based expansion for multi-density data</div>
-    <div class="pub-authors">Jianjun Liu, <strong>Yuhan Liu</strong>, et al.</div>
+    <div class="pub-authors">Jianjun Liu, <strong><u>Yuhan Liu</u></strong>, et al.</div>
   </div>
 </div>
 
