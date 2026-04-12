@@ -151,13 +151,11 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
 </div>
 
 <div class="pub-row">
-  <div class="pub-venue-col">
-    <div class="pub-venue">IJCAI 2024</div>
-    <div class="pub-extra"><span class="highlight-text">Oral</span>, Human-Centred AI Track, <span class="highlight-text">4% acceptance rate</span></div>
-  </div>
+  <div class="pub-venue">IJCAI 2024</div>
   <div class="pub-text">
     <div class="pub-title"><a href="https://arxiv.org/abs/2403.09498">From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News</a></div>
     <div class="pub-authors"><strong>Yuhan Liu</strong>, Xiuying Chen, Xiaoqing Zhang, Xing Gao, Ji Zhang, Rui Yan</div>
+    <div class="pub-extra"><span class="highlight-text">Oral</span>, Human-Centred AI Track, <span class="highlight-text">4% acceptance rate</span></div>
   </div>
 </div>
 
