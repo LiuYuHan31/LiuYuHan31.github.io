@@ -305,14 +305,12 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
 ## 🎓 Collaborative Students
 {: #students}
 
-**Yubo Wang** (M.S. @ Fudan University), **Dylan Xinming Hou** (M.S. @ MBZUAI), **Abdalla Alzaabi** (M.S. @ MBZUAI), **Yifei Zhao** (M.S. @ Tsinghua University)
-{: .student-row}
-
-**Chengyi Yang** (M.S. @ Xiamen University), **Weixin Chen** (B.S. @ Xiamen University), **Meiman Chen** (M.S. @ Xiamen University)
-{: .student-row}
-
-**Jue Hou** (M.S. @ Xiamen University), **Peien Ding** (M.S. @ Xiamen University), **Zongpei Teng** (B.S. @ Xiamen University)
-{: .student-row}
+- **Yubo Wang**, M.S. @ Fudan University
+- **Dylan Xinming Hou**, M.S. @ MBZUAI
+- **Abdalla Alzaabi**, M.S. @ MBZUAI
+- **Yifei Zhao**, M.S. @ Tsinghua University
+- M.S. @ Xiamen University: **Chengyi Yang**, **Meiman Chen**, **Jue Hou**, **Peien Ding**
+- B.S. @ Xiamen University: **Weixin Chen**, **Zongpei Teng**
 
 ## 💻 Experience
 {: #experience}
