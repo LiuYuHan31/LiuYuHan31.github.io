@@ -302,6 +302,18 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
 - **2025.04** &mdash; Large Language Model-Based Multi-Agent System for Fake News, School of Journalism and Communication, Renmin University of China
 - **2024.08** &mdash; From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News, Microsoft Research Asia
 
+## 🎓 Collaborative Students
+{: #students}
+
+**Yubo Wang** (M.S. @ Fudan University), **Dylan Xinming Hou** (M.S. @ MBZUAI), **Abdalla Alzaabi** (M.S. @ MBZUAI), **Yifei Zhao** (M.S. @ Tsinghua University)
+{: .student-row}
+
+**Chengyi Yang** (M.S. @ Xiamen University), **Weixin Chen** (B.S. @ Xiamen University), **Meiman Chen** (M.S. @ Xiamen University)
+{: .student-row}
+
+**Jue Hou** (M.S. @ Xiamen University), **Peien Ding** (M.S. @ Xiamen University), **Zongpei Teng** (B.S. @ Xiamen University)
+{: .student-row}
+
 ## 💻 Experience
 {: #experience}
 
