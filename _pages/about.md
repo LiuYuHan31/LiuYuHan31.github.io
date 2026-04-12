@@ -321,7 +321,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
 - **2019.03 - 2019.06** &mdash; Lenovo Corporate Research, Beijing
 - **2018.05 - 2018.09** &mdash; Tencent WeChat, Beijing
 
-## 📖 Teaching
+## 📖 Teaching Assistant
 {: #teaching}
 
 - **2024 Spring, 2022 Spring** &mdash; Natural Language Processing
