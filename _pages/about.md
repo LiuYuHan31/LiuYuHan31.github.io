@@ -18,22 +18,22 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div class="about-bio">
-  <p>I am currently a Postdoctoral Research Fellow at the Machine Learning Department of MBZUAI, working with <a href="https://nilslukas.github.io">Dr. Nils Lukas</a>, <a href="https://lahlou.org">Dr. Salem Lahlou</a>, and <a href="https://mtakac.com">Dr. Martin Takac</a>. I received my Ph.D. in Artificial Intelligence from <a href="http://ai.ruc.edu.cn">Gaoling School of Artificial Intelligence</a>, Renmin University of China (2021-2025), supervised by Prof. <a href="http://ai.ruc.edu.cn/english/GSAI_FACULTY/28026f7425324f61991c70d279372d13.htm">Rui Yan</a>. Prior to RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing).</p>
+  <p>Hi, there! I’m **Yuhan**!.I am currently a Postdoctoral Research Fellow at the Machine Learning Department of MBZUAI, working with <a href="https://nilslukas.github.io">Nils Lukas</a>, <a href="https://lahlou.org">Salem Lahlou</a>, and <a href="https://mtakac.com">Martin Takac</a>. I am a recipient of <a href="https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/#LiuYuhan">DAAD AI Postdoc Fellowship</a> in 2025. I received my Ph.D. in Artificial Intelligence from <a href="http://ai.ruc.edu.cn">Gaoling School of Artificial Intelligence</a>, Renmin University of China (2021-2025). Prior to RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing).</p>
 </div>
 
 <div class="highlight-box">
-<strong>I am on the 2026 Fall job market, actively seeking faculty and postdoctoral positions.</strong> Feel free to reach out at <a href="mailto:liuyuhaning@gmail.com">liuyuhaning@gmail.com</a>.
+<strong>I am on the 2026 Fall job market, actively seeking faculty positions.</strong> Feel free to reach out at <a href="mailto:liuyuhaning@gmail.com">liuyuhaning@gmail.com</a>.
 </div>
 
 ## ❤️ Research Interests
 {: #research}
 
-My research focuses on **building safe and secure Agentic AI**, including:
+My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems**, including:
 
-- **Responsible Agentic Systems**: How to build safe and secure agentic systems
-- **Fake News and Social Systems**: Investigating the use of LLMs in addressing the propagation of fake news and their role in social dynamics
-- **Vision-Language Models and Reasoning**: Exploring complex reasoning paradigms in VLMs and their applications
-- **Societal Challenges of LLMs**: Exploring issues such as hallucination, hate speech, bias, and the alignment of LLMs with societal norms
+- **Trustworthy Information and Social Simulation**: How misinformation propagates, evolves, and can be governed in complex social systems.
+- **Trustworthy Multimodal Perception and Reasoning**: Extends trustworthy AI from text to multimodal settings, focusing on improving perception and reasoning in Multimodal Large Language Models.
+- **Adaptive Reasoning and Self-Evolving Agentic System**: Improve the reasoning capabilities of Agentic System through adaptation and self-evolution
+- **Structured / Domain-grounded Foundation Models**: How structured knowledge and domain-specific information can enhance foundation models.
 
 ## 🔥 News
 {: #news}
