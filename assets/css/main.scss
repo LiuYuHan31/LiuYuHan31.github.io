@@ -40,70 +40,398 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.paper-box {
-    display: flex;
-    justify-content: left;
+/* ==========================================================================
+   CUSTOM STYLES - Limanling-inspired academic homepage
+   ========================================================================== */
+
+/* ---- Profile Section ---- */
+.profile-section {
+  display: flex;
+  align-items: flex-start;
+  gap: 40px;
+  padding: 2em 0 1.5em 0;
+  margin-bottom: 0.5em;
+
+  @media (max-width: 768px) {
+    flex-direction: column;
     align-items: center;
-    flex-direction: row;
-    flex-wrap: wrap;
-    border-bottom: 1px #efefef solid;
-    padding: 2em 0 2em 0;
-    
+    text-align: center;
+    gap: 20px;
+  }
+}
 
+.profile-photo {
+  flex-shrink: 0;
+
+  img {
+    width: 220px;
+    height: 220px;
+    border-radius: 50%;
+    border: 1px solid #e5e7eb;
+    object-fit: cover;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.06);
+  }
+}
+
+.profile-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.profile-name {
+  font-size: 2em;
+  font-weight: 700;
+  color: #2c2c2c;
+  margin: 0 0 0.2em 0;
+  padding: 0;
+  border: none !important;
+
+  &:before {
+    display: none !important;
+  }
+}
+
+.profile-title {
+  font-size: 1.1em;
+  color: #4b4b4b;
+  margin: 0 0 0.15em 0;
+  font-weight: 500;
+}
+
+.profile-affiliation {
+  font-size: 0.95em;
+  color: #6b6b6b;
+  margin: 0 0 0.1em 0;
+}
+
+.profile-location {
+  font-size: 0.9em;
+  color: #888;
+  margin: 0 0 0.8em 0;
+}
+
+.profile-links {
+  display: flex;
+  gap: 16px;
+  margin-bottom: 1em;
+  flex-wrap: wrap;
+
+  @media (max-width: 768px) {
+    justify-content: center;
+  }
+
+  a {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    background: #f5f5f5;
+    color: #4b4b4b;
+    font-size: 1.1em;
+    text-decoration: none !important;
+    transition: all 0.2s ease;
+
+    &:hover {
+      background: #5b4dd6;
+      color: #fff;
+    }
+  }
+}
+
+.profile-bio {
+  font-size: 0.95em;
+  line-height: 1.7;
+  color: #4b4b4b;
+  margin: 0;
+
+  a {
+    color: #5b4dd6;
+    text-decoration: none !important;
+
+    &:hover {
+      text-decoration: underline !important;
+    }
+  }
+}
+
+/* ---- Highlight Box (Job Market) ---- */
+.highlight-box {
+  background: #faf8ff;
+  border-left: 4px solid #5b4dd6;
+  padding: 1em 1.5em;
+  margin: 1em 0 2em 0;
+  border-radius: 0 6px 6px 0;
+  font-size: 0.95em;
+  color: #2c2c2c;
+
+  a {
+    color: #5b4dd6;
+  }
+}
+
+/* Section header styles are in _page.scss */
+
+/* ---- News List ---- */
+.news-list {
+  max-height: 450px;
+  overflow-y: auto;
+  background: #fafafa;
+  border: 1px solid #e5e7eb;
+  border-radius: 8px;
+  padding: 15px 20px 15px 20px;
+
+  &::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: #ccc;
+    border-radius: 3px;
+  }
+
+  ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  li {
+    padding: 8px 0;
+    border-bottom: 1px solid #f0f0f0;
+    font-size: 0.92em;
+    line-height: 1.6;
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+}
+
+.news-date {
+  display: inline-block;
+  font-weight: 600;
+  color: #5b4dd6;
+  min-width: 70px;
+  margin-right: 8px;
+}
+
+.highlight-text {
+  color: #c00000;
+  font-weight: 600;
+}
+
+/* ---- Publications ---- */
+.pub-note {
+  font-size: 0.9em;
+  color: #888;
+  margin-bottom: 1em;
+}
+
+.pub-list {
+  margin-top: 0.5em;
+}
+
+.pub-row {
+  display: flex;
+  align-items: flex-start;
+  gap: 16px;
+  padding: 14px 0;
+  border-bottom: 1px solid #f0f0f0;
+
+  &:last-child {
+    border-bottom: none;
+  }
+
+  @media (max-width: 768px) {
+    flex-direction: column;
+    gap: 6px;
+  }
+}
+
+.pub-venue {
+  flex-shrink: 0;
+  display: inline-block;
+  min-width: 100px;
+  padding: 3px 10px;
+  background: #5b4dd6;
+  color: #fff;
+  font-size: 0.78em;
+  font-weight: 600;
+  border-radius: 4px;
+  text-align: center;
+  margin-top: 2px;
+  white-space: nowrap;
+}
+
+.pub-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.pub-title {
+  font-weight: 600;
+  font-size: 0.95em;
+  line-height: 1.5;
+  margin-bottom: 4px;
+  color: #2c2c2c;
+
+  a {
+    color: #2c2c2c;
+    text-decoration: none !important;
+
+    &:hover {
+      color: #5b4dd6;
+    }
+  }
+}
+
+.pub-authors {
+  font-size: 0.88em;
+  color: #6b6b6b;
+  line-height: 1.5;
+  margin-bottom: 2px;
+}
+
+.pub-extra {
+  font-size: 0.85em;
+  margin-top: 2px;
+}
+
+/* ---- Footer ---- */
+.site-footer {
+  margin-top: 4em;
+  padding: 1.5em 0;
+  border-top: 1px solid #e5e7eb;
+  text-align: center;
+  color: #888;
+  font-size: 0.9em;
+
+  .footer-inner {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 1em;
+  }
+
+  p {
+    margin: 0;
+  }
+}
+
+/* ---- Override old styles ---- */
+
+/* Remove old sidebar layout */
+.sidebar {
+  display: none !important;
+}
+
+/* Override page layout to be centered single-column */
+#main {
+  max-width: 900px;
+  margin: 0 auto;
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+}
+
+.page {
+  float: none !important;
+  width: 100% !important;
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Override old paper-box if present */
+.paper-box {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  border-bottom: 1px #efefef solid;
+  padding: 2em 0 2em 0;
+
+  .paper-box-image{
+    justify-content: center;
+    display: flex;
+    width: 100%;
+    order: 2;
+    img {
+      max-width: 400px;
+      box-shadow: 3px 3px 6px #888;
+      object-fit: cover;
+    }
+  }
+
+  .paper-box-text{
+    max-width: 100%;
+    order: 1;
+  }
+
+  @include breakpoint($medium) {
     .paper-box-image{
-        justify-content: center;
-        display: flex;
-        width: 100%;
-        order: 2;
-        img {
-            max-width: 400px;
-            box-shadow: 3px 3px 6px #888;
-            object-fit: cover;
-        }
+      justify-content: left;
+      min-width: 200px;
+      max-width: 40%;
+      order: 1;
     }
-    
+
     .paper-box-text{
-        max-width: 100%;
-        order: 1;
+      justify-content: left;
+      padding-left: 2em;
+      max-width: 60%;
+      order: 2;
     }
-    
-    @include breakpoint($medium) {
-        .paper-box-image{
-            justify-content: left;
-            min-width: 200px;
-            max-width: 40%;
-            order: 1;
-        }
-        
-        .paper-box-text{
-            justify-content: left;
-            padding-left: 2em;
-            max-width: 60%;
-            order: 2;
-        }
-
-    }
-
-
+  }
 }
 
 $scroll_offset : 2em;
-h1:before, .anchor:before { 
-    content: ''; 
-    display: block; 
-    position: relative; 
-    width: 0; 
-    height: $scroll_offset; 
-    margin-top: -$scroll_offset;
+h1:before, .anchor:before {
+  content: '';
+  display: block;
+  position: relative;
+  width: 0;
+  height: $scroll_offset;
+  margin-top: -$scroll_offset;
 }
 
 .badge {
-    padding-left: 1rem;
-    padding-right: 1rem;
-    position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
-    color: white;
-    background-color: #00369f;
-    font-size: .8em;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  position: absolute;
+  margin-top: .5em;
+  margin-left: -.5em;
+  color: white;
+  background-color: #5b4dd6;
+  font-size: .8em;
+}
+
+/* Smooth scrolling */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Override link styles in content */
+.page__content a {
+  text-decoration: none;
+  color: #5b4dd6;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}
+
+/* Lists in content */
+.page__content {
+  ul, ol {
+    li {
+      font-size: 0.95em;
+      line-height: 1.7;
+      margin-bottom: 0.3em;
+    }
+  }
 }

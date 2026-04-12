@@ -15,8 +15,6 @@ layout: compress
     {% include masthead.html %}
 
     <div id="main" role="main">
-      {% include sidebar.html %}
-    
       <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
         {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
         <div class="page__inner-wrap">
@@ -26,6 +24,12 @@ layout: compress
         </div>
       </article>
     </div>
+
+    <footer class="site-footer">
+      <div class="footer-inner">
+        <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}. All rights reserved.</p>
+      </div>
+    </footer>
 
     {% include scripts.html %}
 
