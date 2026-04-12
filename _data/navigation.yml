@@ -1,5 +1,8 @@
 # main links
 main:
+  - title: "Research"
+    url: "/#research"
+
   - title: "News"
     url: "/#news"
 
@@ -15,8 +18,14 @@ main:
   - title: "Talks"
     url: "/#talks"
 
+  - title: "Students"
+    url: "/#students"
+
   - title: "Experience"
     url: "/#experience"
 
   - title: "Teaching"
     url: "/#teaching"
+
+  - title: "Friends"
+    url: "/#friends"
