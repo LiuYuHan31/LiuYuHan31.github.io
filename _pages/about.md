@@ -65,7 +65,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
 ## 📝 Publications
 {: #publications}
 
-<p class="pub-note"><code>*</code> indicates co-first author, <code>#</code> indicates co-corresponding author</p>
+<p class="pub-note"><code>*</code> indicates Co-first Author, <code>#</code> indicates Corresponding Author</p>
 
 <div class="pub-list">
 
@@ -89,7 +89,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   <div class="pub-venue">ACL 2026 Findings</div>
   <div class="pub-text">
     <div class="pub-title">From Style to Story: A Curriculum Learning Approach for Imitative Novel Generation</div>
-    <div class="pub-authors">Xueran Han, <strong><u>Yuhan Liu</u></strong>, Mingzhe Li, Wei Liu, Sen Hu, Rui Yan, Zhiqiang Xu, and Xiuying Chen</div>
+    <div class="pub-authors">Xueran Han, <strong><u>Yuhan Liu</u></strong>, Mingzhe Li, Wei Liu, Sen Hu, Rui Yan, Zhiqiang Xu, Xiuying Chen</div>
   </div>
 </div>
 
@@ -97,7 +97,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   <div class="pub-venue">ACL 2026 Findings</div>
   <div class="pub-text">
     <div class="pub-title">Temporal Contrastive Decoding: A Training-Free Method for Large Audio-Language Models</div>
-    <div class="pub-authors">Yanda Li, <strong><u>Yuhan Liu</u></strong>, Zirui Song, Yunchao Wei, Martin Takáč, and Salem Lahlou</div>
+    <div class="pub-authors">Yanda Li, <strong><u>Yuhan Liu</u></strong>, Zirui Song, Yunchao Wei, Martin Takáč, Salem Lahlou</div>
   </div>
 </div>
 
@@ -105,7 +105,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   <div class="pub-venue">ACL 2026 Findings</div>
   <div class="pub-text">
     <div class="pub-title">Divide-Fuse-Conquer: A Progressive Reinforcement Learning Strategy for Stabilizing LLMs across Diverse Games</div>
-    <div class="pub-authors">Xiaoqing Zhang, Huabin Zheng, Ang Lv, <strong><u>Yuhan Liu</u></strong>, Zirui Song, Xiuying Chen, Rui Yan, and Flood Sung</div>
+    <div class="pub-authors">Xiaoqing Zhang, Huabin Zheng, Ang Lv, <strong><u>Yuhan Liu</u></strong>, Zirui Song, Xiuying Chen, Rui Yan, Flood Sung</div>
   </div>
 </div>
 
@@ -113,7 +113,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   <div class="pub-venue">ACL 2026 Findings</div>
   <div class="pub-text">
     <div class="pub-title">GlossaGen: Making Academic Translation Smarter with Glossing</div>
-    <div class="pub-authors">Zixiao Wang, Duzhen Zhang, Juntian Zhang, <strong><u>Yuhan Liu</u></strong>, Guoming Li, Haolun Wu, Le Song, and Xiuying Chen</div>
+    <div class="pub-authors">Zixiao Wang, Duzhen Zhang, Juntian Zhang, <strong><u>Yuhan Liu</u></strong>, Guoming Li, Haolun Wu, Le Song, Xiuying Chen</div>
   </div>
 </div>
 
@@ -121,7 +121,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   <div class="pub-venue">ICLR 2026</div>
   <div class="pub-text">
     <div class="pub-title">Viper: Empowering the Self-Evolution of Visual Perception Abilities in Vision-Language Model</div>
-    <div class="pub-authors">Juntian Zhang, Song Jin, Chuanqi Cheng, <strong><u>Yuhan Liu</u></strong>, Yankai Lin, Xun Zhang, Yufei Zhang, Fei Jiang, Guojun Yin, Wei Lin, and Rui Yan</div>
+    <div class="pub-authors">Juntian Zhang, Song Jin, Chuanqi Cheng, <strong><u>Yuhan Liu</u></strong>, Yankai Lin, Xun Zhang, Yufei Zhang, Fei Jiang, Guojun Yin, Wei Lin, Rui Yan</div>
   </div>
 </div>
 
@@ -129,7 +129,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   <div class="pub-venue">ICLR 2026 WS</div>
   <div class="pub-text">
     <div class="pub-title">TTCS: Test-Time Curriculum Synthesis for Self-Evolving</div>
-    <div class="pub-authors">Chengyi Yang, Zhishang Xiang, Yunbo Tang, Zongpei Teng, Chengsong Huang, <strong>Yuhan Liu#</strong>, and Jinsong Su#</div>
+    <div class="pub-authors">Chengyi Yang, Zhishang Xiang, Yunbo Tang, Zongpei Teng, Chengsong Huang, <strong>Yuhan Liu#</strong>, Jinsong Su#</div>
   </div>
 </div>
 
