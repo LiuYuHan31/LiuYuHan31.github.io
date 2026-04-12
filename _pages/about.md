@@ -305,10 +305,10 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
 ## 🎓 Collaborative Students
 {: #students}
 
-**Yubo Wang** (M.S. @ Fudan University), **Dylan Xinming Hou** (M.S. @ MBZUAI)
-<br>**Abdalla Alzaabi** (M.S. @ MBZUAI), **Yifei Zhao** (M.S. @ Tsinghua University)
+- **Yubo Wang** (M.S. @ Fudan University), **Dylan Xinming Hou** (M.S. @ MBZUAI)
+- **Abdalla Alzaabi** (M.S. @ MBZUAI), **Yifei Zhao** (M.S. @ Tsinghua University)
 
-- **Chengyi Yang**, **Meiman Chen**, **Jue Hou** (M.S. @ Xiamen University)
+- **Chengyi Yang**, **Meiman Xiao**, **Jue Hou** (M.S. @ Xiamen University)
 - **Weixin Chen**, **Zongpei Teng**, **Peien Ding** (B.S. @ Xiamen University)
 
 ## 💻 Experience
@@ -337,7 +337,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
 Thanks to my best friends! Your help and encouragement are my greatest motivation, and I look forward to creating a better future with all of you!
 
 - <a href="https://iriscxy.github.io/">Xiuying Chen</a> &mdash; Assistant Professor at MBZUAI
-- <a href="https://wuyichen-97.github.io/">Yichen Wu</a> &mdash; Postdoctor at Harvard
-- <a href="https://scholar.google.com/citations?user=K-6vOfkAAAAJ&hl=zh-CN">Juntian Zhang</a> &mdash; Master's student at Renmin University of China
+- <a href="https://wuyichen-97.github.io/">Yichen Wu</a> &mdash; Postdoctor at Harvard University
+- <a href="https://scholar.google.com/citations?user=K-6vOfkAAAAJ&hl=zh-CN">Juntian Zhang</a> &mdash; Master's student at Renmin University of China and Interning at Tencent WeChat
 - <a href="https://trestad.github.io/">Ang Lv</a> &mdash; Ph.D. Candidate at Renmin University of China and Interning at ByteDance Top Seed
-- <a href="https://www.linkedin.com/in/bowen-li-5a3610344/">Bowen Li</a> &mdash; Ph.D. Candidate at Tsinghua University and visiting at University of Twente
+- <a href="https://www.linkedin.com/in/bowen-li-5a3610344/">Bowen Li</a> &mdash; Ph.D. and incoming postdoc at Tsinghua University and visiting at University of Twente
