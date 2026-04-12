@@ -65,25 +65,29 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
 ## 📝 Publications
 {: #publications}
 
-<p class="pub-note"><code>*</code> indicates co-corresponding author</p>
+<p class="pub-note"><code>*</code> indicates co-first author, <code>#</code> indicates co-corresponding author</p>
 
 <div class="pub-list">
 
 <div class="pub-row">
-  <div class="pub-venue">EMNLP 2025</div>
+  <div class="pub-venue-col">
+    <div class="pub-venue">EMNLP 2025</div>
+    <div class="pub-extra"><span class="highlight-text">Oral</span></div>
+  </div>
   <div class="pub-text">
     <div class="pub-title"><a href="https://arxiv.org/abs/2410.19064">The Stepwise Deception: Simulating the Evolution from True News to Fake News with LLM Agents</a></div>
     <div class="pub-authors"><strong>Yuhan Liu</strong>, Zirui Song, Juntian Zhang, Xiaoqing Zhang, Xiuying Chen, Rui Yan</div>
-    <div class="pub-extra"><span class="highlight-text">Oral</span></div>
   </div>
 </div>
 
 <div class="pub-row">
-  <div class="pub-venue">SIGIR 2025</div>
+  <div class="pub-venue-col">
+    <div class="pub-venue">SIGIR 2025</div>
+    <div class="pub-extra"><span class="highlight-text">Oral</span></div>
+  </div>
   <div class="pub-text">
     <div class="pub-title"><a href="https://arxiv.org/abs/2505.08532">The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News</a></div>
     <div class="pub-authors"><strong>Yuhan Liu</strong>, Yuxuan Liu, Xiaoqing Zhang, Xiuying Chen, Rui Yan</div>
-    <div class="pub-extra"><span class="highlight-text">Oral</span></div>
   </div>
 </div>
 
@@ -99,7 +103,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   <div class="pub-venue">EMNLP 2025</div>
   <div class="pub-text">
     <div class="pub-title"><a href="https://arxiv.org/abs/2505.16429">Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems</a></div>
-    <div class="pub-authors">Song Jin, Juntian Zhang, <strong>Yuhan Liu*</strong>, Xun Zhang, Yufei Zhang, Guojun Yin, Fei Jiang, Wei Lin, Rui Yan*</div>
+    <div class="pub-authors">Song Jin, Juntian Zhang, <strong>Yuhan Liu#</strong>, Xun Zhang, Yufei Zhang, Guojun Yin, Fei Jiang, Wei Lin, Rui Yan#</div>
   </div>
 </div>
 
@@ -107,7 +111,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   <div class="pub-venue">ACL 2025</div>
   <div class="pub-text">
     <div class="pub-title"><a href="https://arxiv.org/abs/2504.20199">Weaving Context Across Images: Improving Vision-Language Models through Focus-Centric Visual Chains</a></div>
-    <div class="pub-authors">Juntian Zhang, Chuanqi Cheng, <strong>Yuhan Liu*</strong>, Wei Liu, Jian Luan, Rui Yan*</div>
+    <div class="pub-authors">Juntian Zhang, Chuanqi Cheng, <strong>Yuhan Liu#</strong>, Wei Liu, Jian Luan, Rui Yan#</div>
   </div>
 </div>
 
@@ -115,7 +119,7 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   <div class="pub-venue">ACL 2025</div>
   <div class="pub-text">
     <div class="pub-title"><a href="https://aclanthology.org/2025.findings-acl.1195.pdf">Thinking Before Running! Efficient Code Generation with Thorough Exploration and Optimal Refinement</a></div>
-    <div class="pub-authors">Xiaoqing Zhang, <strong>Yuhan Liu*</strong>, Flood Sung, Xiuying Chen, Rui Yan*</div>
+    <div class="pub-authors">Xiaoqing Zhang, <strong>Yuhan Liu#</strong>, Flood Sung, Xiuying Chen, Rui Yan#</div>
   </div>
 </div>
 
@@ -128,11 +132,13 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
 </div>
 
 <div class="pub-row">
-  <div class="pub-venue">SIGIR 2025</div>
+  <div class="pub-venue-col">
+    <div class="pub-venue">SIGIR 2025</div>
+    <div class="pub-extra"><span class="highlight-text">Oral</span></div>
+  </div>
   <div class="pub-text">
     <div class="pub-title"><a href="https://dl.acm.org/doi/10.1145/3726302.3730334">SAGraph: A Large-Scale Social Graph Dataset with Comprehensive Context for Influencer Selection in Marketing</a></div>
     <div class="pub-authors">Xiaoqing Zhang, <strong>Yuhan Liu</strong>, Jianzhou Wang, Zhenxing Hu, Xiuying Chen, Rui Yan</div>
-    <div class="pub-extra"><span class="highlight-text">Oral</span></div>
   </div>
 </div>
 
@@ -145,11 +151,13 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
 </div>
 
 <div class="pub-row">
-  <div class="pub-venue">IJCAI 2024</div>
+  <div class="pub-venue-col">
+    <div class="pub-venue">IJCAI 2024</div>
+    <div class="pub-extra"><span class="highlight-text">Oral</span>, Human-Centred AI Track, <span class="highlight-text">4% acceptance rate</span></div>
+  </div>
   <div class="pub-text">
     <div class="pub-title"><a href="https://arxiv.org/abs/2403.09498">From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News</a></div>
     <div class="pub-authors"><strong>Yuhan Liu</strong>, Xiuying Chen, Xiaoqing Zhang, Xing Gao, Ji Zhang, Rui Yan</div>
-    <div class="pub-extra"><span class="highlight-text">Oral</span>, Human-Centred AI Track, <span class="highlight-text">4% acceptance rate</span></div>
   </div>
 </div>
 
@@ -170,11 +178,13 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
 </div>
 
 <div class="pub-row">
-  <div class="pub-venue">CCL 2023</div>
+  <div class="pub-venue-col">
+    <div class="pub-venue">CCL 2023</div>
+    <div class="pub-extra"><span class="highlight-text">Oral</span></div>
+  </div>
   <div class="pub-text">
     <div class="pub-title">Unleashing the power of large models: Exploring human-machine conversations</div>
     <div class="pub-authors"><strong>Yuhan Liu</strong>, Xiuying Chen, Rui Yan</div>
-    <div class="pub-extra"><span class="highlight-text">Oral</span></div>
   </div>
 </div>
 

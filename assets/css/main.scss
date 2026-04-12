@@ -329,6 +329,23 @@ $layout-gap: 50px;
   }
 }
 
+.pub-venue-col {
+  flex-shrink: 0;
+  min-width: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 4px;
+  margin-top: 2px;
+
+  .pub-extra {
+    font-size: 0.8em;
+    margin: 0;
+    text-align: center;
+    white-space: nowrap;
+  }
+}
+
 .pub-venue {
   flex-shrink: 0;
   display: inline-block;
