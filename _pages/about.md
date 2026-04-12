@@ -308,8 +308,8 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
 **Yubo Wang** (M.S. @ Fudan University), **Dylan Xinming Hou** (M.S. @ MBZUAI)
 <br>**Abdalla Alzaabi** (M.S. @ MBZUAI), **Yifei Zhao** (M.S. @ Tsinghua University)
 
-- M.S. @ Xiamen University: **Chengyi Yang**, **Meiman Chen**, **Jue Hou**
-- B.S. @ Xiamen University: **Weixin Chen**, **Zongpei Teng**, **Peien Ding**
+- **Chengyi Yang**, **Meiman Chen**, **Jue Hou** (M.S. @ Xiamen University)
+- **Weixin Chen**, **Zongpei Teng**, **Peien Ding** (B.S. @ Xiamen University)
 
 ## 💻 Experience
 {: #experience}
