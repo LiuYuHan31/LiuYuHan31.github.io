@@ -70,6 +70,70 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
 <div class="pub-list">
 
 <div class="pub-row">
+  <div class="pub-venue">ACL 2026 Main</div>
+  <div class="pub-text">
+    <div class="pub-title"><a href="https://arxiv.org/abs/2601.06803">Forest Before Trees: Latent Superposition for Efficient Visual Reasoning</a></div>
+    <div class="pub-authors">Yubo Wang, Juntian Zhang, Yichen Wu, Yankai Lin, Nils Lukas, and <strong>Yuhan Liu#</strong></div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="pub-venue">ACL 2026 Findings</div>
+  <div class="pub-text">
+    <div class="pub-title">Detecting AI-Generated Video: A Vision-Language Dual-View Survey</div>
+    <div class="pub-authors">Dylan Xinming Hou, Juntian Zhang, Xu Gu, Yichen Wu, Nils Lukas, Gus Xia, Xiuying Chen, and <strong>Yuhan Liu#</strong></div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="pub-venue">ACL 2026 Findings</div>
+  <div class="pub-text">
+    <div class="pub-title">From Style to Story: A Curriculum Learning Approach for Imitative Novel Generation</div>
+    <div class="pub-authors">Xueran Han, <strong>Yuhan Liu</strong>, Mingzhe Li, Wei Liu, Sen Hu, Rui Yan, Zhiqiang Xu, and Xiuying Chen</div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="pub-venue">ACL 2026 Findings</div>
+  <div class="pub-text">
+    <div class="pub-title">Temporal Contrastive Decoding: A Training-Free Method for Large Audio-Language Models</div>
+    <div class="pub-authors">Yanda Li, <strong>Yuhan Liu</strong>, Zirui Song, Yunchao Wei, Martin Takáč, and Salem Lahlou</div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="pub-venue">ACL 2026 Findings</div>
+  <div class="pub-text">
+    <div class="pub-title">Divide-Fuse-Conquer: A Progressive Reinforcement Learning Strategy for Stabilizing LLMs across Diverse Games</div>
+    <div class="pub-authors">Xiaoqing Zhang, Huabin Zheng, Ang Lv, <strong>Yuhan Liu</strong>, Zirui Song, Xiuying Chen, Rui Yan, and Flood Sung</div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="pub-venue">ACL 2026 Findings</div>
+  <div class="pub-text">
+    <div class="pub-title">GlossaGen: Making Academic Translation Smarter with Glossing</div>
+    <div class="pub-authors">Zixiao Wang, Duzhen Zhang, Juntian Zhang, <strong>Yuhan Liu</strong>, Guoming Li, Haolun Wu, Le Song, and Xiuying Chen</div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="pub-venue">ICLR 2026</div>
+  <div class="pub-text">
+    <div class="pub-title">Viper: Empowering the Self-Evolution of Visual Perception Abilities in Vision-Language Model</div>
+    <div class="pub-authors">Juntian Zhang, Song Jin, Chuanqi Cheng, <strong>Yuhan Liu</strong>, Yankai Lin, Xun Zhang, Yufei Zhang, Fei Jiang, Guojun Yin, Wei Lin, and Rui Yan</div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="pub-venue">ICLR 2026 WS</div>
+  <div class="pub-text">
+    <div class="pub-title">TTCS: Test-Time Curriculum Synthesis for Self-Evolving</div>
+    <div class="pub-authors">Chengyi Yang, Zhishang Xiang, Yunbo Tang, Zongpei Teng, Chengsong Huang, <strong>Yuhan Liu#</strong>, and Jinsong Su#</div>
+  </div>
+</div>
+
+<div class="pub-row">
   <div class="pub-venue-col">
     <div class="pub-venue">EMNLP 2025</div>
     <div class="pub-extra"><span class="highlight-text">Oral</span></div>
@@ -186,21 +250,6 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
   </div>
 </div>
 
-<div class="pub-row">
-  <div class="pub-venue">ICLR 2026</div>
-  <div class="pub-text">
-    <div class="pub-title">Paper at ICLR 2026</div>
-    <div class="pub-authors"><strong>Yuhan Liu</strong> et al.</div>
-  </div>
-</div>
-
-<div class="pub-row">
-  <div class="pub-venue">Preprint</div>
-  <div class="pub-text">
-    <div class="pub-title">Pastiche Novel Generation: Creating Fan Fiction You Love in Your Favorite Author's Style</div>
-    <div class="pub-authors">Xueran Han, <strong>Yuhan Liu</strong>, Mingzhe Li, Wei Liu, Sen Hu, Rui Yan, Zhiqiang Xu, Xiuying Chen</div>
-  </div>
-</div>
 
 <div class="pub-row">
   <div class="pub-venue">Preprint</div>
