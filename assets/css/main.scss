@@ -166,10 +166,16 @@ $layout-gap: 50px;
     }
   }
 
+  .profile-email {
+    font-size: 0.85em;
+    color: #555;
+    margin: 0 0 0.8em 0;
+  }
+
   .profile-location {
     font-size: 0.85em;
     color: #888;
-    margin: 0 0 1em 0;
+    margin: 0 0 0.6em 0;
 
     i {
       margin-right: 4px;
