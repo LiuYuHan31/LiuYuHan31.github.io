@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div class="about-bio">
-  <p>Hi, there! I’m **Yuhan**!.I am currently a Postdoctoral Research Fellow at the Machine Learning Department of MBZUAI, working with <a href="https://nilslukas.github.io">Nils Lukas</a>, <a href="https://lahlou.org">Salem Lahlou</a>, and <a href="https://mtakac.com">Martin Takac</a>. I am a recipient of <a href="https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/#LiuYuhan">DAAD AI Postdoc Fellowship</a> in 2025. I received my Ph.D. in Artificial Intelligence from <a href="http://ai.ruc.edu.cn">Gaoling School of Artificial Intelligence</a>, Renmin University of China (2021-2025). Prior to RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing).</p>
+  <p>Hi, there! I’m Yuhan!.I am currently a Postdoctoral Research Fellow at the Machine Learning Department of MBZUAI, working with <a href="https://nilslukas.github.io">Nils Lukas</a>, <a href="https://lahlou.org">Salem Lahlou</a>, and <a href="https://mtakac.com">Martin Takac</a>. I am a recipient of <a href="https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/#LiuYuhan">DAAD AI Postdoc Fellowship</a> in 2025. I received my Ph.D. in Artificial Intelligence from <a href="http://ai.ruc.edu.cn">Gaoling School of Artificial Intelligence</a>, Renmin University of China (2021-2025). Prior to RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing).</p>
 </div>
 
 <div class="highlight-box">
@@ -40,9 +40,10 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
 
 <div class="news-list">
 <ul>
+<li><span class="news-date">2026.04</span> 🎉🎉 Six paper is accepted by <strong>ACL 2026</strong> (Santiago, USA)🥳🥳</li>
 <li><span class="news-date">2026.01</span> 🎉🎉 One paper is accepted by <strong>ICLR 2026</strong> (Rio de Janeiro, Brazil)！Celebrating this with my good friend Juntian!🥳🥳</li>
 <li><span class="news-date">2025.11</span> 🎉🎉 I was awarded a <strong>DAAD fellowship</strong>！</li>
-<li><span class="news-date">2025.10</span> 🎉 Invited to serve as an <span class="highlight-text">Area Chair</span> for ACL Rolling Review</li>
+<li><span class="news-date">2025.10</span> 🎉 Invited to serve as an <span class="highlight-text">Area Chair</span> for ACL.</li>
 <li><span class="news-date">2025.08</span> 🎉🎉 Three paper are accepted by <strong>EMNLP 2025</strong> (Suzhou, China)!</li>
 <li><span class="news-date">2025.08</span> 🥳🥳🎉🎉 I joined <strong>MBZUAI</strong> as a Postdoctoral Research Fellow of Machine Learning.</li>
 <li><span class="news-date">2025.07</span> ✈️ Attending <strong>ACL 2025</strong> in Vienna—looking forward to connecting!</li>
@@ -231,14 +232,15 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
 {: #services}
 
 - **Session Chair**: IJCAI 2024 NLP Track (Jeju, Republic of Korea)
-- **Area Chair**: ACL Rolling Review
-- **Reviewer**: ACL, EMNLP, ICLR, WWW, ACL Rolling Review
+- **Area Chair**: ACL, EMNLP
+- **Reviewer**: ACL, EMNLP, ICLR, ICML, NeurIPS, SIGIR, WWW, ACM MM, ECAI
 - **Program Committee**: AAAI, IJCAI
-- **Journal Reviewer**: *IEEE Transactions on Artificial Intelligence*, *Information Sciences*, *Financial Innovation*
+- **Journal Reviewer**: *Nature Human Behaviour*, *IEEE Transactions on Artificial Intelligence*, *Information Sciences*, *Financial Innovation*
 
 ## 💬 Invited Talks
 {: #talks}
 
+- **2026.04** &mdash; When Truth Fakes Itself: A Multi-Agent Modeling Approach to Fake News Detection, Propagation, and Evolution Simulation, Natural Language Processing Department, MBZUAI
 - **2025.05** &mdash; True Yet False: Large Language Model-based Multi-Agent Systems for Enhanced Security, XiaMen University
 - **2025.04** &mdash; Large Language Model-Based Multi-Agent System for Fake News, School of Journalism and Communication, Renmin University of China
 - **2024.08** &mdash; From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News, Microsoft Research Asia
