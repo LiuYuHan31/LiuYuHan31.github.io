@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div class="about-bio">
-  <p>Hi, there! I’m Yuhan! I am currently a Postdoctoral Research Fellow at the Machine Learning Department of MBZUAI, working with <a href="https://nilslukas.github.io">Nils Lukas</a>, <a href="https://lahlou.org">Salem Lahlou</a>, and <a href="https://mtakac.com">Martin Takac</a>. I am a recipient of <a href="https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/#LiuYuhan">DAAD AI Fellowship</a> in 2025. I received my Ph.D. in Artificial Intelligence from <a href="http://ai.ruc.edu.cn">Gaoling School of Artificial Intelligence</a>, Renmin University of China (2021-2025). Prior to RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing).</p>
+  <p>Hi, there! I’m Yuhan! I am currently a Postdoctoral Research Fellow at the Machine Learning Department of MBZUAI, working with <a href="https://nilslukas.github.io">Nils Lukas</a>, <a href="https://lahlou.org">Salem Lahlou</a>, and <a href="https://mtakac.com">Martin Takac</a>. Along the way, my work has been recognized by prestigious honors, including being selected as a <a href="https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/#LiuYuhan">DAAD AInet Fellow (2025)</a>  by the  <a href="https://www.daad.de/en/"> German Academic Exchange Service (DAAD)</a>. I received my Ph.D. in Artificial Intelligence from <a href="http://ai.ruc.edu.cn">Gaoling School of Artificial Intelligence</a>, Renmin University of China (2021-2025). Prior to RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing).</p>
 </div>
 
 <div class="highlight-box">
