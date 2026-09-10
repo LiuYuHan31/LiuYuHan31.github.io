@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div class="about-bio">
-  <p>Hi, there! I’m Yuhan! I am currently a Postdoctoral Research Fellow at the Machine Learning Department of MBZUAI, working with <a href="https://nilslukas.github.io">Nils Lukas</a>, <a href="https://lahlou.org">Salem Lahlou</a>, and <a href="https://mtakac.com">Martin Takac</a>. Along the way, my work has been recognized by prestigious honors, including being selected as a <a href="https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/#LiuYuhan">DAAD AInet Fellow (2025)</a>  by the  <a href="https://www.daad.de/en/"> German Academic Exchange Service (DAAD)</a>. I received my Ph.D. in Artificial Intelligence from <a href="http://ai.ruc.edu.cn">Gaoling School of Artificial Intelligence</a>, Renmin University of China (2021-2025). Prior to RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing).</p>
+  <p>Hi, there! I’m Yuhan! I am currently a Postdoctoral Research Fellow at the Machine Learning Department of MBZUAI, working with <a href="https://nilslukas.github.io">Nils Lukas</a>, <a href="https://lahlou.org">Salem Lahlou</a>, and <a href="https://mtakac.com">Martin Takac</a>. Along the way, my work has been recognized by prestigious honors, including being selected as a <a href="https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/#LiuYuhan">DAAD AInet Fellow (2025)</a>  by the  <a href="https://www.daad.de/en/"> German Academic Exchange Service (DAAD)</a>.I am also a visiting researcher with the multimodal group at the Technical University of Munich under the DAAD Fellowship, working with <a href="https://www.eml-munich.de/people/zeynep-akata">Prof. Zeynep Akata</a>.And I currently collaborate with <a href="https://researchers.mgh.harvard.edu/profile/4211743/Quanzheng-Li">Prof.Quanzheng Li</a> and <a href="https://wuyichen-97.github.io/">Dr.Yichen Wu</a> at Harvard Medical School on VLM- and agent-based methods for medicine. I received my Ph.D. in Artificial Intelligence from <a href="http://ai.ruc.edu.cn">Gaoling School of Artificial Intelligence</a>, Renmin University of China (2021-2025). Prior to RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing).</p>
 </div>
 
 <div class="highlight-box">
@@ -28,7 +28,7 @@ redirect_from:
 ## ❤️ Research Interests
 {: #research}
 
-My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems**, including:
+My research focuses on **Trustworthy Multimodal and Agentic AI for Open Information Ecosystems**, including:
 
 - **Trustworthy Information and Social Simulation**: How misinformation propagates, evolves, and can be governed in complex social systems.
 - **Trustworthy Multimodal Perception and Reasoning**: Extends trustworthy AI from text to multimodal settings, focusing on improving perception and reasoning in Multimodal Large Language Models.
@@ -279,7 +279,8 @@ My research focuses on **Trustworthy Agentic AI for Open Information Ecosystems*
 
 ## 🏅 Honors and Awards
 {: #awards}
-
+- **2026** &mdash; ICML Golden Reviewer Award
+- **2025** &mdash; DAAD AInet Fellowship, Germany
 - **2024** &mdash; "Qiushi Academic-Dongliang" Academic Project Funding, RUC
 - **2022, 2023, 2024** &mdash; Merit Student, RUC
 - **2017, 2020, 2025** &mdash; Outstanding Graduate, Beijing
