@@ -22,7 +22,7 @@ redirect_from:
 </div>
 
 <div class="highlight-box">
-<strong>I am on the 2026 Fall job market, actively seeking faculty positions.</strong> Feel free to reach out at <a href="mailto:liuyuhaning@gmail.com">liuyuhaning@gmail.com</a>.
+<strong>I am on the 2026 Fall job market, actively seeking faculty and postdoc positions.</strong> Feel free to reach out at <a href="mailto:liuyuhaning@gmail.com">liuyuhaning@gmail.com</a>.
 </div>
 
 ## ❤️ Research Interests
