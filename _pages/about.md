@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div class="about-bio">
-  <p>Hi there! I’m Yuhan! I am currently a Postdoctoral Research Fellow at the Machine Learning Department of MBZUAI, working with <a href="https://www.cs.mcgill.ca/~xueliu/">Prof. Steve (Xue) Liu</a> (IEEE Fellow, Fellow of the Canadian Academy of Engineering, ACM Distinguished Member) and <a href="https://jiank2.github.io/">Prof. Jian Kang</a>. Along the way, my work has been recognized by prestigious honors, including being selected as a <a href="https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/#LiuYuhan">DAAD AInet Fellow (2025)</a> by the <a href="https://www.daad.de/en/">German Academic Exchange Service (DAAD)</a>. I am also a visiting researcher with the multimodal group at the Technical University of Munich under the DAAD Fellowship, working with <a href="https://www.eml-munich.de/people/zeynep-akata">Prof. Zeynep Akata</a>. I also collaborate with <a href="https://researchers.mgh.harvard.edu/profile/4211743/Quanzheng-Li">Prof. Quanzheng Li</a> and <a href="https://wuyichen-97.github.io/">Dr. Yichen Wu</a> at Harvard Medical School on VLM- and agent-based methods for medicine. I received my Ph.D. in Artificial Intelligence from <a href="http://ai.ruc.edu.cn">Gaoling School of Artificial Intelligence</a>, Renmin University of China (2021-2025). Prior to RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing).</p>
+  <p>Hi there! I’m Yuhan! I am currently a Postdoctoral Research Fellow at the Computer Science Department of MBZUAI, working with <a href="https://www.cs.mcgill.ca/~xueliu/">Prof. Steve (Xue) Liu</a> (IEEE Fellow, Fellow of the Canadian Academy of Engineering, ACM Distinguished Member) and <a href="https://jiank2.github.io/">Prof. Jian Kang</a>. Along the way, my work has been recognized by prestigious honors, including being selected as a <a href="https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/#LiuYuhan">DAAD AInet Fellow (2025)</a> by the <a href="https://www.daad.de/en/">German Academic Exchange Service (DAAD)</a>. I am also a visiting researcher with the multimodal group at the Technical University of Munich under the DAAD Fellowship, working with <a href="https://www.eml-munich.de/people/zeynep-akata">Prof. Zeynep Akata</a>. I also collaborate with <a href="https://researchers.mgh.harvard.edu/profile/4211743/Quanzheng-Li">Prof. Quanzheng Li</a> and <a href="https://wuyichen-97.github.io/">Dr. Yichen Wu</a> at Harvard Medical School on VLM- and agent-based methods for medicine. I received my Ph.D. in Artificial Intelligence from <a href="http://ai.ruc.edu.cn">Gaoling School of Artificial Intelligence</a>, Renmin University of China (2021-2025). Prior to RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing).</p>
 </div>
 
 <div class="highlight-box">
@@ -72,218 +72,233 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
 
 <div class="pub-list">
 
-<div class="pub-row">
-  <div class="pub-venue">NeurIPS 2026</div>
+<div class="pub-item">
+  <div class="pub-thumb"><a class="image-popup" href="/images/publications/comma-full.webp" title="CoMMa: Contribution-Aware Medical Multi-Agents for Decentralized Oncology Decision Support"><img src="/images/publications/comma.webp" alt="Main figure of CoMMa: Contribution-Aware Medical Multi-Agents for Decentralized Oncology Decision Support" loading="lazy"></a></div>
   <div class="pub-text">
-    <div class="pub-title"><a href="https://arxiv.org/abs/2602.09159">CoMMa: Contribution-Aware Medical Multi-Agents for Decentralized Oncology Decision Support</a></div>
+    <div class="pub-title">CoMMa: Contribution-Aware Medical Multi-Agents for Decentralized Oncology Decision Support</div>
     <div class="pub-authors">Yichen Wu*, Kailong Fan*, Sangjoon Park*, <strong><u>Yuhan Liu</u></strong>, Zhiyi Shi, Sekeun Kim, Dania Daye, Hana Farzaneh, Xiang Li, Raul Uppot, Yujin Oh, Quanzheng Li</div>
-    <div class="pub-extra"><span class="highlight-text">Spotlight</span>, <span class="highlight-text">Top 0.69%</span></div>
+    <div class="pub-venue">Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2026. <span class="highlight-text">Spotlight</span>, <span class="highlight-text">Top 0.69%</span></div>
+    <div class="pub-links">[<a href="https://arxiv.org/abs/2602.09159">Paper</a>]</div>
   </div>
 </div>
 
-<div class="pub-row">
-  <div class="pub-venue">NeurIPS 2026</div>
+<div class="pub-item">
+  <div class="pub-thumb"><a class="image-popup" href="/images/publications/ttcs-full.webp" title="TTCS: Test-Time Curriculum Synthesis for Self-Evolving"><img src="/images/publications/ttcs.webp" alt="Main figure of TTCS: Test-Time Curriculum Synthesis for Self-Evolving" loading="lazy"></a></div>
   <div class="pub-text">
-    <div class="pub-title"><a href="https://arxiv.org/abs/2601.22628">TTCS: Test-Time Curriculum Synthesis for Self-Evolving</a></div>
+    <div class="pub-title">TTCS: Test-Time Curriculum Synthesis for Self-Evolving</div>
     <div class="pub-authors">Chengyi Yang, Zhishang Xiang, Yunbo Tang, Zongpei Teng, Chengsong Huang, Fei Long, <strong>Yuhan Liu#</strong>, Jinsong Su#</div>
+    <div class="pub-venue">Conference on Neural Information Processing Systems (<strong>NeurIPS</strong>), 2026.</div>
+    <div class="pub-links">[<a href="https://arxiv.org/abs/2601.22628">Paper</a>] [<a href="https://github.com/XMUDeepLIT/TTCS">Code</a>]</div>
   </div>
 </div>
 
-<div class="pub-row">
-  <div class="pub-venue">ACL 2026 Main</div>
+<div class="pub-item">
+  <div class="pub-thumb"><a class="image-popup" href="/images/publications/forest-full.webp" title="Forest Before Trees: Latent Superposition for Efficient Visual Reasoning"><img src="/images/publications/forest.webp" alt="Main figure of Forest Before Trees: Latent Superposition for Efficient Visual Reasoning" loading="lazy"></a></div>
   <div class="pub-text">
-    <div class="pub-title"><a href="https://aclanthology.org/2026.acl-long.517/">Forest Before Trees: Latent Superposition for Efficient Visual Reasoning</a></div>
-    <div class="pub-authors">Yubo Wang*, Juntian Zhang*, Yichen Wu, Yankai Lin, Nils Lukas,  <strong>Yuhan Liu#</strong></div>
+    <div class="pub-title">Forest Before Trees: Latent Superposition for Efficient Visual Reasoning</div>
+    <div class="pub-authors">Yubo Wang*, Juntian Zhang*, Yichen Wu, Yankai Lin, Nils Lukas, <strong>Yuhan Liu#</strong></div>
+    <div class="pub-venue">Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2026.</div>
+    <div class="pub-links">[<a href="https://aclanthology.org/2026.acl-long.517/">Paper</a>] [<a href="https://github.com/ybb6/laser">Code</a>] [<a href="https://mp.weixin.qq.com/s/BdisI0FZqLqEwyWnIQhzuQ">机器之心 (Synced)</a>] [<a href="https://x.com/jiqizhixin/status/2055310234227503308">Twitter</a>]</div>
   </div>
 </div>
 
-<div class="pub-row">
-  <div class="pub-venue">ACL 2026 Findings</div>
+<div class="pub-item">
+  <div class="pub-thumb"><a class="image-popup" href="/images/publications/aivideo-full.webp" title="Detecting AI-Generated Video: A Vision-Language Dual-View Survey"><img src="/images/publications/aivideo.webp" alt="Main figure of Detecting AI-Generated Video: A Vision-Language Dual-View Survey" loading="lazy"></a></div>
   <div class="pub-text">
-    <div class="pub-title"><a href="https://aclanthology.org/2026.findings-acl.1613/">Detecting AI-Generated Video: A Vision-Language Dual-View Survey</a></div>
+    <div class="pub-title">Detecting AI-Generated Video: A Vision-Language Dual-View Survey</div>
     <div class="pub-authors">Dylan Xinming Hou, Juntian Zhang, Xu Gu, Yichen Wu, Nils Lukas, Gus Xia, Xiuying Chen, <strong>Yuhan Liu#</strong></div>
+    <div class="pub-venue">Findings of the Association for Computational Linguistics (<strong>ACL Findings</strong>), 2026.</div>
+    <div class="pub-links">[<a href="https://aclanthology.org/2026.findings-acl.1613/">Paper</a>] [<a href="https://github.com/dxhou/AI-Generated-Video-Detection">GitHub</a>] [<a href="https://aigcvdetection.github.io/">Project</a>]</div>
   </div>
 </div>
 
-<div class="pub-row">
-  <div class="pub-venue">ACL 2026 Findings</div>
+<div class="pub-item">
+  <div class="pub-thumb"><a class="image-popup" href="/images/publications/style2story-full.webp" title="From Style to Story: A Curriculum Learning Approach for Imitative Novel Generation"><img src="/images/publications/style2story.webp" alt="Main figure of From Style to Story: A Curriculum Learning Approach for Imitative Novel Generation" loading="lazy"></a></div>
   <div class="pub-text">
-    <div class="pub-title"><a href="https://aclanthology.org/2026.findings-acl.968/">From Style to Story: A Curriculum Learning Approach for Imitative Novel Generation</a></div>
+    <div class="pub-title">From Style to Story: A Curriculum Learning Approach for Imitative Novel Generation</div>
     <div class="pub-authors">Xueran Han, <strong><u>Yuhan Liu</u></strong>, Mingzhe Li, Wei Liu, Sen Hu, Rui Yan, Zhiqiang Xu, Xiuying Chen</div>
+    <div class="pub-venue">Findings of the Association for Computational Linguistics (<strong>ACL Findings</strong>), 2026.</div>
+    <div class="pub-links">[<a href="https://aclanthology.org/2026.findings-acl.968/">Paper</a>]</div>
   </div>
 </div>
 
-<div class="pub-row">
-  <div class="pub-venue">ACL 2026 Findings</div>
+<div class="pub-item">
+  <div class="pub-thumb"><a class="image-popup" href="/images/publications/tcd-full.webp" title="Temporal Contrastive Decoding: A Training-Free Method for Large Audio-Language Models"><img src="/images/publications/tcd.webp" alt="Main figure of Temporal Contrastive Decoding: A Training-Free Method for Large Audio-Language Models" loading="lazy"></a></div>
   <div class="pub-text">
-    <div class="pub-title"><a href="https://aclanthology.org/2026.findings-acl.733/">Temporal Contrastive Decoding: A Training-Free Method for Large Audio-Language Models</a></div>
+    <div class="pub-title">Temporal Contrastive Decoding: A Training-Free Method for Large Audio-Language Models</div>
     <div class="pub-authors">Yanda Li, <strong><u>Yuhan Liu</u></strong>, Zirui Song, Yunchao Wei, Martin Takáč, Salem Lahlou</div>
+    <div class="pub-venue">Findings of the Association for Computational Linguistics (<strong>ACL Findings</strong>), 2026.</div>
+    <div class="pub-links">[<a href="https://aclanthology.org/2026.findings-acl.733/">Paper</a>]</div>
   </div>
 </div>
 
-<div class="pub-row">
-  <div class="pub-venue">ACL 2026 Findings</div>
+<div class="pub-item">
+  <div class="pub-thumb"><a class="image-popup" href="/images/publications/dfc-full.webp" title="Divide-Fuse-Conquer: A Progressive Reinforcement Learning Strategy for Stabilizing LLMs across Diverse Games"><img src="/images/publications/dfc.webp" alt="Main figure of Divide-Fuse-Conquer: A Progressive Reinforcement Learning Strategy for Stabilizing LLMs across Diverse Games" loading="lazy"></a></div>
   <div class="pub-text">
-    <div class="pub-title"><a href="https://arxiv.org/abs/2505.16401">Divide-Fuse-Conquer: A Progressive Reinforcement Learning Strategy for Stabilizing LLMs across Diverse Games</a></div>
+    <div class="pub-title">Divide-Fuse-Conquer: A Progressive Reinforcement Learning Strategy for Stabilizing LLMs across Diverse Games</div>
     <div class="pub-authors">Xiaoqing Zhang, Huabin Zheng, Ang Lv, <strong><u>Yuhan Liu</u></strong>, Zirui Song, Xiuying Chen, Rui Yan, Flood Sung</div>
+    <div class="pub-venue">Findings of the Association for Computational Linguistics (<strong>ACL Findings</strong>), 2026.</div>
+    <div class="pub-links">[<a href="https://arxiv.org/abs/2505.16401">Paper</a>]</div>
   </div>
 </div>
 
-<div class="pub-row">
-  <div class="pub-venue">ACL 2026 Findings</div>
+<div class="pub-item">
+  <div class="pub-thumb"><a class="image-popup" href="/images/publications/glossagen-full.webp" title="GlossaGen: Making Academic Translation Smarter with Glossing"><img src="/images/publications/glossagen.webp" alt="Main figure of GlossaGen: Making Academic Translation Smarter with Glossing" loading="lazy"></a></div>
   <div class="pub-text">
-    <div class="pub-title"><a href="https://aclanthology.org/2026.findings-acl.952/">GlossaGen: Making Academic Translation Smarter with Glossing</a></div>
+    <div class="pub-title">GlossaGen: Making Academic Translation Smarter with Glossing</div>
     <div class="pub-authors">Zixiao Wang, Duzhen Zhang, Juntian Zhang, <strong><u>Yuhan Liu</u></strong>, Guoming Li, Haolun Wu, Le Song, Xiuying Chen</div>
+    <div class="pub-venue">Findings of the Association for Computational Linguistics (<strong>ACL Findings</strong>), 2026.</div>
+    <div class="pub-links">[<a href="https://aclanthology.org/2026.findings-acl.952/">Paper</a>]</div>
   </div>
 </div>
 
-<div class="pub-row">
-  <div class="pub-venue">ICLR 2026</div>
+<div class="pub-item">
+  <div class="pub-thumb"><a class="image-popup" href="/images/publications/viper-full.webp" title="ViPER: Empowering the Self-Evolution of Visual Perception Abilities in Vision-Language Models"><img src="/images/publications/viper.webp" alt="Main figure of ViPER: Empowering the Self-Evolution of Visual Perception Abilities in Vision-Language Models" loading="lazy"></a></div>
   <div class="pub-text">
-    <div class="pub-title"><a href="https://openreview.net/forum?id=uxea0QCT0e">ViPER: Empowering the Self-Evolution of Visual Perception Abilities in Vision-Language Models</a></div>
+    <div class="pub-title">ViPER: Empowering the Self-Evolution of Visual Perception Abilities in Vision-Language Models</div>
     <div class="pub-authors">Juntian Zhang, Song Jin, Chuanqi Cheng, <strong><u>Yuhan Liu</u></strong>, Yankai Lin, Xun Zhang, Yufei Zhang, Fei Jiang, Guojun Yin, Wei Lin, Rui Yan</div>
+    <div class="pub-venue">International Conference on Learning Representations (<strong>ICLR</strong>), 2026.</div>
+    <div class="pub-links">[<a href="https://openreview.net/forum?id=uxea0QCT0e">Paper</a>] [<a href="https://github.com/Icarus1216/ViPER">Code</a>]</div>
   </div>
 </div>
 
-<div class="pub-row">
-  <div class="pub-venue-col">
-    <div class="pub-venue">EMNLP 2025</div>
-    <div class="pub-extra"><span class="highlight-text">Oral</span></div>
-  </div>
+<div class="pub-item">
+  <div class="pub-thumb"><a class="image-popup" href="/images/publications/stepwise-full.webp" title="The Stepwise Deception: Simulating the Evolution from True News to Fake News with LLM Agents"><img src="/images/publications/stepwise.webp" alt="Main figure of The Stepwise Deception: Simulating the Evolution from True News to Fake News with LLM Agents" loading="lazy"></a></div>
   <div class="pub-text">
-    <div class="pub-title"><a href="https://arxiv.org/abs/2410.19064">The Stepwise Deception: Simulating the Evolution from True News to Fake News with LLM Agents</a></div>
+    <div class="pub-title">The Stepwise Deception: Simulating the Evolution from True News to Fake News with LLM Agents</div>
     <div class="pub-authors"><strong>Yuhan Liu</strong>, Zirui Song, Juntian Zhang, Xiaoqing Zhang, Xiuying Chen, Rui Yan</div>
+    <div class="pub-venue">Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP</strong>), 2025. <span class="highlight-text">Oral</span></div>
+    <div class="pub-links">[<a href="https://aclanthology.org/2025.emnlp-main.1330/">Paper</a>] [<a href="https://github.com/LiuYuHan31/FUSE">Code</a>]</div>
   </div>
 </div>
 
-<div class="pub-row">
-  <div class="pub-venue-col">
-    <div class="pub-venue">SIGIR 2025</div>
-    <div class="pub-extra"><span class="highlight-text">Oral</span></div>
-  </div>
+<div class="pub-item">
+  <div class="pub-thumb"><a class="image-popup" href="/images/publications/debate-full.webp" title="The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News"><img src="/images/publications/debate.webp" alt="Main figure of The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News" loading="lazy"></a></div>
   <div class="pub-text">
-    <div class="pub-title"><a href="https://arxiv.org/abs/2505.08532">The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News</a></div>
+    <div class="pub-title">The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News</div>
     <div class="pub-authors"><strong>Yuhan Liu</strong>, Yuxuan Liu, Xiaoqing Zhang, Xiuying Chen, Rui Yan</div>
+    <div class="pub-venue">International ACM SIGIR Conference on Research and Development in Information Retrieval (<strong>SIGIR</strong>), 2025. <span class="highlight-text">Oral</span></div>
+    <div class="pub-links">[<a href="https://arxiv.org/abs/2505.08532">Paper</a>]</div>
   </div>
 </div>
 
-<div class="pub-row">
-  <div class="pub-venue">EMNLP 2025</div>
+<div class="pub-item">
+  <div class="pub-thumb"><a class="image-popup" href="/images/publications/injecting-full.webp" title="Injecting Domain-Specific Knowledge into Large Language Models: A Comprehensive Survey"><img src="/images/publications/injecting.webp" alt="Main figure of Injecting Domain-Specific Knowledge into Large Language Models: A Comprehensive Survey" loading="lazy"></a></div>
   <div class="pub-text">
-    <div class="pub-title"><a href="https://arxiv.org/abs/2502.10708">Injecting Domain-Specific Knowledge into Large Language Models: A Comprehensive Survey</a></div>
+    <div class="pub-title">Injecting Domain-Specific Knowledge into Large Language Models: A Comprehensive Survey</div>
     <div class="pub-authors">Zirui Song*, Bin Yan*, <strong><u>Yuhan Liu</u></strong>, Miao Fang, Mingzhe Li, Rui Yan, Xiuying Chen</div>
+    <div class="pub-venue">Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP</strong>), 2025.</div>
+    <div class="pub-links">[<a href="https://arxiv.org/abs/2502.10708">Paper</a>] [<a href="https://github.com/abilliyb/Knowledge_Injection_Survey_Papers">GitHub</a>]</div>
   </div>
 </div>
 
-<div class="pub-row">
-  <div class="pub-venue">EMNLP 2025</div>
+<div class="pub-item">
+  <div class="pub-thumb"><a class="image-popup" href="/images/publications/recagent-full.webp" title="Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems"><img src="/images/publications/recagent.webp" alt="Main figure of Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems" loading="lazy"></a></div>
   <div class="pub-text">
-    <div class="pub-title"><a href="https://arxiv.org/abs/2505.16429">Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems</a></div>
+    <div class="pub-title">Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems</div>
     <div class="pub-authors">Song Jin*, Juntian Zhang*, <strong>Yuhan Liu#</strong>, Xun Zhang, Yufei Zhang, Guojun Yin, Fei Jiang, Wei Lin, Rui Yan#</div>
+    <div class="pub-venue">Conference on Empirical Methods in Natural Language Processing (<strong>EMNLP</strong>), 2025.</div>
+    <div class="pub-links">[<a href="https://arxiv.org/abs/2505.16429">Paper</a>] [<a href="https://github.com/jinsong8/RecInter">Code</a>]</div>
   </div>
 </div>
 
-<div class="pub-row">
-  <div class="pub-venue">ACL 2025</div>
+<div class="pub-item">
+  <div class="pub-thumb"><a class="image-popup" href="/images/publications/weaving-full.webp" title="Weaving Context Across Images: Improving Vision-Language Models through Focus-Centric Visual Chains"><img src="/images/publications/weaving.webp" alt="Main figure of Weaving Context Across Images: Improving Vision-Language Models through Focus-Centric Visual Chains" loading="lazy"></a></div>
   <div class="pub-text">
-    <div class="pub-title"><a href="https://arxiv.org/abs/2504.20199">Weaving Context Across Images: Improving Vision-Language Models through Focus-Centric Visual Chains</a></div>
+    <div class="pub-title">Weaving Context Across Images: Improving Vision-Language Models through Focus-Centric Visual Chains</div>
     <div class="pub-authors">Juntian Zhang, Chuanqi Cheng, <strong>Yuhan Liu#</strong>, Wei Liu, Jian Luan, Rui Yan#</div>
+    <div class="pub-venue">Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2025.</div>
+    <div class="pub-links">[<a href="https://arxiv.org/abs/2504.20199">Paper</a>]</div>
   </div>
 </div>
 
-<div class="pub-row">
-  <div class="pub-venue">ACL 2025</div>
+<div class="pub-item">
+  <div class="pub-thumb"><a class="image-popup" href="/images/publications/thinking-full.webp" title="Thinking Before Running! Efficient Code Generation with Thorough Exploration and Optimal Refinement"><img src="/images/publications/thinking.webp" alt="Main figure of Thinking Before Running! Efficient Code Generation with Thorough Exploration and Optimal Refinement" loading="lazy"></a></div>
   <div class="pub-text">
-    <div class="pub-title"><a href="https://aclanthology.org/2025.findings-acl.1195.pdf">Thinking Before Running! Efficient Code Generation with Thorough Exploration and Optimal Refinement</a></div>
+    <div class="pub-title">Thinking Before Running! Efficient Code Generation with Thorough Exploration and Optimal Refinement</div>
     <div class="pub-authors">Xiaoqing Zhang, <strong>Yuhan Liu#</strong>, Flood Sung, Xiuying Chen, Rui Yan#</div>
+    <div class="pub-venue">Findings of the Association for Computational Linguistics (<strong>ACL Findings</strong>), 2025.</div>
+    <div class="pub-links">[<a href="https://aclanthology.org/2025.findings-acl.1195.pdf">Paper</a>] [<a href="https://github.com/xiaoqzhwhu/ThinkCoder">Code</a>]</div>
   </div>
 </div>
 
-<div class="pub-row">
-  <div class="pub-venue">ACL 2025</div>
+<div class="pub-item">
+  <div class="pub-thumb"><a class="image-popup" href="/images/publications/moreshot-full.webp" title="More is not always better? Enhancing Many-Shot In-Context Learning with Differentiated and Reweighting Objectives"><img src="/images/publications/moreshot.webp" alt="Main figure of More is not always better? Enhancing Many-Shot In-Context Learning with Differentiated and Reweighting Objectives" loading="lazy"></a></div>
   <div class="pub-text">
-    <div class="pub-title"><a href="https://aclanthology.org/2025.acl-long.1475/">More is not always better? Enhancing Many-Shot In-Context Learning with Differentiated and Reweighting Objectives</a></div>
+    <div class="pub-title">More is not always better? Enhancing Many-Shot In-Context Learning with Differentiated and Reweighting Objectives</div>
     <div class="pub-authors">Xiaoqing Zhang, Ang Lv, <strong><u>Yuhan Liu</u></strong>, Xiuying Chen, Rui Yan</div>
+    <div class="pub-venue">Annual Meeting of the Association for Computational Linguistics (<strong>ACL</strong>), 2025.</div>
+    <div class="pub-links">[<a href="https://aclanthology.org/2025.acl-long.1475/">Paper</a>] [<a href="https://github.com/xiaoqzhwhu/DrICL">Code</a>]</div>
   </div>
 </div>
 
-<div class="pub-row">
-  <div class="pub-venue-col">
-    <div class="pub-venue">SIGIR 2025</div>
-    <div class="pub-extra"><span class="highlight-text">Oral</span></div>
-  </div>
+<div class="pub-item">
+  <div class="pub-thumb"><a class="image-popup" href="/images/publications/sagraph-full.webp" title="SAGraph: A Large-Scale Social Graph Dataset with Comprehensive Context for Influencer Selection in Marketing"><img src="/images/publications/sagraph.webp" alt="Main figure of SAGraph: A Large-Scale Social Graph Dataset with Comprehensive Context for Influencer Selection in Marketing" loading="lazy"></a></div>
   <div class="pub-text">
-    <div class="pub-title"><a href="https://dl.acm.org/doi/10.1145/3726302.3730334">SAGraph: A Large-Scale Social Graph Dataset with Comprehensive Context for Influencer Selection in Marketing</a></div>
+    <div class="pub-title">SAGraph: A Large-Scale Social Graph Dataset with Comprehensive Context for Influencer Selection in Marketing</div>
     <div class="pub-authors">Xiaoqing Zhang, <strong><u>Yuhan Liu</u></strong>, Jianzhou Wang, Zhenxing Hu, Xiuying Chen, Rui Yan</div>
+    <div class="pub-venue">International ACM SIGIR Conference on Research and Development in Information Retrieval (<strong>SIGIR</strong>), 2025. <span class="highlight-text">Oral</span></div>
+    <div class="pub-links">[<a href="https://dl.acm.org/doi/10.1145/3726302.3730334">Paper</a>] [<a href="https://github.com/xiaoqzhwhu/SAGraph">Code</a>]</div>
   </div>
 </div>
 
-<div class="pub-row">
-  <div class="pub-venue">VLDB 2025</div>
+<div class="pub-item">
+  <div class="pub-thumb"><a class="image-popup" href="/images/publications/soagent-full.webp" title="SoAgent: A Real-world Data Empowered Agent Pool to Facilitate LLM-Driven Generative Social Simulation"><img src="/images/publications/soagent.webp" alt="Main figure of SoAgent: A Real-world Data Empowered Agent Pool to Facilitate LLM-Driven Generative Social Simulation" loading="lazy"></a></div>
   <div class="pub-text">
-    <div class="pub-title"><a href="https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/DATAI/DATAI25_9.pdf">SoAgent: A Real-world Data Empowered Agent Pool to Facilitate LLM-Driven Generative Social Simulation</a></div>
+    <div class="pub-title">SoAgent: A Real-world Data Empowered Agent Pool to Facilitate LLM-Driven Generative Social Simulation</div>
     <div class="pub-authors">Na Ta, Kaiyu Li, Yushu Zhou, <strong><u>Yuhan Liu</u></strong></div>
+    <div class="pub-venue">VLDB Workshop on Data-driven AI (<strong>VLDB DATAI</strong>), 2025.</div>
+    <div class="pub-links">[<a href="https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/DATAI/DATAI25_9.pdf">Paper</a>] [<a href="https://osf.io/nwcmu/?view_only=14b04a52f28141dca07de16bd354e9e4">Code</a>]</div>
   </div>
 </div>
 
-<div class="pub-row">
-  <div class="pub-venue">IJCAI 2024</div>
+<div class="pub-item">
+  <div class="pub-thumb"><a class="image-popup" href="/images/publications/skepticism-full.webp" title="From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News"><img src="/images/publications/skepticism.webp" alt="Main figure of From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News" loading="lazy"></a></div>
   <div class="pub-text">
-    <div class="pub-title"><a href="https://arxiv.org/abs/2403.09498">From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News</a></div>
+    <div class="pub-title">From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News</div>
     <div class="pub-authors"><strong>Yuhan Liu</strong>, Xiuying Chen, Xiaoqing Zhang, Xing Gao, Ji Zhang, Rui Yan</div>
-    <div class="pub-extra"><span class="highlight-text">Oral</span>, Human-Centred AI Track, <span class="highlight-text">4% acceptance rate</span></div>
+    <div class="pub-venue">International Joint Conference on Artificial Intelligence (<strong>IJCAI</strong>), 2024. <span class="highlight-text">Oral</span>, Human-Centred AI Track, <span class="highlight-text">4% acceptance rate</span></div>
+    <div class="pub-links">[<a href="https://arxiv.org/abs/2403.09498">Paper</a>] [<a href="https://github.com/LiuYuHan31/FPS">Code</a>]</div>
   </div>
 </div>
 
-<div class="pub-row">
-  <div class="pub-venue">COLING 2024</div>
+<div class="pub-item">
+  <div class="pub-thumb"><a class="image-popup" href="/images/publications/iad-full.webp" title="IAD: In-Context Learning Ability Decoupler of Large Language Models in Meta-Training"><img src="/images/publications/iad.webp" alt="Main figure of IAD: In-Context Learning Ability Decoupler of Large Language Models in Meta-Training" loading="lazy"></a></div>
   <div class="pub-text">
     <div class="pub-title">IAD: In-Context Learning Ability Decoupler of Large Language Models in Meta-Training</div>
     <div class="pub-authors"><strong>Yuhan Liu</strong>, Xiuying Chen, Xing Gao, Ji Zhang, Rui Yan</div>
+    <div class="pub-venue">International Conference on Computational Linguistics (<strong>COLING</strong>), 2024.</div>
+    <div class="pub-links">[<a href="https://aclanthology.org/2024.lrec-main.749/">Paper</a>]</div>
   </div>
 </div>
 
-<div class="pub-row">
-  <div class="pub-venue">WWW 2024</div>
+<div class="pub-item">
+  <div class="pub-thumb"><a class="image-popup" href="/images/publications/spacegap-full.webp" title="Bridging the Space Gap: Unifying Geometry Knowledge Graph Embedding with Optimal Transport"><img src="/images/publications/spacegap.webp" alt="Main figure of Bridging the Space Gap: Unifying Geometry Knowledge Graph Embedding with Optimal Transport" loading="lazy"></a></div>
   <div class="pub-text">
     <div class="pub-title">Bridging the Space Gap: Unifying Geometry Knowledge Graph Embedding with Optimal Transport</div>
     <div class="pub-authors"><strong>Yuhan Liu</strong>, Zelin Cao, Xing Gao, Ji Zhang, Rui Yan</div>
+    <div class="pub-venue">The ACM Web Conference (<strong>WWW</strong>), 2024.</div>
+    <div class="pub-links">[<a href="https://doi.org/10.1145/3589334.3645565">Paper</a>]</div>
   </div>
 </div>
 
-<div class="pub-row">
-  <div class="pub-venue-col">
-    <div class="pub-venue">CCL 2023</div>
-    <div class="pub-extra"><span class="highlight-text">Oral</span></div>
-  </div>
+<div class="pub-item">
+  <div class="pub-thumb"><a class="image-popup" href="/images/publications/ccl-full.webp" title="Unleashing the power of large models: Exploring human-machine conversations"><img src="/images/publications/ccl.webp" alt="Main figure of Unleashing the power of large models: Exploring human-machine conversations" loading="lazy"></a></div>
   <div class="pub-text">
     <div class="pub-title">Unleashing the power of large models: Exploring human-machine conversations</div>
     <div class="pub-authors"><strong>Yuhan Liu</strong>, Xiuying Chen, Rui Yan</div>
+    <div class="pub-venue">China National Conference on Computational Linguistics (<strong>CCL</strong>), 2023. <span class="highlight-text">Oral</span></div>
+    <div class="pub-links">[<a href="https://aclanthology.org/2023.ccl-2.2/">Paper</a>]</div>
   </div>
 </div>
 
-
-<div class="pub-row">
-  <div class="pub-venue">Preprint</div>
+<div class="pub-item">
+  <div class="pub-thumb"><a class="image-popup" href="/images/publications/timeaware-full.webp" title="A large-scale time-aware agents simulation for influencer selection in digital advertising campaigns"><img src="/images/publications/timeaware.webp" alt="Main figure of A large-scale time-aware agents simulation for influencer selection in digital advertising campaigns" loading="lazy"></a></div>
   <div class="pub-text">
     <div class="pub-title">A large-scale time-aware agents simulation for influencer selection in digital advertising campaigns</div>
     <div class="pub-authors">Xiaoqing Zhang, <strong><u>Yuhan Liu</u></strong>, Jianzhou Wang, Zhenxing Hu, Xiuying Chen, Rui Yan</div>
-  </div>
-</div>
-
-<div class="pub-row">
-  <div class="pub-venue">AMC</div>
-  <div class="pub-text">
-    <div class="pub-title">A quasi fractional order gradient descent method with adaptive stepsize and its application in system identification</div>
-    <div class="pub-authors">Jianjun Liu, <strong><u>Yuhan Liu</u></strong>, et al.</div>
-  </div>
-</div>
-
-<div class="pub-row">
-  <div class="pub-venue">Info. Sci.</div>
-  <div class="pub-text">
-    <div class="pub-title">Clustering based on grid and local density with priority-based expansion for multi-density data</div>
-    <div class="pub-authors">Jianjun Liu, <strong><u>Yuhan Liu</u></strong>, et al.</div>
+    <div class="pub-venue">arXiv preprint, 2024.</div>
+    <div class="pub-links">[<a href="https://arxiv.org/abs/2411.01143">Paper</a>]</div>
   </div>
 </div>
 
