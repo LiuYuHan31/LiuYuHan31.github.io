@@ -136,7 +136,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
   <div class="pub-thumb"><a class="image-popup" href="/images/publications/dfc-full.webp" title="Divide-Fuse-Conquer: A Progressive Reinforcement Learning Strategy for Stabilizing LLMs across Diverse Games"><img src="/images/publications/dfc.webp" alt="Main figure of Divide-Fuse-Conquer: A Progressive Reinforcement Learning Strategy for Stabilizing LLMs across Diverse Games" loading="lazy"></a></div>
   <div class="pub-text">
     <div class="pub-title">Divide-Fuse-Conquer: A Progressive Reinforcement Learning Strategy for Stabilizing LLMs across Diverse Games</div>
-    <div class="pub-authors">Xiaoqing Zhang, Huabin Zheng, Ang Lv, <strong><u>Yuhan Liu</u></strong>, Zirui Song, Xiuying Chen, Rui Yan, Flood Sung</div>
+    <div class="pub-authors">Xiaoqing Zhang, Ang Lv, <strong><u>Yuhan Liu</u></strong>, Zirui Song, Xiuying Chen, Rui Yan, Flood Sung</div>
     <div class="pub-venue"><em>Findings of the Association for Computational Linguistics</em> (<strong>ACL Findings</strong>), 2026.</div>
     <div class="pub-links">[<a href="https://arxiv.org/abs/2505.16401">Paper</a>]</div>
   </div>
