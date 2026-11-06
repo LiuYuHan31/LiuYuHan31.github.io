@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div class="about-bio">
-  <p>Hi, there! I’m Yuhan! I am currently a Postdoctoral Research Fellow at the Machine Learning Department of MBZUAI, working with <a href="https://www.cs.mcgill.ca/~xueliu/">Prof. Steve (Xue) Liu</a> (IEEE Fellow, Fellow of the Canadian Academy of Engineering, ACM Distinguished Member) and <a href="https://jiank2.github.io/">Prof. Jian Kang</a>. Along the way, my work has been recognized by prestigious honors, including being selected as a <a href="https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/#LiuYuhan">DAAD AInet Fellow (2025)</a>  by the  <a href="https://www.daad.de/en/"> German Academic Exchange Service (DAAD)</a>.I am also a visiting researcher with the multimodal group at the Technical University of Munich under the DAAD Fellowship, working with <a href="https://www.eml-munich.de/people/zeynep-akata">Prof. Zeynep Akata</a>.And I currently collaborate with <a href="https://researchers.mgh.harvard.edu/profile/4211743/Quanzheng-Li">Prof.Quanzheng Li</a> and <a href="https://wuyichen-97.github.io/">Dr.Yichen Wu</a> at Harvard Medical School on VLM- and agent-based methods for medicine. I received my Ph.D. in Artificial Intelligence from <a href="http://ai.ruc.edu.cn">Gaoling School of Artificial Intelligence</a>, Renmin University of China (2021-2025). Prior to RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing).</p>
+  <p>Hi there! I’m Yuhan! I am currently a Postdoctoral Research Fellow at the Machine Learning Department of MBZUAI, working with <a href="https://www.cs.mcgill.ca/~xueliu/">Prof. Steve (Xue) Liu</a> (IEEE Fellow, Fellow of the Canadian Academy of Engineering, ACM Distinguished Member) and <a href="https://jiank2.github.io/">Prof. Jian Kang</a>. Along the way, my work has been recognized by prestigious honors, including being selected as a <a href="https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/#LiuYuhan">DAAD AInet Fellow (2025)</a> by the <a href="https://www.daad.de/en/">German Academic Exchange Service (DAAD)</a>. I am also a visiting researcher with the multimodal group at the Technical University of Munich under the DAAD Fellowship, working with <a href="https://www.eml-munich.de/people/zeynep-akata">Prof. Zeynep Akata</a>. I also collaborate with <a href="https://researchers.mgh.harvard.edu/profile/4211743/Quanzheng-Li">Prof. Quanzheng Li</a> and <a href="https://wuyichen-97.github.io/">Dr. Yichen Wu</a> at Harvard Medical School on VLM- and agent-based methods for medicine. I received my Ph.D. in Artificial Intelligence from <a href="http://ai.ruc.edu.cn">Gaoling School of Artificial Intelligence</a>, Renmin University of China (2021-2025). Prior to RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing).</p>
 </div>
 
 <div class="highlight-box">
@@ -32,7 +32,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
 
 - **Trustworthy Information and Social Simulation**: How misinformation propagates, evolves, and can be governed in complex social systems.
 - **Trustworthy Multimodal Perception and Reasoning**: Extends trustworthy AI from text to multimodal settings, focusing on improving perception and reasoning in Multimodal Large Language Models.
-- **Adaptive Reasoning and Self-Evolving Agentic System**: Improve the reasoning capabilities of Agentic System through adaptation and self-evolution
+- **Adaptive Reasoning and Self-Evolving Agentic Systems**: Improving the reasoning capabilities of agentic systems through adaptation and self-evolution.
 - **Structured / Domain-grounded Foundation Models**: How structured knowledge and domain-specific information can enhance foundation models.
 
 ## 🔥 News
@@ -44,24 +44,24 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
 <li><span class="news-date">2026.10</span> 🎉🎉 Our workshop proposal <a href="https://sciagentverse.github.io">The First Workshop on Scientific Agents in the Digital World (SciAgentVerse)</a> is accepted at <strong>WSDM 2027</strong> (Hong Kong, China)! Looking forward to meeting you there!</li>
 <li><span class="news-date">2026.09</span> 🎉🎉 Two papers are accepted by <strong>NeurIPS 2026</strong> (Sydney, Australia)! <a href="https://arxiv.org/abs/2602.09159">CoMMa</a> (<span class="highlight-text">Spotlight, Top 0.69%</span>) and <a href="https://arxiv.org/abs/2601.22628">TTCS</a>.</li>
 <li><span class="news-date">2026.04</span> 🎉🎉 Six papers are accepted by <strong>ACL 2026</strong> (San Diego, USA)!</li>
-<li><span class="news-date">2026.01</span> 🎉🎉 One paper is accepted by <strong>ICLR 2026</strong> (Rio de Janeiro, Brazil)！Celebrating this with my good friend Juntian!🥳🥳</li>
-<li><span class="news-date">2025.11</span> 🎉🎉 I was awarded a <strong>DAAD fellowship</strong>！</li>
+<li><span class="news-date">2026.01</span> 🎉🎉 One paper is accepted by <strong>ICLR 2026</strong> (Rio de Janeiro, Brazil)! Celebrating this with my good friend Juntian! 🥳🥳</li>
+<li><span class="news-date">2025.11</span> 🎉🎉 I was awarded a <strong>DAAD fellowship</strong>!</li>
 <li><span class="news-date">2025.10</span> 🎉 Invited to serve as an <span class="highlight-text">Area Chair</span> for ACL.</li>
 <li><span class="news-date">2025.08</span> 🎉🎉 Three papers are accepted by <strong>EMNLP 2025</strong> (Suzhou, China)!</li>
-<li><span class="news-date">2025.08</span> 🥳🥳🎉🎉 I joined <strong>MBZUAI</strong> as a Postdoctoral Research Fellow of Machine Learning.</li>
+<li><span class="news-date">2025.08</span> 🥳🥳🎉🎉 I joined <strong>MBZUAI</strong> as a Postdoctoral Research Fellow in Machine Learning.</li>
 <li><span class="news-date">2025.07</span> ✈️ Attending <strong>ACL 2025</strong> in Vienna—looking forward to connecting!</li>
 <li><span class="news-date">2025.05</span> 🥳🥳🎉🎉🥳🥳🎉🎉 I have successfully defended my <strong>PhD thesis</strong>!</li>
 <li><span class="news-date">2025.05</span> 🎉🎉 Three papers are accepted by <strong>ACL 2025</strong> (Vienna, Austria)!</li>
 <li><span class="news-date">2025.05</span> 🎉🎉 Two papers are accepted by <strong>SIGIR 2025</strong> (Padua, Italy)!</li>
 <li><span class="news-date">2024.12</span> 🎉🎉 We won the <strong>Gold Medal</strong> in the Tencent Multi-Agent Application Competition (Rank 1/210)! Congratulations to my friend Xuyan!</li>
 <li><span class="news-date">2024.08</span> ✈️ Attending <strong>IJCAI 2024</strong> in South Korea—looking forward to connecting!</li>
-<li><span class="news-date">2024.07</span> 🎉 Invited to serve as a <span class="highlight-text">Session Chair</span> for IJCAI 2024 NLP Track (Jeju, South Korea)</li>
+<li><span class="news-date">2024.07</span> 🎉 Invited to serve as a <span class="highlight-text">Session Chair</span> for IJCAI 2024 NLP Track (Jeju, South Korea).</li>
 <li><span class="news-date">2024.05</span> 🎉🎉 One paper is accepted by <strong>IJCAI 2024</strong> (<span class="highlight-text">Oral</span>) (Jeju, South Korea)!</li>
 <li><span class="news-date">2024.05</span> ✈️ Attending <strong>COLING 2024</strong> in Italy—looking forward to connecting!</li>
 <li><span class="news-date">2024.05</span> ✈️ Attending <strong>WWW 2024</strong> in Singapore—looking forward to connecting!</li>
-<li><span class="news-date">2024.02</span> 🎉🎉 One paper is accepted by <strong>COLING 2024</strong> (Turin, Italy)</li>
+<li><span class="news-date">2024.02</span> 🎉🎉 One paper is accepted by <strong>COLING 2024</strong> (Turin, Italy)!</li>
 <li><span class="news-date">2024.02</span> 🎉 Selected as a delegate for the RUC-Yale "Artificial Intelligence, Emerging Technologies" International Forum.</li>
-<li><span class="news-date">2024.01</span> 🎉🎉 One paper is accepted by <strong>The Web Conference 2024</strong> (Singapore)</li>
+<li><span class="news-date">2024.01</span> 🎉🎉 One paper is accepted by <strong>The Web Conference 2024</strong> (Singapore)!</li>
 </ul>
 </div>
 
@@ -311,7 +311,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
 {: #talks}
 
 - **2026.04** &mdash; When Truth Fakes Itself: A Multi-Agent Modeling Approach to Fake News Detection, Propagation, and Evolution Simulation, Natural Language Processing Department, MBZUAI
-- **2025.05** &mdash; True Yet False: Large Language Model-based Multi-Agent Systems for Enhanced Security, XiaMen University
+- **2025.05** &mdash; True Yet False: Large Language Model-based Multi-Agent Systems for Enhanced Security, Xiamen University
 - **2025.04** &mdash; Large Language Model-Based Multi-Agent System for Fake News, School of Journalism and Communication, Renmin University of China
 - **2024.08** &mdash; From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News, Microsoft Research Asia
 
@@ -327,8 +327,8 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
 ## 💻 Experience
 {: #experience}
 
-- **2024.11 - 2025.06** &mdash; MeiTuan, Beijing
-- **2022.09 - 2024.11** &mdash; Alibaba Damo Academy, Beijing
+- **2024.11 - 2025.06** &mdash; Meituan, Beijing
+- **2022.09 - 2024.11** &mdash; Alibaba DAMO Academy, Beijing
 - **2020.07 - 2021.08** &mdash; Xiaomi Tech, Beijing
 - **2019.06 - 2019.09** &mdash; Sinovation Ventures, Beijing
 - **2019.03 - 2019.06** &mdash; Lenovo Corporate Research, Beijing
@@ -339,8 +339,8 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
 
 - **2024 Spring, 2022 Spring** &mdash; Natural Language Processing
 - **2019 Fall** &mdash; Applied Statistical Methods
-- **2019 Spring** &mdash; Optimization Algorithm
-- **2019 Fall, 2017 Fall** &mdash; Stochastic Process
+- **2019 Spring** &mdash; Optimization Algorithms
+- **2019 Fall, 2017 Fall** &mdash; Stochastic Processes
 - **2018 Fall** &mdash; Advanced Algebra
 - **2018 Spring** &mdash; Advanced Mathematics
 
@@ -350,7 +350,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
 Thanks to my best friends! Your help and encouragement are my greatest motivation, and I look forward to creating a better future with all of you!
 
 - <a href="https://iriscxy.github.io/">Xiuying Chen</a> &mdash; Assistant Professor at MBZUAI
-- <a href="https://wuyichen-97.github.io/">Yichen Wu</a> &mdash; Postdoctor at Harvard University
-- <a href="https://scholar.google.com/citations?user=K-6vOfkAAAAJ&hl=zh-CN">Juntian Zhang</a> &mdash; Master's student at Renmin University of China and Interning at Tencent WeChat
-- <a href="https://trestad.github.io/">Ang Lv</a> &mdash; Ph.D. Candidate at Renmin University of China and Interning at ByteDance Top Seed
-- <a href="https://www.linkedin.com/in/bowen-li-5a3610344/">Bowen Li</a> &mdash; Ph.D. and incoming postdoc at Tsinghua University and visiting at University of Twente
+- <a href="https://wuyichen-97.github.io/">Yichen Wu</a> &mdash; Postdoctoral Fellow at Harvard University
+- <a href="https://scholar.google.com/citations?user=K-6vOfkAAAAJ&hl=zh-CN">Juntian Zhang</a> &mdash; Master's student at Renmin University of China and interning at Tencent WeChat
+- <a href="https://trestad.github.io/">Ang Lv</a> &mdash; Ph.D. Candidate at Renmin University of China and interning at ByteDance Top Seed
+- <a href="https://www.linkedin.com/in/bowen-li-5a3610344/">Bowen Li</a> &mdash; Ph.D. and incoming postdoc at Tsinghua University and visiting the University of Twente
