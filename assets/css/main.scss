@@ -415,16 +415,31 @@ $layout-gap: 50px;
   white-space: nowrap;
 }
 
-.pub-venue {
-  font-style: italic;
+/* Author marks (# corresponding, * co-first), top-right of the name */
+.pub-authors sup {
+  font-size: 0.75em;
+  line-height: 0;
+  vertical-align: baseline;
+  position: relative;
+  top: -0.55em;
+  margin-left: 1px;
+}
 
-  strong {
-    font-style: normal;
-    color: #2c2c2c;
+/* The asterisk glyph is already drawn high, so lift it less */
+.pub-authors sup.mark-co {
+  font-size: 0.85em;
+  top: -0.1em;
+  margin-left: 0;
+}
+
+/* Only the full venue name is italic; parentheses, acronym and year stay upright */
+.pub-venue {
+  em {
+    font-style: italic;
   }
 
-  .highlight-text {
-    font-style: normal;
+  strong {
+    color: #2c2c2c;
   }
 }
 
