@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 <div class="about-bio">
-  <p>Hi, there! I’m Yuhan! I am currently a Postdoctoral Research Fellow at the Machine Learning Department of MBZUAI, working with <a href="https://nilslukas.github.io">Nils Lukas</a>, <a href="https://lahlou.org">Salem Lahlou</a>, and <a href="https://mtakac.com">Martin Takac</a>. Along the way, my work has been recognized by prestigious honors, including being selected as a <a href="https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/#LiuYuhan">DAAD AInet Fellow (2025)</a>  by the  <a href="https://www.daad.de/en/"> German Academic Exchange Service (DAAD)</a>.I am also a visiting researcher with the multimodal group at the Technical University of Munich under the DAAD Fellowship, working with <a href="https://www.eml-munich.de/people/zeynep-akata">Prof. Zeynep Akata</a>.And I currently collaborate with <a href="https://researchers.mgh.harvard.edu/profile/4211743/Quanzheng-Li">Prof.Quanzheng Li</a> and <a href="https://wuyichen-97.github.io/">Dr.Yichen Wu</a> at Harvard Medical School on VLM- and agent-based methods for medicine. I received my Ph.D. in Artificial Intelligence from <a href="http://ai.ruc.edu.cn">Gaoling School of Artificial Intelligence</a>, Renmin University of China (2021-2025). Prior to RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing).</p>
+  <p>Hi, there! I’m Yuhan! I am currently a Postdoctoral Research Fellow at the Machine Learning Department of MBZUAI, working with <a href="https://www.cs.mcgill.ca/~xueliu/">Prof. Steve (Xue) Liu</a> (IEEE Fellow, Fellow of the Canadian Academy of Engineering, ACM Distinguished Member) and <a href="https://jiank2.github.io/">Prof. Jian Kang</a>. Along the way, my work has been recognized by prestigious honors, including being selected as a <a href="https://www.daad.de/en/the-daad/postdocnet/fellows/fellows/#LiuYuhan">DAAD AInet Fellow (2025)</a>  by the  <a href="https://www.daad.de/en/"> German Academic Exchange Service (DAAD)</a>.I am also a visiting researcher with the multimodal group at the Technical University of Munich under the DAAD Fellowship, working with <a href="https://www.eml-munich.de/people/zeynep-akata">Prof. Zeynep Akata</a>.And I currently collaborate with <a href="https://researchers.mgh.harvard.edu/profile/4211743/Quanzheng-Li">Prof.Quanzheng Li</a> and <a href="https://wuyichen-97.github.io/">Dr.Yichen Wu</a> at Harvard Medical School on VLM- and agent-based methods for medicine. I received my Ph.D. in Artificial Intelligence from <a href="http://ai.ruc.edu.cn">Gaoling School of Artificial Intelligence</a>, Renmin University of China (2021-2025). Prior to RUC, I earned my M.S. in Mathematics and B.S. in Automation from China University of Petroleum (Beijing).</p>
 </div>
 
 <div class="highlight-box">
-<strong>I am on the 2026 Fall job market, actively seeking faculty and postdoc positions.</strong> Feel free to reach out at <a href="mailto:liuyuhaning@gmail.com">liuyuhaning@gmail.com</a>.
+<strong>I am on the job market, actively seeking faculty and postdoc positions.</strong> Feel free to reach out at <a href="mailto:liuyuhaning@gmail.com">liuyuhaning@gmail.com</a>.
 </div>
 
 ## ❤️ Research Interests
@@ -40,16 +40,19 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
 
 <div class="news-list">
 <ul>
-<li><span class="news-date">2026.04</span> 🎉🎉 Six paper is accepted by <strong>ACL 2026</strong> (Santiago, USA)</li>
+<li><span class="news-date">2026.10</span> 🎉🎉 Our tutorial <a href="https://liuyuhan31.github.io/MisinformationAgent/">Misinformation in the Age of LLM Agents: Generation, Propagation, and Intervention</a> is accepted at <strong>AAAI 2027</strong> (Montréal, Canada)! Xiuying, Preslav, Xiangliang, and I look forward to meeting you there!</li>
+<li><span class="news-date">2026.10</span> 🎉🎉 Our workshop proposal <a href="https://sciagentverse.github.io">The First Workshop on Scientific Agents in the Digital World (SciAgentVerse)</a> is accepted at <strong>WSDM 2027</strong> (Hong Kong, China)! Looking forward to meeting you there!</li>
+<li><span class="news-date">2026.09</span> 🎉🎉 Two papers are accepted by <strong>NeurIPS 2026</strong> (Sydney, Australia)! <a href="https://arxiv.org/abs/2602.09159">CoMMa</a> (<span class="highlight-text">Spotlight, Top 0.69%</span>) and <a href="https://arxiv.org/abs/2601.22628">TTCS</a>.</li>
+<li><span class="news-date">2026.04</span> 🎉🎉 Six papers are accepted by <strong>ACL 2026</strong> (San Diego, USA)!</li>
 <li><span class="news-date">2026.01</span> 🎉🎉 One paper is accepted by <strong>ICLR 2026</strong> (Rio de Janeiro, Brazil)！Celebrating this with my good friend Juntian!🥳🥳</li>
 <li><span class="news-date">2025.11</span> 🎉🎉 I was awarded a <strong>DAAD fellowship</strong>！</li>
 <li><span class="news-date">2025.10</span> 🎉 Invited to serve as an <span class="highlight-text">Area Chair</span> for ACL.</li>
-<li><span class="news-date">2025.08</span> 🎉🎉 Three paper are accepted by <strong>EMNLP 2025</strong> (Suzhou, China)!</li>
+<li><span class="news-date">2025.08</span> 🎉🎉 Three papers are accepted by <strong>EMNLP 2025</strong> (Suzhou, China)!</li>
 <li><span class="news-date">2025.08</span> 🥳🥳🎉🎉 I joined <strong>MBZUAI</strong> as a Postdoctoral Research Fellow of Machine Learning.</li>
 <li><span class="news-date">2025.07</span> ✈️ Attending <strong>ACL 2025</strong> in Vienna—looking forward to connecting!</li>
 <li><span class="news-date">2025.05</span> 🥳🥳🎉🎉🥳🥳🎉🎉 I have successfully defended my <strong>PhD thesis</strong>!</li>
-<li><span class="news-date">2025.05</span> 🎉🎉 Three paper are accepted by <strong>ACL 2025</strong> (Vienna, Austria)!</li>
-<li><span class="news-date">2025.05</span> 🎉🎉 Two paper are accepted by <strong>SIGIR 2025</strong> (Padua, Italy)!</li>
+<li><span class="news-date">2025.05</span> 🎉🎉 Three papers are accepted by <strong>ACL 2025</strong> (Vienna, Austria)!</li>
+<li><span class="news-date">2025.05</span> 🎉🎉 Two papers are accepted by <strong>SIGIR 2025</strong> (Padua, Italy)!</li>
 <li><span class="news-date">2024.12</span> 🎉🎉 We won the <strong>Gold Medal</strong> in the Tencent Multi-Agent Application Competition (Rank 1/210)! Congratulations to my friend Xuyan!</li>
 <li><span class="news-date">2024.08</span> ✈️ Attending <strong>IJCAI 2024</strong> in South Korea—looking forward to connecting!</li>
 <li><span class="news-date">2024.07</span> 🎉 Invited to serve as a <span class="highlight-text">Session Chair</span> for IJCAI 2024 NLP Track (Jeju, South Korea)</li>
@@ -70,9 +73,26 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
 <div class="pub-list">
 
 <div class="pub-row">
+  <div class="pub-venue">NeurIPS 2026</div>
+  <div class="pub-text">
+    <div class="pub-title"><a href="https://arxiv.org/abs/2602.09159">CoMMa: Contribution-Aware Medical Multi-Agents for Decentralized Oncology Decision Support</a></div>
+    <div class="pub-authors">Yichen Wu*, Kailong Fan*, Sangjoon Park*, <strong><u>Yuhan Liu</u></strong>, Zhiyi Shi, Sekeun Kim, Dania Daye, Hana Farzaneh, Xiang Li, Raul Uppot, Yujin Oh, Quanzheng Li</div>
+    <div class="pub-extra"><span class="highlight-text">Spotlight</span>, <span class="highlight-text">Top 0.69%</span></div>
+  </div>
+</div>
+
+<div class="pub-row">
+  <div class="pub-venue">NeurIPS 2026</div>
+  <div class="pub-text">
+    <div class="pub-title"><a href="https://arxiv.org/abs/2601.22628">TTCS: Test-Time Curriculum Synthesis for Self-Evolving</a></div>
+    <div class="pub-authors">Chengyi Yang, Zhishang Xiang, Yunbo Tang, Zongpei Teng, Chengsong Huang, Fei Long, <strong>Yuhan Liu#</strong>, Jinsong Su#</div>
+  </div>
+</div>
+
+<div class="pub-row">
   <div class="pub-venue">ACL 2026 Main</div>
   <div class="pub-text">
-    <div class="pub-title"><a href="https://arxiv.org/abs/2601.06803">Forest Before Trees: Latent Superposition for Efficient Visual Reasoning</a></div>
+    <div class="pub-title"><a href="https://aclanthology.org/2026.acl-long.517/">Forest Before Trees: Latent Superposition for Efficient Visual Reasoning</a></div>
     <div class="pub-authors">Yubo Wang*, Juntian Zhang*, Yichen Wu, Yankai Lin, Nils Lukas,  <strong>Yuhan Liu#</strong></div>
   </div>
 </div>
@@ -80,7 +100,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
 <div class="pub-row">
   <div class="pub-venue">ACL 2026 Findings</div>
   <div class="pub-text">
-    <div class="pub-title">Detecting AI-Generated Video: A Vision-Language Dual-View Survey</div>
+    <div class="pub-title"><a href="https://aclanthology.org/2026.findings-acl.1613/">Detecting AI-Generated Video: A Vision-Language Dual-View Survey</a></div>
     <div class="pub-authors">Dylan Xinming Hou, Juntian Zhang, Xu Gu, Yichen Wu, Nils Lukas, Gus Xia, Xiuying Chen, <strong>Yuhan Liu#</strong></div>
   </div>
 </div>
@@ -88,7 +108,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
 <div class="pub-row">
   <div class="pub-venue">ACL 2026 Findings</div>
   <div class="pub-text">
-    <div class="pub-title">From Style to Story: A Curriculum Learning Approach for Imitative Novel Generation</div>
+    <div class="pub-title"><a href="https://aclanthology.org/2026.findings-acl.968/">From Style to Story: A Curriculum Learning Approach for Imitative Novel Generation</a></div>
     <div class="pub-authors">Xueran Han, <strong><u>Yuhan Liu</u></strong>, Mingzhe Li, Wei Liu, Sen Hu, Rui Yan, Zhiqiang Xu, Xiuying Chen</div>
   </div>
 </div>
@@ -96,7 +116,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
 <div class="pub-row">
   <div class="pub-venue">ACL 2026 Findings</div>
   <div class="pub-text">
-    <div class="pub-title">Temporal Contrastive Decoding: A Training-Free Method for Large Audio-Language Models</div>
+    <div class="pub-title"><a href="https://aclanthology.org/2026.findings-acl.733/">Temporal Contrastive Decoding: A Training-Free Method for Large Audio-Language Models</a></div>
     <div class="pub-authors">Yanda Li, <strong><u>Yuhan Liu</u></strong>, Zirui Song, Yunchao Wei, Martin Takáč, Salem Lahlou</div>
   </div>
 </div>
@@ -104,7 +124,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
 <div class="pub-row">
   <div class="pub-venue">ACL 2026 Findings</div>
   <div class="pub-text">
-    <div class="pub-title">Divide-Fuse-Conquer: A Progressive Reinforcement Learning Strategy for Stabilizing LLMs across Diverse Games</div>
+    <div class="pub-title"><a href="https://arxiv.org/abs/2505.16401">Divide-Fuse-Conquer: A Progressive Reinforcement Learning Strategy for Stabilizing LLMs across Diverse Games</a></div>
     <div class="pub-authors">Xiaoqing Zhang, Huabin Zheng, Ang Lv, <strong><u>Yuhan Liu</u></strong>, Zirui Song, Xiuying Chen, Rui Yan, Flood Sung</div>
   </div>
 </div>
@@ -112,7 +132,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
 <div class="pub-row">
   <div class="pub-venue">ACL 2026 Findings</div>
   <div class="pub-text">
-    <div class="pub-title">GlossaGen: Making Academic Translation Smarter with Glossing</div>
+    <div class="pub-title"><a href="https://aclanthology.org/2026.findings-acl.952/">GlossaGen: Making Academic Translation Smarter with Glossing</a></div>
     <div class="pub-authors">Zixiao Wang, Duzhen Zhang, Juntian Zhang, <strong><u>Yuhan Liu</u></strong>, Guoming Li, Haolun Wu, Le Song, Xiuying Chen</div>
   </div>
 </div>
@@ -120,16 +140,8 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
 <div class="pub-row">
   <div class="pub-venue">ICLR 2026</div>
   <div class="pub-text">
-    <div class="pub-title">Viper: Empowering the Self-Evolution of Visual Perception Abilities in Vision-Language Model</div>
+    <div class="pub-title"><a href="https://openreview.net/forum?id=uxea0QCT0e">ViPER: Empowering the Self-Evolution of Visual Perception Abilities in Vision-Language Models</a></div>
     <div class="pub-authors">Juntian Zhang, Song Jin, Chuanqi Cheng, <strong><u>Yuhan Liu</u></strong>, Yankai Lin, Xun Zhang, Yufei Zhang, Fei Jiang, Guojun Yin, Wei Lin, Rui Yan</div>
-  </div>
-</div>
-
-<div class="pub-row">
-  <div class="pub-venue">ICLR 2026 WS</div>
-  <div class="pub-text">
-    <div class="pub-title">TTCS: Test-Time Curriculum Synthesis for Self-Evolving</div>
-    <div class="pub-authors">Chengyi Yang, Zhishang Xiang, Yunbo Tang, Zongpei Teng, Chengsong Huang, <strong>Yuhan Liu#</strong>, Jinsong Su#</div>
   </div>
 </div>
 
