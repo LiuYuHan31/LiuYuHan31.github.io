@@ -78,7 +78,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
     <div class="pub-title">CoMMa: Contribution-Aware Medical Multi-Agents for Decentralized Oncology Decision Support</div>
     <div class="pub-authors">Yichen Wu<sup class="mark-co">*</sup>, Kailong Fan<sup class="mark-co">*</sup>, Sangjoon Park<sup class="mark-co">*</sup>, <strong><u>Yuhan Liu</u></strong>, Zhiyi Shi, Sekeun Kim, Dania Daye, Hana Farzaneh, Xiang Li, Raul Uppot, Yujin Oh, Quanzheng Li</div>
     <div class="pub-venue"><em>Conference on Neural Information Processing Systems</em> (<strong>NeurIPS</strong>), 2026. (<span class="highlight-text">Spotlight</span>, <span class="highlight-text">Top 0.69%</span>)</div>
-    <div class="pub-links">[<a href="https://arxiv.org/abs/2602.09159">Paper</a>]</div>
+    <div class="pub-links">[<a href="https://arxiv.org/abs/2602.09159">📄 Paper</a>]</div>
   </div>
 </div>
 
@@ -88,7 +88,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
     <div class="pub-title">TTCS: Test-Time Curriculum Synthesis for Self-Evolving</div>
     <div class="pub-authors">Chengyi Yang, Zhishang Xiang, Yunbo Tang, Zongpei Teng, Chengsong Huang, Fei Long, <strong>Yuhan Liu<sup>#</sup></strong>, Jinsong Su</div>
     <div class="pub-venue"><em>Conference on Neural Information Processing Systems</em> (<strong>NeurIPS</strong>), 2026.</div>
-    <div class="pub-links">[<a href="https://arxiv.org/abs/2601.22628">Paper</a>] [<a href="https://github.com/XMUDeepLIT/TTCS">Code</a>] [<a href="https://mp.weixin.qq.com/s/Vp4E2-hORs5UQ1v2bpa0Gg">机器之心 (Synced)</a>] [<a href="https://x.com/jiqizhixin/status/2024189925411663977">Twitter</a>]</div>
+    <div class="pub-links">[<a href="https://arxiv.org/abs/2601.22628">📄 Paper</a>] [<a href="https://github.com/XMUDeepLIT/TTCS">💻 Code</a>] [<a href="https://mp.weixin.qq.com/s/Vp4E2-hORs5UQ1v2bpa0Gg">📰 机器之心 (Synced)</a>] [<a href="https://x.com/jiqizhixin/status/2024189925411663977">🐦 Twitter</a>]</div>
   </div>
 </div>
 
@@ -98,7 +98,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
     <div class="pub-title">Forest Before Trees: Latent Superposition for Efficient Visual Reasoning</div>
     <div class="pub-authors">Yubo Wang<sup class="mark-co">*</sup>, Juntian Zhang<sup class="mark-co">*</sup>, Yichen Wu, Yankai Lin, Nils Lukas, <strong>Yuhan Liu<sup>#</sup></strong></div>
     <div class="pub-venue"><em>Annual Meeting of the Association for Computational Linguistics</em> (<strong>ACL</strong>), 2026.</div>
-    <div class="pub-links">[<a href="https://aclanthology.org/2026.acl-long.517/">Paper</a>] [<a href="https://github.com/ybb6/laser">Code</a>] [<a href="https://mp.weixin.qq.com/s/BdisI0FZqLqEwyWnIQhzuQ">机器之心 (Synced)</a>] [<a href="https://x.com/jiqizhixin/status/2055310234227503308">Twitter</a>]</div>
+    <div class="pub-links">[<a href="https://aclanthology.org/2026.acl-long.517/">📄 Paper</a>] [<a href="https://github.com/ybb6/laser">💻 Code</a>] [<a href="https://mp.weixin.qq.com/s/BdisI0FZqLqEwyWnIQhzuQ">📰 机器之心 (Synced)</a>] [<a href="https://x.com/jiqizhixin/status/2055310234227503308">🐦 Twitter</a>]</div>
   </div>
 </div>
 
@@ -108,7 +108,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
     <div class="pub-title">Detecting AI-Generated Video: A Vision-Language Dual-View Survey</div>
     <div class="pub-authors">Dylan Xinming Hou, Juntian Zhang, Xu Gu, Yichen Wu, Nils Lukas, Gus Xia, Xiuying Chen, <strong>Yuhan Liu<sup>#</sup></strong></div>
     <div class="pub-venue"><em>Findings of the Association for Computational Linguistics</em> (<strong>ACL Findings</strong>), 2026.</div>
-    <div class="pub-links">[<a href="https://aclanthology.org/2026.findings-acl.1613/">Paper</a>] [<a href="https://github.com/dxhou/AI-Generated-Video-Detection">GitHub</a>] [<a href="https://aigcvdetection.github.io/">Homepage</a>] [<a href="https://mp.weixin.qq.com/s/4B0QbkCJUJa2koS-rTR0gw">新智元 (AI Era)</a>]</div>
+    <div class="pub-links">[<a href="https://aclanthology.org/2026.findings-acl.1613/">📄 Paper</a>] [<a href="https://github.com/dxhou/AI-Generated-Video-Detection">💻 GitHub</a>] [<a href="https://aigcvdetection.github.io/">🏠 Homepage</a>] [<a href="https://mp.weixin.qq.com/s/4B0QbkCJUJa2koS-rTR0gw">📰 新智元 (AI Era)</a>]</div>
   </div>
 </div>
 
@@ -118,7 +118,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
     <div class="pub-title">From Style to Story: A Curriculum Learning Approach for Imitative Novel Generation</div>
     <div class="pub-authors">Xueran Han, <strong><u>Yuhan Liu</u></strong>, Mingzhe Li, Wei Liu, Sen Hu, Rui Yan, Zhiqiang Xu, Xiuying Chen</div>
     <div class="pub-venue"><em>Findings of the Association for Computational Linguistics</em> (<strong>ACL Findings</strong>), 2026.</div>
-    <div class="pub-links">[<a href="https://aclanthology.org/2026.findings-acl.968/">Paper</a>]</div>
+    <div class="pub-links">[<a href="https://aclanthology.org/2026.findings-acl.968/">📄 Paper</a>]</div>
   </div>
 </div>
 
@@ -128,7 +128,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
     <div class="pub-title">Temporal Contrastive Decoding: A Training-Free Method for Large Audio-Language Models</div>
     <div class="pub-authors">Yanda Li, <strong><u>Yuhan Liu</u></strong>, Zirui Song, Yunchao Wei, Martin Takáč, Salem Lahlou</div>
     <div class="pub-venue"><em>Findings of the Association for Computational Linguistics</em> (<strong>ACL Findings</strong>), 2026.</div>
-    <div class="pub-links">[<a href="https://aclanthology.org/2026.findings-acl.733/">Paper</a>]</div>
+    <div class="pub-links">[<a href="https://aclanthology.org/2026.findings-acl.733/">📄 Paper</a>]</div>
   </div>
 </div>
 
@@ -138,7 +138,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
     <div class="pub-title">Divide-Fuse-Conquer: A Progressive Reinforcement Learning Strategy for Stabilizing LLMs across Diverse Games</div>
     <div class="pub-authors">Xiaoqing Zhang, Ang Lv, <strong><u>Yuhan Liu</u></strong>, Zirui Song, Xiuying Chen, Rui Yan, Flood Sung</div>
     <div class="pub-venue"><em>Findings of the Association for Computational Linguistics</em> (<strong>ACL Findings</strong>), 2026.</div>
-    <div class="pub-links">[<a href="https://arxiv.org/abs/2505.16401">Paper</a>]</div>
+    <div class="pub-links">[<a href="https://arxiv.org/abs/2505.16401">📄 Paper</a>]</div>
   </div>
 </div>
 
@@ -148,7 +148,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
     <div class="pub-title">GlossaGen: Making Academic Translation Smarter with Glossing</div>
     <div class="pub-authors">Zixiao Wang, Duzhen Zhang, Juntian Zhang, <strong><u>Yuhan Liu</u></strong>, Guoming Li, Haolun Wu, Le Song, Xiuying Chen</div>
     <div class="pub-venue"><em>Findings of the Association for Computational Linguistics</em> (<strong>ACL Findings</strong>), 2026.</div>
-    <div class="pub-links">[<a href="https://aclanthology.org/2026.findings-acl.952/">Paper</a>]</div>
+    <div class="pub-links">[<a href="https://aclanthology.org/2026.findings-acl.952/">📄 Paper</a>]</div>
   </div>
 </div>
 
@@ -158,7 +158,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
     <div class="pub-title">ViPER: Empowering the Self-Evolution of Visual Perception Abilities in Vision-Language Models</div>
     <div class="pub-authors">Juntian Zhang, Song Jin, Chuanqi Cheng, <strong><u>Yuhan Liu</u></strong>, Yankai Lin, Xun Zhang, Yufei Zhang, Fei Jiang, Guojun Yin, Wei Lin, Rui Yan</div>
     <div class="pub-venue"><em>International Conference on Learning Representations</em> (<strong>ICLR</strong>), 2026.</div>
-    <div class="pub-links">[<a href="https://openreview.net/forum?id=uxea0QCT0e">Paper</a>] [<a href="https://github.com/Icarus1216/ViPER">Code</a>]</div>
+    <div class="pub-links">[<a href="https://openreview.net/forum?id=uxea0QCT0e">📄 Paper</a>] [<a href="https://github.com/Icarus1216/ViPER">💻 Code</a>]</div>
   </div>
 </div>
 
@@ -168,7 +168,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
     <div class="pub-title">The Stepwise Deception: Simulating the Evolution from True News to Fake News with LLM Agents</div>
     <div class="pub-authors"><strong>Yuhan Liu</strong>, Zirui Song, Juntian Zhang, Xiaoqing Zhang, Xiuying Chen, Rui Yan</div>
     <div class="pub-venue"><em>Conference on Empirical Methods in Natural Language Processing</em> (<strong>EMNLP</strong>), 2025. (<span class="highlight-text">Oral</span>)</div>
-    <div class="pub-links">[<a href="https://aclanthology.org/2025.emnlp-main.1330/">Paper</a>] [<a href="https://github.com/LiuYuHan31/FUSE">Code</a>]</div>
+    <div class="pub-links">[<a href="https://aclanthology.org/2025.emnlp-main.1330/">📄 Paper</a>] [<a href="https://github.com/LiuYuHan31/FUSE">💻 Code</a>]</div>
   </div>
 </div>
 
@@ -178,7 +178,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
     <div class="pub-title">The Truth Becomes Clearer Through Debate! Multi-Agent Systems with Large Language Models Unmask Fake News</div>
     <div class="pub-authors"><strong>Yuhan Liu</strong>, Yuxuan Liu, Xiaoqing Zhang, Xiuying Chen, Rui Yan</div>
     <div class="pub-venue"><em>International ACM SIGIR Conference on Research and Development in Information Retrieval</em> (<strong>SIGIR</strong>), 2025. (<span class="highlight-text">Oral</span>)</div>
-    <div class="pub-links">[<a href="https://arxiv.org/abs/2505.08532">Paper</a>]</div>
+    <div class="pub-links">[<a href="https://arxiv.org/abs/2505.08532">📄 Paper</a>]</div>
   </div>
 </div>
 
@@ -188,7 +188,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
     <div class="pub-title">Injecting Domain-Specific Knowledge into Large Language Models: A Comprehensive Survey</div>
     <div class="pub-authors">Zirui Song<sup class="mark-co">*</sup>, Bin Yan<sup class="mark-co">*</sup>, <strong><u>Yuhan Liu</u></strong>, Miao Fang, Mingzhe Li, Rui Yan, Xiuying Chen</div>
     <div class="pub-venue"><em>Conference on Empirical Methods in Natural Language Processing</em> (<strong>EMNLP</strong>), 2025.</div>
-    <div class="pub-links">[<a href="https://arxiv.org/abs/2502.10708">Paper</a>] [<a href="https://github.com/abilliyb/Knowledge_Injection_Survey_Papers">GitHub</a>]</div>
+    <div class="pub-links">[<a href="https://arxiv.org/abs/2502.10708">📄 Paper</a>] [<a href="https://github.com/abilliyb/Knowledge_Injection_Survey_Papers">💻 GitHub</a>]</div>
   </div>
 </div>
 
@@ -198,7 +198,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
     <div class="pub-title">Beyond Static Testbeds: An Interaction-Centric Agent Simulation Platform for Dynamic Recommender Systems</div>
     <div class="pub-authors">Song Jin<sup class="mark-co">*</sup>, Juntian Zhang<sup class="mark-co">*</sup>, <strong>Yuhan Liu<sup>#</sup></strong>, Xun Zhang, Yufei Zhang, Guojun Yin, Fei Jiang, Wei Lin, Rui Yan</div>
     <div class="pub-venue"><em>Conference on Empirical Methods in Natural Language Processing</em> (<strong>EMNLP</strong>), 2025.</div>
-    <div class="pub-links">[<a href="https://arxiv.org/abs/2505.16429">Paper</a>] [<a href="https://github.com/jinsong8/RecInter">Code</a>]</div>
+    <div class="pub-links">[<a href="https://arxiv.org/abs/2505.16429">📄 Paper</a>] [<a href="https://github.com/jinsong8/RecInter">💻 Code</a>]</div>
   </div>
 </div>
 
@@ -208,7 +208,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
     <div class="pub-title">Weaving Context Across Images: Improving Vision-Language Models through Focus-Centric Visual Chains</div>
     <div class="pub-authors">Juntian Zhang, Chuanqi Cheng, <strong>Yuhan Liu<sup>#</sup></strong>, Wei Liu, Jian Luan, Rui Yan</div>
     <div class="pub-venue"><em>Annual Meeting of the Association for Computational Linguistics</em> (<strong>ACL</strong>), 2025.</div>
-    <div class="pub-links">[<a href="https://arxiv.org/abs/2504.20199">Paper</a>]</div>
+    <div class="pub-links">[<a href="https://arxiv.org/abs/2504.20199">📄 Paper</a>]</div>
   </div>
 </div>
 
@@ -218,7 +218,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
     <div class="pub-title">Thinking Before Running! Efficient Code Generation with Thorough Exploration and Optimal Refinement</div>
     <div class="pub-authors">Xiaoqing Zhang, <strong>Yuhan Liu<sup>#</sup></strong>, Flood Sung, Xiuying Chen, Rui Yan</div>
     <div class="pub-venue"><em>Findings of the Association for Computational Linguistics</em> (<strong>ACL Findings</strong>), 2025.</div>
-    <div class="pub-links">[<a href="https://aclanthology.org/2025.findings-acl.1195.pdf">Paper</a>] [<a href="https://github.com/xiaoqzhwhu/ThinkCoder">Code</a>]</div>
+    <div class="pub-links">[<a href="https://aclanthology.org/2025.findings-acl.1195.pdf">📄 Paper</a>] [<a href="https://github.com/xiaoqzhwhu/ThinkCoder">💻 Code</a>]</div>
   </div>
 </div>
 
@@ -228,7 +228,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
     <div class="pub-title">More is not always better? Enhancing Many-Shot In-Context Learning with Differentiated and Reweighting Objectives</div>
     <div class="pub-authors">Xiaoqing Zhang, Ang Lv, <strong><u>Yuhan Liu</u></strong>, Xiuying Chen, Rui Yan</div>
     <div class="pub-venue"><em>Annual Meeting of the Association for Computational Linguistics</em> (<strong>ACL</strong>), 2025.</div>
-    <div class="pub-links">[<a href="https://aclanthology.org/2025.acl-long.1475/">Paper</a>] [<a href="https://github.com/xiaoqzhwhu/DrICL">Code</a>]</div>
+    <div class="pub-links">[<a href="https://aclanthology.org/2025.acl-long.1475/">📄 Paper</a>] [<a href="https://github.com/xiaoqzhwhu/DrICL">💻 Code</a>]</div>
   </div>
 </div>
 
@@ -238,7 +238,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
     <div class="pub-title">SAGraph: A Large-Scale Social Graph Dataset with Comprehensive Context for Influencer Selection in Marketing</div>
     <div class="pub-authors">Xiaoqing Zhang, <strong><u>Yuhan Liu</u></strong>, Jianzhou Wang, Zhenxing Hu, Xiuying Chen, Rui Yan</div>
     <div class="pub-venue"><em>International ACM SIGIR Conference on Research and Development in Information Retrieval</em> (<strong>SIGIR</strong>), 2025. (<span class="highlight-text">Oral</span>)</div>
-    <div class="pub-links">[<a href="https://dl.acm.org/doi/10.1145/3726302.3730334">Paper</a>] [<a href="https://github.com/xiaoqzhwhu/SAGraph">Code</a>]</div>
+    <div class="pub-links">[<a href="https://dl.acm.org/doi/10.1145/3726302.3730334">📄 Paper</a>] [<a href="https://github.com/xiaoqzhwhu/SAGraph">💻 Code</a>]</div>
   </div>
 </div>
 
@@ -248,7 +248,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
     <div class="pub-title">SoAgent: A Real-world Data Empowered Agent Pool to Facilitate LLM-Driven Generative Social Simulation</div>
     <div class="pub-authors">Na Ta, Kaiyu Li, Yushu Zhou, <strong><u>Yuhan Liu</u></strong></div>
     <div class="pub-venue"><em>VLDB Workshop on Data-driven AI</em> (<strong>VLDB DATAI</strong>), 2025.</div>
-    <div class="pub-links">[<a href="https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/DATAI/DATAI25_9.pdf">Paper</a>] [<a href="https://osf.io/nwcmu/?view_only=14b04a52f28141dca07de16bd354e9e4">Code</a>]</div>
+    <div class="pub-links">[<a href="https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/DATAI/DATAI25_9.pdf">📄 Paper</a>] [<a href="https://osf.io/nwcmu/?view_only=14b04a52f28141dca07de16bd354e9e4">💻 Code</a>]</div>
   </div>
 </div>
 
@@ -258,7 +258,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
     <div class="pub-title">From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News</div>
     <div class="pub-authors"><strong>Yuhan Liu</strong>, Xiuying Chen, Xiaoqing Zhang, Xing Gao, Ji Zhang, Rui Yan</div>
     <div class="pub-venue"><em>International Joint Conference on Artificial Intelligence</em> (<strong>IJCAI</strong>), 2024.<br>(<span class="highlight-text">Oral</span>, Human-Centred AI Track, <span class="highlight-text">4% acceptance rate</span>)</div>
-    <div class="pub-links">[<a href="https://arxiv.org/abs/2403.09498">Paper</a>] [<a href="https://github.com/LiuYuHan31/FPS">Code</a>]</div>
+    <div class="pub-links">[<a href="https://arxiv.org/abs/2403.09498">📄 Paper</a>] [<a href="https://github.com/LiuYuHan31/FPS">💻 Code</a>]</div>
   </div>
 </div>
 
@@ -268,7 +268,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
     <div class="pub-title">IAD: In-Context Learning Ability Decoupler of Large Language Models in Meta-Training</div>
     <div class="pub-authors"><strong>Yuhan Liu</strong>, Xiuying Chen, Xing Gao, Ji Zhang, Rui Yan</div>
     <div class="pub-venue"><em>International Conference on Computational Linguistics</em> (<strong>COLING</strong>), 2024.</div>
-    <div class="pub-links">[<a href="https://aclanthology.org/2024.lrec-main.749/">Paper</a>]</div>
+    <div class="pub-links">[<a href="https://aclanthology.org/2024.lrec-main.749/">📄 Paper</a>]</div>
   </div>
 </div>
 
@@ -278,7 +278,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
     <div class="pub-title">Bridging the Space Gap: Unifying Geometry Knowledge Graph Embedding with Optimal Transport</div>
     <div class="pub-authors"><strong>Yuhan Liu</strong>, Zelin Cao, Xing Gao, Ji Zhang, Rui Yan</div>
     <div class="pub-venue"><em>The ACM Web Conference</em> (<strong>WWW</strong>), 2024.</div>
-    <div class="pub-links">[<a href="https://doi.org/10.1145/3589334.3645565">Paper</a>]</div>
+    <div class="pub-links">[<a href="https://doi.org/10.1145/3589334.3645565">📄 Paper</a>]</div>
   </div>
 </div>
 
@@ -288,7 +288,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
     <div class="pub-title">Unleashing the power of large models: Exploring human-machine conversations</div>
     <div class="pub-authors"><strong>Yuhan Liu</strong>, Xiuying Chen, Rui Yan</div>
     <div class="pub-venue"><em>China National Conference on Computational Linguistics</em> (<strong>CCL</strong>), 2023. (<span class="highlight-text">Oral</span>)</div>
-    <div class="pub-links">[<a href="https://aclanthology.org/2023.ccl-2.2/">Paper</a>]</div>
+    <div class="pub-links">[<a href="https://aclanthology.org/2023.ccl-2.2/">📄 Paper</a>]</div>
   </div>
 </div>
 
@@ -298,7 +298,7 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
     <div class="pub-title">A large-scale time-aware agents simulation for influencer selection in digital advertising campaigns</div>
     <div class="pub-authors">Xiaoqing Zhang, <strong><u>Yuhan Liu</u></strong>, Jianzhou Wang, Zhenxing Hu, Xiuying Chen, Rui Yan</div>
     <div class="pub-venue"><em>arXiv preprint</em>, 2024.</div>
-    <div class="pub-links">[<a href="https://arxiv.org/abs/2411.01143">Paper</a>]</div>
+    <div class="pub-links">[<a href="https://arxiv.org/abs/2411.01143">📄 Paper</a>]</div>
   </div>
 </div>
 
