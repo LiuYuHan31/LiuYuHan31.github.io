@@ -22,7 +22,7 @@ redirect_from:
 </div>
 
 <div class="highlight-box">
-<strong>I am on the job market, actively seeking faculty and postdoc positions.</strong> Feel free to reach out at <a href="mailto:liuyuhaning@gmail.com">liuyuhaning@gmail.com</a>.
+<strong>I am on the job market, actively seeking faculty positions.</strong> Feel free to reach out at <a href="mailto:liuyuhaning@gmail.com">liuyuhaning@gmail.com</a>.
 </div>
 
 ## ❤️ Research Interests
@@ -330,14 +330,15 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
 - **2025.04** &mdash; Large Language Model-Based Multi-Agent System for Fake News, School of Journalism and Communication, Renmin University of China
 - **2024.08** &mdash; From Skepticism to Acceptance: Simulating the Attitude Dynamics Toward Fake News, Microsoft Research Asia
 
-## 🎓 Collaborative Students
+## 🎓 Mentoring Students
 {: #students}
 
-- **Yubo Wang** (M.S. @ Fudan University), **Dylan Xinming Hou** (M.S. @ MBZUAI)
-- **Abdalla Alzaabi** (M.S. @ MBZUAI), **Yifei Zhao** (M.S. @ Tsinghua University)
-
-- **Chengyi Yang**, **Meiman Xiao**, **Jue Hou** (M.S. @ Xiamen University)
-- **Weixin Chen**, **Zongpei Teng**, **Peien Ding** (B.S. @ Xiamen University)
+- **Yubo Wang** (M.S. @ Fudan University) &mdash; [Forest Before Trees](https://aclanthology.org/2026.acl-long.517/) (ACL 2026)
+- **Dylan Xinming Hou** (M.S. @ MBZUAI) &mdash; [Detecting AI-Generated Video](https://aclanthology.org/2026.findings-acl.1613/) (ACL Findings 2026)
+- **Abdalla Alzaabi** (M.S. @ MBZUAI) &mdash; Weak-to-Strong Verification in the Internet of Agents (Master's Thesis)
+- **Chengyi Yang** (M.S. @ Xiamen University) &mdash; [TTCS](https://arxiv.org/abs/2601.22628) (NeurIPS 2026)
+- **Zongpei Teng** (B.S. @ Xiamen University) &mdash; [TTCS](https://arxiv.org/abs/2601.22628) (NeurIPS 2026)
+- **Peien Ding** (B.S. @ Xiamen University) &mdash; [LAMB](https://arxiv.org/abs/2610.26955) (Under Review)
 
 ## 💻 Experience
 {: #experience}
