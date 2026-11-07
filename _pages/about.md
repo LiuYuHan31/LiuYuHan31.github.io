@@ -36,7 +36,7 @@ redirect_from:
     <ul>
       <li>Misinformation dynamics: <a href="https://arxiv.org/abs/2403.09498">FPS</a> for attitude evolution, <a href="https://aclanthology.org/2025.emnlp-main.1330/">FUSE</a> for stepwise news distortion, <a href="https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/DATAI/DATAI25_9.pdf">SoAgent</a> for conspiracy diffusion.</li>
       <li>Platform and market dynamics: <a href="https://arxiv.org/abs/2505.16429">RecInter</a> for recommender simulation, <a href="https://arxiv.org/abs/2411.01143">TIS</a> and <a href="https://dl.acm.org/doi/10.1145/3726302.3730334">SAGraph</a> for influencer simulation.</li>
-      <li>Community: tutorial on Misinformation and LLM Agents (AAAI 2027), SciAgentVerse workshop (WSDM 2027).</li>
+      <li>Community: <a href="https://liuyuhan31.github.io/MisinformationAgent/">Tutorial on Misinformation and LLM Agents</a> (AAAI 2027), <a href="https://sciagentverse.github.io">SciAgentVerse workshop</a> (WSDM 2027).</li>
     </ul>
   </details>
   <details>
@@ -66,6 +66,8 @@ redirect_from:
     </ul>
   </details>
 </div>
+
+<p class="research-contact"><i class="fas fa-envelope" aria-hidden="true"></i> Prospective collaborators: If you’re interested in my research interests and would like to collaborate, feel free to <a href="mailto:liuyuhaning@gmail.com">contact me</a>.</p>
 
 ## 🔥 News
 {: #news}
