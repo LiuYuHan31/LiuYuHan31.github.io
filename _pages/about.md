@@ -333,7 +333,8 @@ My research focuses on **Trustworthy Multimodal and Agentic AI for Open Informat
 ## 🎓 Mentoring Students
 {: #students}
 
-- **Yubo Wang** (M.S. @ Fudan University) &mdash; [Forest Before Trees](https://aclanthology.org/2026.acl-long.517/) (ACL 2026)
+- **Dawei Gao** (Ph.D. @ University of North Texas) &mdash; SAGE (Under Review)
+- **Yubo Wang** (M.S. @ Fudan University) &mdash; [Forest Before Trees](https://aclanthology.org/2026.acl-long.517/) (ACL 2026 Main Conference)
 - **Dylan Xinming Hou** (M.S. @ MBZUAI) &mdash; [Detecting AI-Generated Video](https://aclanthology.org/2026.findings-acl.1613/) (ACL Findings 2026)
 - **Abdalla Alzaabi** (M.S. @ MBZUAI) &mdash; Weak-to-Strong Verification in the Internet of Agents (Master's Thesis)
 - **Chengyi Yang** (M.S. @ Xiamen University) &mdash; [TTCS](https://arxiv.org/abs/2601.22628) (NeurIPS 2026)
