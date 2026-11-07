@@ -307,6 +307,70 @@ $layout-gap: 50px;
   font-weight: 600;
 }
 
+/* ---- Research Interests ---- */
+/* Same type as the bio paragraph so the two read as one introduction */
+.page__content .research-intro {
+  font-size: 0.95em;
+  line-height: 1.8;
+  color: #4b4b4b;
+  margin: 0 0 1.1em 0;
+
+  strong {
+    color: #2c2c2c;
+  }
+}
+
+/* Collapsible research areas (native <details>, closed by default) */
+.research-areas {
+  margin: 0 0 1.5em 0;
+  font-size: 0.9em;
+  line-height: 1.6;
+  color: #4b4b4b;
+
+  details {
+    margin-bottom: 0.9em;
+  }
+
+  summary {
+    cursor: pointer;
+    color: #6b6b6b;
+
+    &:focus {
+      outline: none;
+    }
+
+    &:focus-visible {
+      outline: 2px solid #c9c3f3;
+      outline-offset: 2px;
+      border-radius: 3px;
+    }
+  }
+
+  .area-title {
+    color: #2c2c2c;
+    font-weight: 500;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0.35em 0 0 0;
+    padding: 0;
+  }
+}
+
+/* "- " prefix like plain-text bullets; wrapped lines hang under the text */
+.page__content .research-areas li {
+  font-size: 1em;
+  line-height: 1.6;
+  margin: 0 0 0.2em 0;
+  padding-left: 0.75em;
+  text-indent: -0.75em;
+
+  &::before {
+    content: "- ";
+  }
+}
+
 /* ---- Publications ---- */
 .pub-note {
   font-size: 0.9em;
