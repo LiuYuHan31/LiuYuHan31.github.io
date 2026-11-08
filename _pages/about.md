@@ -67,7 +67,7 @@ redirect_from:
   </details>
 </div>
 
-<p class="research-contact"><i class="fas fa-envelope" aria-hidden="true"></i> Prospective collaborators: If you’re interested in my research interests and would like to collaborate, feel free to <a href="mailto:liuyuhaning@gmail.com">contact me</a>.</p>
+<p class="research-contact"><i class="fas fa-envelope" aria-hidden="true"></i> Prospective collaborators: If you’re interested in my research interests and would like to collaborate, feel free to <a href="mailto:yuhan.liu@mbzuai.ac.ae">contact me</a>.</p>
 
 ## 🔥 News
 {: #news}
